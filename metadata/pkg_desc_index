@@ -1,8 +1,8 @@
 dde-base/dde-account-faces 1.0.10: Deepin Account face Images
 dde-base/dde-api 3.0.15 3.0.16: Go-lang bingdings for dde-daemon
-dde-base/dde-control-center 3.0.24: Control Center of Deepin Desktop Environment
+dde-base/dde-control-center 3.0.24 4.0.0: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 3.0.24 3.0.25: Daemon handling the DDE session settings
-dde-base/dde-desktop 4.0.0: Deepin desktop environment - Desktop module
+dde-base/dde-desktop 4.0.0 4.0.1: Deepin desktop environment - Desktop module
 dde-base/dde-dock 4.0.6: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 1.3.6: Deepin File Manager
 dde-base/dde-launcher 4.0.3 4.0.4: Deepin desktop environment - Launcher module
@@ -28,6 +28,12 @@ dev-go/dde-go-essential 20151213: Essential go sources for DDE
 dev-go/deepin-go-lib 0.5.2 0.5.3: Deepin GoLang Library
 dev-go/go-dbus-generator 0.6.5: Convert dbus interfaces to go-lang or qml wrapper code
 dev-go/go-gir-generator 0.9.6: Generate static golang bindings for GObject
+dev-python/deepin-gettext-tools 0.0.1.20141216200739: Deepin Internationalization utilities
+dev-python/deepin-gsettings 0.1.20130318115600 0.1.20131206094009: Deepin gsettings Python Bindings
+dev-python/deepin-utils 0.0.1.20130502093354 0.0.2.20140703165416: Utils of DeepinUI Toolkit modules
+dev-python/deepin-xrandr 0.1.20130417113459: Deepin XRandR Python Bindings
+dev-python/pypulseaudio 0.0.1.20131206101748: PulseAudio Python Binding for deepin-system-settings
+dev-python/xpybutil 0.0: xcb-util for xpyb
 media-gfx/deepin-screenshot 2.0.20130618155753 3.0.20150427130200 9999: Snapshot tools for linux deepin.
 media-libs/cogl 1.22.3: A library for using 3D graphics hardware to draw pretty pictures
 media-plugins/python-mmkeys 1.6.2.1: Multimedia key support as a PyGTK object

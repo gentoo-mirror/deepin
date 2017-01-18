@@ -2,4 +2,4 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-media-sound/deepin-music-player:hotkey - Enable global hotkey via media-plugins/python-mmkeys
+media-sound/deepin-music:hotkey - Enable global hotkey via media-plugins/python-mmkeys

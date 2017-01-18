@@ -42,12 +42,14 @@ dev-python/dae 1.0.2: Deepin App Engine
 dev-python/deepin-gsettings 0.1.20130318115600 0.1.20131206094009: Deepin gsettings Python Bindings
 dev-python/deepin-utils 0.0.1.20130502093354 0.0.2.20140703165416: Utils of DeepinUI Toolkit modules
 dev-python/jieba 0.36 0.38: Chinese text segmentation: built to be the best Python Chinese word segmentation module.
+dev-python/python-ass 9999: A library for parsing and manipulating Advanced SubStation Alpha subtitle files.
 dev-python/xpybutil 0.0: xcb-util for xpyb
 media-gfx/deepin-screenshot 2.1.0 3.1.10 9999: Snapshot tools for linux deepin.
 media-libs/cogl 1.22.3: A library for using 3D graphics hardware to draw pretty pictures
 media-plugins/python-mmkeys 1.6.2.1: Multimedia key support as a PyGTK object
-media-sound/deepin-music-player 1.0.20130614104136 1.1.20150413165956: Deepin Music Player.
-media-video/deepin-media-player 1.20130625110339: Deepin Media Player.
+media-sound/deepin-music 2.3.2: Deepin Music Player.
+media-video/QtAV 1.11.0: A cross-platform multimedia framework based on Qt and FFmpeg.
+media-video/deepin-movie 2.2.11: QML Movie Player based on QtAV
 x11-apps/xcur2png 0.7.1: Convert X cursors to PNG images
 x11-libs/bamf 0.2.118: BAMF Application Matching Framework
 x11-libs/deepin-ui 1.0.20130618094833 1.1.20141229194712: UI toolkit for Linux Deepin.

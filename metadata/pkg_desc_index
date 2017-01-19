@@ -1,6 +1,6 @@
 dde-base/dde-account-faces 1.0.10: Deepin Account face Images
 dde-base/dde-api 3.0.15 3.0.16.1: Go-lang bingdings for dde-daemon
-dde-base/dde-control-center 3.0.24 4.0.1: Control Center of Deepin Desktop Environment
+dde-base/dde-control-center 3.0.24 4.0.2: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 3.0.24 3.0.25.2: Daemon handling the DDE session settings
 dde-base/dde-desktop 3.0.15 4.0.0 4.0.1: Deepin desktop environment - Desktop module
 dde-base/dde-dock 4.0.6 4.0.8: Deepin desktop environment - Dock module

@@ -26,7 +26,7 @@ dde-base/startdde 3.0.13 3.0.14.1: starter of Deepin Desktop Environment
 dde-extra/dde-calendar 1.0.3: Calendar for Deepin Desktop Environment
 dde-extra/dde-meta-multimedia 0.1: Deepin Multimedia Softwares (meta package)
 dde-extra/deepin-gettext-tools 1.0.4: Deepin Internationalization utilities
-dde-extra/deepin-image-viewer 1.2.0: Deepin Image Viewer
+dde-extra/deepin-image-viewer 1.2.1: Deepin Image Viewer
 dde-extra/deepin-manual 1.0.6: Deepin User Manual
 dde-extra/deepin-qml-widgets 2.3.4: Deepin QML widgets and dbus factory
 dde-extra/deepin-shortcut-viewer 1.0.2: Deepin shortcut Viewer

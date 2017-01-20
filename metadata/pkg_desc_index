@@ -1,22 +1,23 @@
 dde-base/dde-account-faces 1.0.10: Deepin Account face Images
 dde-base/dde-api 3.0.15 3.0.16.1: Go-lang bingdings for dde-daemon
-dde-base/dde-control-center 3.0.24 4.0.2-r1: Control Center of Deepin Desktop Environment
+dde-base/dde-control-center 3.0.24 4.0.2-r2: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 3.0.24 3.0.25.2: Daemon handling the DDE session settings
-dde-base/dde-desktop 3.0.15 4.0.0 4.0.1: Deepin desktop environment - Desktop module
-dde-base/dde-dock 4.0.6 4.0.8: Deepin desktop environment - Dock module
-dde-base/dde-file-manager 1.3.6 1.3.7: Deepin File Manager
-dde-base/dde-launcher 4.0.3 4.0.4: Deepin desktop environment - Launcher module
-dde-base/dde-meta 15.3 15.4: Deepin Desktop Enviroment (meta package)
+dde-base/dde-desktop 3.0.15 4.0.1-r1: Deepin desktop environment - Desktop module
+dde-base/dde-dock 4.0.8-r1: Deepin desktop environment - Dock module
+dde-base/dde-file-manager 1.3.7: Deepin File Manager
+dde-base/dde-launcher 4.0.4: Deepin desktop environment - Launcher module
+dde-base/dde-meta 15.3-r1 15.4-r1: Deepin Desktop Enviroment (meta package)
 dde-base/dde-qt-dbus-factory 0.0.1 0.0.3: A repository stores auto-generated Qt5 dbus code used by DDE
-dde-base/dde-session-ui 3.0.22 3.0.23: Deepin desktop environment - Session UI module
+dde-base/dde-qt5integration 0.0.6: DDE system integration plugin for Qt5
+dde-base/dde-session-ui 3.0.23: Deepin desktop environment - Session UI module
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
 dde-base/deepin-desktop-base 2016.11.29: Base components for Deepin Desktop
 dde-base/deepin-desktop-schemas 3.0.12 3.0.13: GSettings deepin desktop-wide schemas
 dde-base/deepin-file-manager-backend 0.1.16: Deepin file manager backend
 dde-base/deepin-gtk-theme 15.12.8: Deepin GTK Theme
 dde-base/deepin-icon-theme 15.12.32: Deepin Icons
-dde-base/deepin-menu 3.0.6 3.0.7: Deepin menu service for building beautiful menus
-dde-base/deepin-notifications 2.3.8 2.3.10: System notifications for Deepin Desktop Environment
+dde-base/deepin-menu 3.0.7: Deepin menu service for building beautiful menus
+dde-base/deepin-notifications 2.3.10: System notifications for Deepin Desktop Environment
 dde-base/deepin-sound-theme 15.10.1: Deepin Sound themes
 dde-base/deepin-tool-kit 0.2.0 0.2.1: Base development tool of all C++/Qt Developer work on Deepin
 dde-base/deepin-wallpapers 1.3: Deepin Wallpapers
@@ -57,5 +58,5 @@ x11-libs/gsettings-qt 0.1_p20160329_p0_p02: Qml bindings for GSettings.
 x11-misc/plank 0.11.3: Dock panel famious docky
 x11-themes/flattr-icons 9999: an icon theme inspired by the latest flat design trend
 x11-wm/deepin-metacity 3.20.6 3.22.0: Legacy window manager for Deepin
-x11-wm/deepin-mutter 3.20.6 3.20.7: Deepin fork version of mutter
+x11-wm/deepin-mutter 3.20.8: Deepin fork version of mutter
 x11-wm/deepin-wm 1.2 1.9.2: Deepin Window Manager

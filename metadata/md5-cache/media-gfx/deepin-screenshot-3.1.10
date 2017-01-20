@@ -11,4 +11,4 @@ SLOT=3
 SRC_URI=https://github.com/linuxdeepin/deepin-screenshot/archive/3.1.10.tar.gz -> deepin-screenshot-3.1.10.tar.gz
 _eclass_exported_funcs=src_prepare:-
 _eclasses_=eutils	017377e73405d964cd0137088cddb9c3	fdo-mime	92d07846ea8ea54172f8c0112a47ae3d	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
-_md5_=a2f16fee67ab48bce0ee472439fccc9f
+_md5_=582ad3576e97cc03d4e8a19d6c015be2

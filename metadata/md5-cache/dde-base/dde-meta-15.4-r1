@@ -7,4 +7,4 @@ LICENSE=metapackage
 RDEPEND=>=dde-base/dde-control-center-4.0.0 dde-base/startdde dde-base/dde-file-manager >=dde-base/dde-desktop-4.0.0 dde-base/dde-launcher dde-base/dde-dock dde-base/deepin-desktop-base dde-base/dde-session-ui dde-base/deepin-notifications >=x11-wm/deepin-wm-1.9.0
 SLOT=0
 _eclass_exported_funcs=-
-_md5_=8dbd5f801d6aa5da6eb3db4643940101
+_md5_=301911cd4095b0f75a22499dfc8595af

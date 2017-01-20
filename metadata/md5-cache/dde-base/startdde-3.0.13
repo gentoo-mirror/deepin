@@ -9,4 +9,4 @@ RDEPEND=dde-base/dde-daemon dde-base/deepin-wm-switcher
 SLOT=0
 SRC_URI=https://github.com/linuxdeepin/startdde/archive/3.0.13.tar.gz -> startdde-3.0.13.tar.gz
 _eclass_exported_funcs=src_prepare:- src_install:-
-_md5_=c0baf6689351c5a2fc464d22481fdf4e
+_md5_=a4d0c498a94c290015da78b9aab47608

@@ -8,4 +8,4 @@ LICENSE=GPL-3+
 SLOT=0
 SRC_URI=https://github.com/linuxdeepin/deepin-desktop-base/archive/2016.11.29.tar.gz -> deepin-desktop-base-2016.11.29.tar.gz
 _eclass_exported_funcs=src_install:-
-_md5_=a83564908d63871ada594a60934976ea
+_md5_=a70787f14aeeed38eb3d22544b067485

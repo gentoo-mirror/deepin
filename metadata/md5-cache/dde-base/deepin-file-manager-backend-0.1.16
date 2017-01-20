@@ -9,4 +9,4 @@ RDEPEND=x11-wm/deepin-metacity media-libs/libcanberra app-text/poppler
 SLOT=0
 SRC_URI=https://github.com/linuxdeepin/deepin-file-manager-backend/archive/0.1.16.tar.gz -> deepin-file-manager-backend-0.1.16.tar.gz
 _eclass_exported_funcs=src_prepare:-
-_md5_=59e95881fde1ddf8c648d1e3085683f0
+_md5_=cb4f7663b08bf563b2c98d42cc77774b

@@ -8,4 +8,4 @@ LICENSE=GPL-3+
 SLOT=0
 SRC_URI=https://github.com/linuxdeepin/deepin-desktop-schemas/archive/3.0.13.tar.gz -> deepin-desktop-schemas-3.0.13.tar.gz
 _eclass_exported_funcs=-
-_md5_=14ea8ab6165941d656b323d780eda6ea
+_md5_=7f27a8b54af6f63dfe56dac7e970ab04

@@ -31,7 +31,7 @@ dde-extra/deepin-manual 1.0.6: Deepin User Manual
 dde-extra/deepin-qml-widgets 2.3.4: Deepin QML widgets and dbus factory
 dde-extra/deepin-shortcut-viewer 1.0.2: Deepin shortcut Viewer
 dde-extra/deepin-social-sharing 1.1.4: Deepin Social Sharing Service
-dde-extra/deepin-terminal 2.1.11: Deepin Terminal
+dde-extra/deepin-terminal 2.1.12: Deepin Terminal
 dev-go/dbus-factory 3.0.7 3.0.9: Dbus library binding for golang
 dev-go/dde-go-essential 20151213: Essential go sources for DDE
 dev-go/deepin-go-lib 0.5.2 0.5.3: Deepin GoLang Library
@@ -45,6 +45,8 @@ dev-python/deepin-utils 0.0.1.20130502093354 0.0.2.20140703165416: Utils of Deep
 dev-python/jieba 0.36 0.38: Chinese text segmentation: built to be the best Python Chinese word segmentation module.
 dev-python/python-ass 9999: A library for parsing and manipulating Advanced SubStation Alpha subtitle files.
 dev-python/xpybutil 0.0: xcb-util for xpyb
+media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
+media-gfx/deepin-recorder 9999: Deepin Screencasting Application
 media-gfx/deepin-screenshot 2.1.0 3.1.10 9999: Snapshot tools for linux deepin.
 media-libs/cogl 1.22.3: A library for using 3D graphics hardware to draw pretty pictures
 media-plugins/python-mmkeys 1.6.2.1: Multimedia key support as a PyGTK object

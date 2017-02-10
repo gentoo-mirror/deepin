@@ -6,7 +6,8 @@ dde-base/dde-desktop 3.0.15 4.0.1-r1: Deepin desktop environment - Desktop modul
 dde-base/dde-dock 4.0.8-r1: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 1.3.8: Deepin File Manager
 dde-base/dde-launcher 4.0.4: Deepin desktop environment - Launcher module
-dde-base/dde-meta 15.3-r1 15.4-r1: Deepin Desktop Enviroment (meta package)
+dde-base/dde-meta 15.3-r1 15.4-r2: Deepin Desktop Enviroment (meta package)
+dde-base/dde-polkit-agent 0.0.2: PolicyKit agent for DDE
 dde-base/dde-qt-dbus-factory 0.0.1 0.0.3: A repository stores auto-generated Qt5 dbus code used by DDE
 dde-base/dde-qt5integration 0.0.6: DDE system integration plugin for Qt5
 dde-base/dde-session-ui 3.0.23: Deepin desktop environment - Session UI module

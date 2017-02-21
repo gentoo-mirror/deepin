@@ -1,15 +1,15 @@
 dde-base/dde-account-faces 1.0.10: Deepin Account face Images
 dde-base/dde-api 3.0.15 3.1.0: Go-lang bingdings for dde-daemon
-dde-base/dde-control-center 3.0.24 4.0.2-r2: Control Center of Deepin Desktop Environment
+dde-base/dde-control-center 3.0.24 4.0.3: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 3.0.24 3.1.0: Daemon handling the DDE session settings
-dde-base/dde-desktop 3.0.15 4.0.1-r1: Deepin desktop environment - Desktop module
-dde-base/dde-dock 4.0.8-r1 4.1.0: Deepin desktop environment - Dock module
+dde-base/dde-desktop 3.0.15 4.0.2: Deepin desktop environment - Desktop module
+dde-base/dde-dock 4.0.8-r1 4.1.1: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 1.3.8: Deepin File Manager
 dde-base/dde-launcher 4.0.5: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.3-r1 15.4-r2: Deepin Desktop Enviroment (meta package)
 dde-base/dde-polkit-agent 0.0.3: PolicyKit agent for DDE
 dde-base/dde-qt-dbus-factory 0.0.4: A repository stores auto-generated Qt5 dbus code used by DDE
-dde-base/dde-qt5integration 0.0.8: DDE system integration plugin for Qt5
+dde-base/dde-qt5integration 0.0.9: DDE system integration plugin for Qt5
 dde-base/dde-session-ui 3.0.23 3.0.24: Deepin desktop environment - Session UI module
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
 dde-base/deepin-desktop-base 2016.11.29: Base components for Deepin Desktop
@@ -17,7 +17,7 @@ dde-base/deepin-desktop-schemas 3.0.12 3.1.0: GSettings deepin desktop-wide sche
 dde-base/deepin-file-manager-backend 0.1.16: Deepin file manager backend
 dde-base/deepin-gtk-theme 15.12.8: Deepin GTK Theme
 dde-base/deepin-icon-theme 15.12.32: Deepin Icons
-dde-base/deepin-menu 3.0.7 3.0.8: Deepin menu service for building beautiful menus
+dde-base/deepin-menu 3.0.7 3.0.9: Deepin menu service for building beautiful menus
 dde-base/deepin-notifications 2.3.10 2.3.11: System notifications for Deepin Desktop Environment
 dde-base/deepin-sound-theme 15.10.1: Deepin Sound themes
 dde-base/deepin-tool-kit 0.2.0 0.2.1 0.2.2: Base development tool of all C++/Qt Developer work on Deepin
@@ -48,7 +48,7 @@ dev-python/jieba 0.36 0.38: Chinese text segmentation: built to be the best Pyth
 dev-python/python-ass 9999: A library for parsing and manipulating Advanced SubStation Alpha subtitle files.
 dev-python/xpybutil 0.0: xcb-util for xpyb
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
-media-gfx/deepin-screen-recorder 0.5: Deepin Screencasting Application
+media-gfx/deepin-screen-recorder 0.6: Deepin Screencasting Application
 media-gfx/deepin-screenshot 2.1.0 3.1.10 9999: Snapshot tools for linux deepin.
 media-libs/cogl 1.22.3: A library for using 3D graphics hardware to draw pretty pictures
 media-plugins/python-mmkeys 1.6.2.1: Multimedia key support as a PyGTK object
@@ -60,6 +60,6 @@ x11-libs/bamf 0.2.118: BAMF Application Matching Framework
 x11-libs/deepin-ui 1.0.20130618094833 1.1.20141229194712: UI toolkit for Linux Deepin.
 x11-libs/gsettings-qt 0.1_p20160329_p0_p02: Qml bindings for GSettings.
 x11-themes/flattr-icons 9999: an icon theme inspired by the latest flat design trend
-x11-wm/deepin-metacity 3.20.6 3.22.1: Legacy window manager for Deepin
+x11-wm/deepin-metacity 3.20.6 3.22.2: Legacy window manager for Deepin
 x11-wm/deepin-mutter 3.20.9: Deepin fork version of mutter
-x11-wm/deepin-wm 1.2 1.9.3: Deepin Window Manager
+x11-wm/deepin-wm 1.2 1.9.4: Deepin Window Manager

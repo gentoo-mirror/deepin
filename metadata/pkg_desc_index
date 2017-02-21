@@ -52,7 +52,7 @@ media-gfx/deepin-screen-recorder 0.6: Deepin Screencasting Application
 media-gfx/deepin-screenshot 2.1.0 3.1.10 9999: Snapshot tools for linux deepin.
 media-libs/cogl 1.22.3: A library for using 3D graphics hardware to draw pretty pictures
 media-plugins/python-mmkeys 1.6.2.1-r1: Multimedia key support as a PyGTK object
-media-sound/deepin-music 2.3.2 3.0.1-r1: Deepin Music Player
+media-sound/deepin-music 2.3.2-r1 3.0.1-r1: Deepin Music Player
 media-video/QtAV 1.11.0-r1: A cross-platform multimedia framework based on Qt and FFmpeg.
 media-video/deepin-movie 2.2.11: QML Movie Player based on QtAV
 x11-apps/xcur2png 0.7.1: Convert X cursors to PNG images

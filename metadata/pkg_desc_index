@@ -2,9 +2,9 @@ dde-base/dde-account-faces 1.0.10: Deepin Account face Images
 dde-base/dde-api 3.0.15 3.1.2: Go-lang bingdings for dde-daemon
 dde-base/dde-control-center 3.0.24 4.0.7: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 3.0.24 3.1.3: Daemon handling the DDE session settings
-dde-base/dde-desktop 3.0.15 4.0.2: Deepin desktop environment - Desktop module
+dde-base/dde-desktop 3.0.15 4.0.3: Deepin desktop environment - Desktop module
 dde-base/dde-dock 4.0.8-r1 4.1.3: Deepin desktop environment - Dock module
-dde-base/dde-file-manager 1.3.8 2.0.9999: Deepin File Manager
+dde-base/dde-file-manager 1.3.8 1.4.1 2.0.9999: Deepin File Manager
 dde-base/dde-launcher 4.0.7: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.3-r2 15.4-r3: Deepin Desktop Enviroment (meta package)
 dde-base/dde-polkit-agent 0.0.3: PolicyKit agent for DDE
@@ -23,13 +23,13 @@ dde-base/deepin-sound-theme 15.10.1: Deepin Sound themes
 dde-base/deepin-tool-kit 0.2.0 0.2.1 0.2.4: Base development tool of all C++/Qt Developer work on Deepin
 dde-base/deepin-wallpapers 1.3: Deepin Wallpapers
 dde-base/deepin-wm-switcher 1.1.0: Window manager switcher for Deepin
-dde-base/dtksettings 0.1.2 9999: DtkSettings is a powerfull tool to generation config form json.
+dde-base/dtksettings 0.1.3 9999: DtkSettings is a powerfull tool to generation config form json.
 dde-base/startdde 3.0.13 3.1.2: starter of Deepin Desktop Environment
 dde-extra/dde-calendar 1.0.4: Calendar for Deepin Desktop Environment
 dde-extra/dde-help 15.3.1: Help files for Deepin Desktop Environment
 dde-extra/dde-meta-multimedia 0.1-r1: Deepin Multimedia Softwares (meta package)
 dde-extra/deepin-gettext-tools 1.0.4: Deepin Internationalization utilities
-dde-extra/deepin-image-viewer 1.2.1: Deepin Image Viewer
+dde-extra/deepin-image-viewer 1.2.4: Deepin Image Viewer
 dde-extra/deepin-manual 1.0.6: Deepin User Manual
 dde-extra/deepin-qml-widgets 2.3.4: Deepin QML widgets and dbus factory
 dde-extra/deepin-shortcut-viewer 1.0.2: Deepin shortcut Viewer

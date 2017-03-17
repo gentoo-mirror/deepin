@@ -2,12 +2,17 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
 
-EAPI=5
+EAPI=6
 
 
 DESCRIPTION="starter of Deepin Desktop Environment"
 HOMEPAGE="https://github.com/linuxdeepin/startdde"
-SRC_URI="https://github.com/linuxdeepin/${PN}/archive/${PV}.tar.gz -> ${P}.tar.gz"
+if [[ "${PV}" == *9999* ]] ; then
+    inherit git-r3
+    EGIT_REPO_URI="https://github.com/linuxdeepin/${PN}.git"
+else
+	SRC_URI="https://github.com/linuxdeepin/${PN}/archive/${PV}.tar.gz -> ${P}.tar.gz"
+fi
 
 LICENSE="GPL-3"
 SLOT="0"
@@ -29,12 +34,19 @@ DEPEND="${RDEPEND}
 src_prepare() {
 # 	  sed -i 's|${GOPATH}:${CURDIR}/${GOBUILD_DIR}|${CURDIR}/${GOBUILD_DIR}:${GOPATH}|g' Makefile
 	  export GOPATH="/usr/share/gocode"
+	  LIBDIR=$(get_libdir)
+	  sed -i "s|lib/deepin-daemon|${LIBDIR}/deepin-daemon|g" Makefile
+	  default_src_prepare
 }
+
+#src_compile() {
+#	emake USE_GCCGO=1
+#}
 
 src_install() {
 	  emake DESTDIR="${D}" install
-	  mv ${D}/lib/systemd ${D}/usr/lib/systemd
+	  mv ${D}/lib/systemd ${D}/usr/$(get_libdir)/systemd
 	  rm -r ${D}/lib
-	  dosym ../dde-readahead.service /usr/lib/systemd/system/multi-user.target.wants/dde-readahead.service
+	  dosym ../dde-readahead.service /usr/$(get_libdir)/systemd/system/multi-user.target.wants/dde-readahead.service
 
 }

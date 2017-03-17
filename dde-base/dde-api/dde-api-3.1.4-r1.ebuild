@@ -2,7 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
 
-EAPI=5
+EAPI=6
 
 
 DESCRIPTION="Go-lang bingdings for dde-daemon"
@@ -26,6 +26,7 @@ RDEPEND="sys-devel/gcc[go]
 		x11-libs/libXcursor
 		x11-apps/xcur2png
 		gnome-base/librsvg:2
+		media-gfx/blur-effect
 		"
 
 DEPEND="${RDEPEND}
@@ -35,9 +36,15 @@ DEPEND="${RDEPEND}
 	      dev-go/dbus-factory"
 
 src_prepare() {
-	  export GOPATH="${S}:/usr/share/gocode"
+	export GOPATH="${S}:/usr/share/gocode"
+	default_src_prepare
 }
 
+#src_compile() {
+#	emake USE_GCCGO=1
+#}
+
+
 src_install() {
-	  emake DESTDIR=${D} SYSTEMD_LIB_DIR=/usr/lib install
+	emake DESTDIR=${D} libdir=/$(get_libdir) SYSTEMD_LIB_DIR=/usr/$(get_libdir) install
 }

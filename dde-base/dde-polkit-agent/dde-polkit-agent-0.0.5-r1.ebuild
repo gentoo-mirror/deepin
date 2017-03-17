@@ -2,12 +2,12 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
 
-EAPI=5
+EAPI=6
 
 inherit qmake-utils
 
-DESCRIPTION="System notifications for Deepin Desktop Environment"
-HOMEPAGE="https://github.com/linuxdeepin/deepin-notifications"
+DESCRIPTION="PolicyKit agent for DDE"
+HOMEPAGE="https://github.com/linuxdeepin/dde-polkit-agent"
 SRC_URI="https://github.com/linuxdeepin/${PN}/archive/${PV}.tar.gz -> ${P}.tar.gz"
 
 LICENSE="GPL-3"
@@ -15,16 +15,21 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
 
-RDEPEND="x11-libs/gtk+:2
-		 dev-qt/qtsvg:5
-		 dev-qt/qtdeclarative:5
+RDEPEND="dev-qt/qtcore:5
+		 dev-qt/qtgui:5
+	   	 dev-qt/qtdbus:5
+		 dev-qt/qtwidgets:5
+		 sys-auth/polkit-qt[qt5(-)]
 	     "
 DEPEND="${RDEPEND}
-		>=dde-base/deepin-tool-kit-0.2.2:=
+		 dde-base/deepin-tool-kit:=
 	     "
 
 src_prepare() {
-		eqmake5	PREFIX=/usr
+	LIBDIR=$(get_libdir)
+	sed -i "s|/usr/lib/|/usr/${LIBDIR}/|g" ${PN}.pro
+	eqmake5	PREFIX=/usr
+	default_src_prepare
 }
 
 src_install() {

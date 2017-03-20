@@ -32,7 +32,7 @@ dde-extra/deepin-gettext-tools 1.0.4-r1: Deepin Internationalization utilities
 dde-extra/deepin-image-viewer 1.2.8: Deepin Image Viewer
 dde-extra/deepin-manual 1.0.6: Deepin User Manual
 dde-extra/deepin-qml-widgets 2.3.4-r1: Deepin QML widgets and dbus factory
-dde-extra/deepin-shortcut-viewer 1.0.2: Deepin shortcut Viewer
+dde-extra/deepin-shortcut-viewer 1.0.2-r1: Deepin shortcut Viewer
 dde-extra/deepin-social-sharing 1.1.4: Deepin Social Sharing Service
 dde-extra/deepin-terminal 2.2.6: Deepin Terminal
 dev-go/dbus-factory 3.0.7 3.1.2: Dbus library binding for golang
@@ -54,8 +54,8 @@ media-gfx/deepin-screen-recorder 1.6: Deepin Screencasting Application
 media-gfx/deepin-screenshot 2.1.0 3.1.10 9999: Snapshot tools for linux deepin.
 media-libs/cogl 1.22.3: A library for using 3D graphics hardware to draw pretty pictures
 media-plugins/python-mmkeys 1.6.2.1-r1: Multimedia key support as a PyGTK object
-media-sound/deepin-music 2.3.2-r1 3.0.5-r1: Deepin Music Player
-media-sound/deepin-voice-recorder 0.6: Deepin Voice Recorder
+media-sound/deepin-music 2.3.2-r1 3.0.8: Deepin Music Player
+media-sound/deepin-voice-recorder 0.7: Deepin Voice Recorder
 media-video/QtAV 1.11.0-r1: A cross-platform multimedia framework based on Qt and FFmpeg.
 media-video/deepin-movie 2.2.12: QML Movie Player based on QtAV
 x11-apps/xcur2png 0.7.1: Convert X cursors to PNG images
@@ -64,5 +64,5 @@ x11-libs/deepin-ui 1.1.20141229194712-r1: UI toolkit for Linux Deepin.
 x11-libs/gsettings-qt 0.1_p20160329_p0_p02: Qml bindings for GSettings.
 x11-themes/flattr-icons 1.3-r1: an icon theme inspired by the latest flat design trend
 x11-wm/deepin-metacity 3.20.6 3.22.5: Legacy window manager for Deepin
-x11-wm/deepin-mutter 3.20.13-r1: Deepin fork version of mutter
+x11-wm/deepin-mutter 3.20.13-r2: Deepin fork version of mutter
 x11-wm/deepin-wm 1.2 1.9.8: Deepin Window Manager

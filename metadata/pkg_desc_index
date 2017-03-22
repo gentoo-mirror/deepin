@@ -1,6 +1,6 @@
 dde-base/dde-account-faces 1.0.10: Deepin Account face Images
 dde-base/dde-api 3.0.15 3.1.5: Go-lang bingdings for dde-daemon
-dde-base/dde-control-center 3.0.24 4.0.10-r1: Control Center of Deepin Desktop Environment
+dde-base/dde-control-center 3.0.24 4.0.13: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 3.0.24.1 3.1.5-r1: Daemon handling the DDE session settings
 dde-base/dde-desktop 3.0.15 4.0.5-r1: Deepin desktop environment - Desktop module
 dde-base/dde-dock 4.0.5.2 4.1.7-r2: Deepin desktop environment - Dock module
@@ -8,9 +8,9 @@ dde-base/dde-file-manager 1.4.10-r1 4.1.0: Deepin File Manager and Desktop modul
 dde-base/dde-launcher 4.0.9: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.3-r2 15.4-r4: Deepin Desktop Enviroment (meta package)
 dde-base/dde-polkit-agent 0.0.5-r1: PolicyKit agent for DDE
-dde-base/dde-qt-dbus-factory 0.0.6-r1: A repository stores auto-generated Qt5 dbus code used by DDE
-dde-base/dde-qt5integration 0.1.3: DDE system integration plugin for Qt5
-dde-base/dde-session-ui 3.0.23 4.0.1-r1: Deepin desktop environment - Session UI module
+dde-base/dde-qt-dbus-factory 0.0.7: A repository stores auto-generated Qt5 dbus code used by DDE
+dde-base/dde-qt5integration 0.1.4: DDE system integration plugin for Qt5
+dde-base/dde-session-ui 3.0.23 4.0.2: Deepin desktop environment - Session UI module
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
 dde-base/deepin-desktop-base 2016.11.30-r1: Base components for Deepin Desktop
 dde-base/deepin-desktop-schemas 3.0.12 3.1.4: GSettings deepin desktop-wide schemas
@@ -29,7 +29,7 @@ dde-extra/dde-calendar 1.0.4: Calendar for Deepin Desktop Environment
 dde-extra/dde-help 15.3.1: Help files for Deepin Desktop Environment
 dde-extra/dde-meta-multimedia 0.2: Deepin Multimedia Softwares (meta package)
 dde-extra/deepin-gettext-tools 1.0.4-r1: Deepin Internationalization utilities
-dde-extra/deepin-image-viewer 1.2.8: Deepin Image Viewer
+dde-extra/deepin-image-viewer 1.2.11: Deepin Image Viewer
 dde-extra/deepin-manual 1.0.6: Deepin User Manual
 dde-extra/deepin-qml-widgets 2.3.4-r1: Deepin QML widgets and dbus factory
 dde-extra/deepin-shortcut-viewer 1.0.2-r1: Deepin shortcut Viewer
@@ -63,6 +63,6 @@ x11-libs/bamf 0.5.3: BAMF Application Matching Framework
 x11-libs/deepin-ui 1.1.20141229194712-r1: UI toolkit for Linux Deepin.
 x11-libs/gsettings-qt 0.1_p20160329_p0_p02: Qml bindings for GSettings.
 x11-themes/flattr-icons 1.3-r1: an icon theme inspired by the latest flat design trend
-x11-wm/deepin-metacity 3.20.6 3.22.5: Legacy window manager for Deepin
+x11-wm/deepin-metacity 3.20.6 3.22.6: Legacy window manager for Deepin
 x11-wm/deepin-mutter 3.20.13-r2: Deepin fork version of mutter
-x11-wm/deepin-wm 1.2 1.9.8: Deepin Window Manager
+x11-wm/deepin-wm 1.2 1.9.9: Deepin Window Manager

@@ -6,6 +6,6 @@ HOMEPAGE=https://github.com/linuxdeepin/deepin-icon-theme
 KEYWORDS=~amd64 ~x86
 LICENSE=LGPL-3+
 SLOT=0
-SRC_URI=https://github.com/linuxdeepin/deepin-icon-theme/archive/15.12.35.tar.gz -> deepin-icon-theme-15.12.35.tar.gz
+SRC_URI=https://github.com/linuxdeepin/deepin-icon-theme/archive/15.12.36.tar.gz -> deepin-icon-theme-15.12.36.tar.gz
 _eclass_exported_funcs=src_prepare:-
 _md5_=edfe5a89d1cb86527ce567eabb9f5834

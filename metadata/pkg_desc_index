@@ -16,7 +16,7 @@ dde-base/deepin-desktop-base 2016.11.30-r1: Base components for Deepin Desktop
 dde-base/deepin-desktop-schemas 3.0.12 3.1.4: GSettings deepin desktop-wide schemas
 dde-base/deepin-file-manager-backend 0.1.16-r1: Deepin file manager backend
 dde-base/deepin-gtk-theme 17.10.0: Deepin GTK Theme
-dde-base/deepin-icon-theme 15.12.35: Deepin Icons
+dde-base/deepin-icon-theme 15.12.36: Deepin Icons
 dde-base/deepin-menu 3.0.7 3.0.10-r1: Deepin menu service for building beautiful menus
 dde-base/deepin-notifications 2.3.10 3.0.2-r1: System notifications for Deepin Desktop Environment
 dde-base/deepin-sound-theme 15.10.1: Deepin Sound themes

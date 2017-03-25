@@ -36,8 +36,8 @@ dde-extra/deepin-shortcut-viewer 1.0.2-r1: Deepin shortcut Viewer
 dde-extra/deepin-social-sharing 1.1.4: Deepin Social Sharing Service
 dde-extra/deepin-terminal 2.3.1: Deepin Terminal
 dev-go/dbus-factory 3.0.7 3.1.2: Dbus library binding for golang
-dev-go/dde-go-essential 20151213: Essential go sources for DDE
-dev-go/deepin-go-lib 0.5.2 0.5.6: Deepin GoLang Library
+dev-go/dde-go-essential 20170325: Essential go sources for DDE
+dev-go/deepin-go-lib 0.5.2 0.5.2-r1 0.5.6 0.5.6-r1: Deepin GoLang Library
 dev-go/go-dbus-generator 0.6.5: Convert dbus interfaces to go-lang or qml wrapper code
 dev-go/go-gir-generator 0.9.6-r1: Generate static golang bindings for GObject
 dev-lang/sassc 3.4.2: libsass command line driver

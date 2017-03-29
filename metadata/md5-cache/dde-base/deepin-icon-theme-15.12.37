@@ -1,0 +1,11 @@
+DEFINED_PHASES=postinst postrm preinst prepare
+DEPEND=x11-themes/flattr-icons
+DESCRIPTION=Deepin Icons
+EAPI=5
+HOMEPAGE=https://github.com/linuxdeepin/deepin-icon-theme
+KEYWORDS=~amd64 ~x86
+LICENSE=LGPL-3+
+SLOT=0
+SRC_URI=https://github.com/linuxdeepin/deepin-icon-theme/archive/15.12.37.tar.gz -> deepin-icon-theme-15.12.37.tar.gz
+_eclass_exported_funcs=pkg_preinst:- pkg_postrm:- pkg_postinst:- src_prepare:-
+_md5_=16b4801c4d271ef523fdaabe6be670e3

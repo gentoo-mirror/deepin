@@ -50,12 +50,12 @@ dev-python/python-ass 9999: A library for parsing and manipulating Advanced SubS
 dev-python/xpybutil 0.0-r1: xcb-util for xpyb
 media-gfx/blur-effect 1.1.2: Off-screen image blurring utility using OpenGL ES 3.0
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
-media-gfx/deepin-screen-recorder 1.6: Deepin Screencasting Application
+media-gfx/deepin-screen-recorder 1.7: Deepin Screencasting Application
 media-gfx/deepin-screenshot 2.1.0 3.1.11: Snapshot tools for linux deepin.
 media-libs/cogl 1.22.3: A library for using 3D graphics hardware to draw pretty pictures
 media-plugins/python-mmkeys 1.6.2.1-r1: Multimedia key support as a PyGTK object
 media-sound/deepin-music 2.3.2-r1 3.0.12: Deepin Music Player
-media-sound/deepin-voice-recorder 1.0.2: Deepin Voice Recorder
+media-sound/deepin-voice-recorder 1.0.4: Deepin Voice Recorder
 media-video/QtAV 1.11.0-r1: A cross-platform multimedia framework based on Qt and FFmpeg.
 media-video/deepin-movie 2.2.12: QML Movie Player based on QtAV
 x11-apps/xcur2png 0.7.1: Convert X cursors to PNG images

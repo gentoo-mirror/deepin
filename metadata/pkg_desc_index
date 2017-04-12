@@ -17,7 +17,7 @@ dde-base/deepin-desktop-schemas 3.0.12 3.1.5: GSettings deepin desktop-wide sche
 dde-base/deepin-file-manager-backend 0.1.16-r1: Deepin file manager backend
 dde-base/deepin-gtk-theme 17.10.1: Deepin GTK Theme
 dde-base/deepin-icon-theme 15.12.38: Deepin Icons
-dde-base/deepin-menu 3.0.7 3.1.0: Deepin menu service for building beautiful menus
+dde-base/deepin-menu 3.0.7 3.1.1: Deepin menu service for building beautiful menus
 dde-base/deepin-notifications 2.3.10 3.0.3: System notifications for Deepin Desktop Environment
 dde-base/deepin-sound-theme 15.10.1: Deepin Sound themes
 dde-base/deepin-tool-kit 0.2.0 0.2.1 0.2.8: Base development tool of all C++/Qt Developer work on Deepin
@@ -25,17 +25,17 @@ dde-base/deepin-wallpapers 1.4: Deepin Wallpapers
 dde-base/deepin-wm-switcher 1.1.0: Window manager switcher for Deepin
 dde-base/dtksettings 0.1.5-r1: DtkSettings is a powerfull tool to generation config form json.
 dde-base/startdde 3.0.13 3.1.7: starter of Deepin Desktop Environment
-dde-extra/dde-calendar 1.0.5: Calendar for Deepin Desktop Environment
+dde-extra/dde-calendar 1.0.6: Calendar for Deepin Desktop Environment
 dde-extra/dde-help 15.3.1: Help files for Deepin Desktop Environment
 dde-extra/dde-meta-multimedia 0.2: Deepin Multimedia Softwares (meta package)
 dde-extra/deepin-gettext-tools 1.0.4-r1: Deepin Internationalization utilities
-dde-extra/deepin-image-viewer 1.2.12: Deepin Image Viewer
+dde-extra/deepin-image-viewer 1.2.13: Deepin Image Viewer
 dde-extra/deepin-manual 1.0.6: Deepin User Manual
 dde-extra/deepin-qml-widgets 2.3.4-r1: Deepin QML widgets and dbus factory
 dde-extra/deepin-shortcut-viewer 1.0.2-r1: Deepin shortcut Viewer
 dde-extra/deepin-social-sharing 1.1.4: Deepin Social Sharing Service
 dde-extra/deepin-terminal 2.3.3: Deepin Terminal
-dev-go/dbus-factory 3.0.7 3.1.3-r1: Dbus library binding for golang
+dev-go/dbus-factory 3.0.7 3.1.3-r2: Dbus library binding for golang
 dev-go/dde-go-essential 20170325: Essential go sources for DDE
 dev-go/deepin-go-lib 0.5.2-r1 1.0.1: Deepin GoLang Library
 dev-go/go-dbus-generator 0.6.5: Convert dbus interfaces to go-lang or qml wrapper code
@@ -52,7 +52,7 @@ media-gfx/blur-effect 1.1.2: Off-screen image blurring utility using OpenGL ES 3
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
 media-gfx/deepin-screen-recorder 1.7: Deepin Screencasting Application
 media-gfx/deepin-screenshot 2.1.0 3.1.11: Snapshot tools for linux deepin.
-media-libs/cogl 1.22.3: A library for using 3D graphics hardware to draw pretty pictures
+media-libs/cogl 1.22.5: A library for using 3D graphics hardware to draw pretty pictures
 media-plugins/python-mmkeys 1.6.2.1-r1: Multimedia key support as a PyGTK object
 media-sound/deepin-music 2.3.2-r1 3.0.12: Deepin Music Player
 media-sound/deepin-voice-recorder 1.0.4: Deepin Voice Recorder

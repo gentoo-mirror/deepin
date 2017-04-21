@@ -17,13 +17,13 @@ dde-base/deepin-desktop-schemas 3.0.12 3.1.5: GSettings deepin desktop-wide sche
 dde-base/deepin-file-manager-backend 0.1.16-r1: Deepin file manager backend
 dde-base/deepin-gtk-theme 17.10.1: Deepin GTK Theme
 dde-base/deepin-icon-theme 15.12.39: Deepin Icons
-dde-base/deepin-menu 3.0.7 3.1.1: Deepin menu service for building beautiful menus
+dde-base/deepin-menu 3.0.7 3.1.2: Deepin menu service for building beautiful menus
 dde-base/deepin-notifications 2.3.10 3.0.4: System notifications for Deepin Desktop Environment
 dde-base/deepin-sound-theme 15.10.1: Deepin Sound themes
 dde-base/deepin-tool-kit 0.2.0 0.2.1 0.2.9: Base development tool of all C++/Qt Developer work on Deepin
 dde-base/deepin-wallpapers 1.4: Deepin Wallpapers
 dde-base/deepin-wm-switcher 1.1.0: Window manager switcher for Deepin
-dde-base/dtksettings 0.1.5-r1: DtkSettings is a powerfull tool to generation config form json.
+dde-base/dtksettings 0.1.6: DtkSettings is a powerfull tool to generation config form json.
 dde-base/startdde 3.0.13 3.1.8: starter of Deepin Desktop Environment
 dde-extra/dde-calendar 1.0.7: Calendar for Deepin Desktop Environment
 dde-extra/dde-help 15.3.1 15.4: Help files for Deepin Desktop Environment
@@ -51,7 +51,7 @@ dev-python/xpybutil 0.0-r1: xcb-util for xpyb
 media-gfx/blur-effect 1.1.2: Off-screen image blurring utility using OpenGL ES 3.0
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
 media-gfx/deepin-screen-recorder 1.8: Deepin Screencasting Application
-media-gfx/deepin-screenshot 2.1.0 3.1.13: Snapshot tools for linux deepin.
+media-gfx/deepin-screenshot 2.1.0 3.1.14: Snapshot tools for linux deepin.
 media-libs/cogl 1.22.5: A library for using 3D graphics hardware to draw pretty pictures
 media-plugins/python-mmkeys 1.6.2.1-r1: Multimedia key support as a PyGTK object
 media-sound/deepin-music 2.3.2-r1 3.1.0: Deepin Music Player

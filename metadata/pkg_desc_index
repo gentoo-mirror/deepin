@@ -13,7 +13,7 @@ dde-base/dde-qt5integration 0.1.7: DDE system integration plugin for Qt5
 dde-base/dde-session-ui 3.0.23 4.0.6: Deepin desktop environment - Session UI module
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
 dde-base/deepin-desktop-base 2016.11.30-r1: Base components for Deepin Desktop
-dde-base/deepin-desktop-schemas 3.0.12 3.1.5: GSettings deepin desktop-wide schemas
+dde-base/deepin-desktop-schemas 3.0.12 3.1.6: GSettings deepin desktop-wide schemas
 dde-base/deepin-file-manager-backend 0.1.16-r1: Deepin file manager backend
 dde-base/deepin-gtk-theme 17.10.1: Deepin GTK Theme
 dde-base/deepin-icon-theme 15.12.39: Deepin Icons
@@ -51,7 +51,7 @@ dev-python/xpybutil 0.0-r1: xcb-util for xpyb
 media-gfx/blur-effect 1.1.2: Off-screen image blurring utility using OpenGL ES 3.0
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
 media-gfx/deepin-screen-recorder 1.8: Deepin Screencasting Application
-media-gfx/deepin-screenshot 2.1.0 3.1.14: Snapshot tools for linux deepin.
+media-gfx/deepin-screenshot 2.1.0 3.1.15: Snapshot tools for linux deepin.
 media-libs/cogl 1.22.5: A library for using 3D graphics hardware to draw pretty pictures
 media-plugins/python-mmkeys 1.6.2.1-r1: Multimedia key support as a PyGTK object
 media-sound/deepin-music 2.3.2-r1 3.1.0: Deepin Music Player

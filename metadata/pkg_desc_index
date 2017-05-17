@@ -51,7 +51,7 @@ dev-python/xpybutil 0.0-r1: xcb-util for xpyb
 media-gfx/blur-effect 1.1.2: Off-screen image blurring utility using OpenGL ES 3.0
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
 media-gfx/deepin-screen-recorder 1.8: Deepin Screencasting Application
-media-gfx/deepin-screenshot 2.1.0 3.1.15: Snapshot tools for linux deepin.
+media-gfx/deepin-screenshot 2.1.0 3.1.15 4.0.0: Snapshot tools for linux deepin.
 media-libs/cogl 1.22.5: A library for using 3D graphics hardware to draw pretty pictures
 media-plugins/python-mmkeys 1.6.2.1-r1: Multimedia key support as a PyGTK object
 media-sound/deepin-music 2.3.2-r1 3.1.0: Deepin Music Player

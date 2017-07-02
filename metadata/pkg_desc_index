@@ -3,8 +3,8 @@ dde-base/dde-api 3.0.15 3.1.9: Go-lang bingdings for dde-daemon
 dde-base/dde-control-center 4.2.0: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 3.1.11: Daemon handling the DDE session settings
 dde-base/dde-dock 4.3.0: Deepin desktop environment - Dock module
-dde-base/dde-file-manager 4.1.5: Deepin File Manager and Desktop module for DDE
-dde-base/dde-launcher 4.1.0: Deepin desktop environment - Launcher module
+dde-base/dde-file-manager 4.1.6: Deepin File Manager and Desktop module for DDE
+dde-base/dde-launcher 4.1.1: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.4.1: Deepin Desktop Enviroment (meta package)
 dde-base/dde-polkit-agent 0.0.9: PolicyKit agent for DDE
 dde-base/dde-qt-dbus-factory 0.2.1: A repository stores auto-generated Qt5 dbus code used by DDE
@@ -51,7 +51,7 @@ dev-python/xpybutil 0.0-r1: xcb-util for xpyb
 media-gfx/blur-effect 1.1.2: Off-screen image blurring utility using OpenGL ES 3.0
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
 media-gfx/deepin-screen-recorder 2.3: Deepin Screencasting Application
-media-gfx/deepin-screenshot 2.1.0 3.1.15 4.0.6: Snapshot tools for linux deepin.
+media-gfx/deepin-screenshot 2.1.0 3.1.15 4.0.8: Snapshot tools for linux deepin.
 media-libs/cogl 1.22.5: A library for using 3D graphics hardware to draw pretty pictures
 media-plugins/python-mmkeys 1.6.2.1-r1: Multimedia key support as a PyGTK object
 media-sound/deepin-music 2.3.2-r1 3.1.2: Deepin Music Player

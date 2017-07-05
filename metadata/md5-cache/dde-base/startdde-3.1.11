@@ -7,6 +7,6 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=dde-base/dde-daemon dde-base/deepin-wm-switcher >=dde-base/deepin-desktop-schemas-3.1.7
 SLOT=0
-SRC_URI=https://github.com/linuxdeepin/startdde/archive/3.1.10.tar.gz -> startdde-3.1.10.tar.gz
+SRC_URI=https://github.com/linuxdeepin/startdde/archive/3.1.11.tar.gz -> startdde-3.1.11.tar.gz
 _eclass_exported_funcs=src_prepare:- src_install:-
 _md5_=35ca69d0fa68625f4f98d2e0ea8c9556

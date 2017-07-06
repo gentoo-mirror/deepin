@@ -1,7 +1,7 @@
 dde-base/dde-account-faces 1.0.10: Deepin Account face Images
-dde-base/dde-api 3.0.15 3.1.9: Go-lang bingdings for dde-daemon
+dde-base/dde-api 3.1.10: Go-lang bingdings for dde-daemon
 dde-base/dde-control-center 4.2.0: Control Center of Deepin Desktop Environment
-dde-base/dde-daemon 3.1.11: Daemon handling the DDE session settings
+dde-base/dde-daemon 3.1.12: Daemon handling the DDE session settings
 dde-base/dde-dock 4.3.1: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 4.1.6: Deepin File Manager and Desktop module for DDE
 dde-base/dde-launcher 4.1.1: Deepin desktop environment - Launcher module
@@ -12,7 +12,7 @@ dde-base/dde-qt5integration 0.2.0: DDE system integration plugin for Qt5
 dde-base/dde-session-ui 4.0.8: Deepin desktop environment - Session UI module
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
 dde-base/deepin-desktop-base 2016.12.1: Base components for Deepin Desktop
-dde-base/deepin-desktop-schemas 3.1.9: GSettings deepin desktop-wide schemas
+dde-base/deepin-desktop-schemas 3.1.10: GSettings deepin desktop-wide schemas
 dde-base/deepin-file-manager-backend 0.1.16-r1: Deepin file manager backend
 dde-base/deepin-gtk-theme 17.10.3: Deepin GTK Theme
 dde-base/deepin-icon-theme 15.12.45: Deepin Icons

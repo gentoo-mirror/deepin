@@ -9,7 +9,7 @@ dde-base/dde-meta 15.4.1: Deepin Desktop Enviroment (meta package)
 dde-base/dde-polkit-agent 0.0.10: PolicyKit agent for DDE
 dde-base/dde-qt-dbus-factory 0.2.1: A repository stores auto-generated Qt5 dbus code used by DDE
 dde-base/dde-qt5integration 0.2.0: DDE system integration plugin for Qt5
-dde-base/dde-session-ui 4.0.8: Deepin desktop environment - Session UI module
+dde-base/dde-session-ui 4.0.9: Deepin desktop environment - Session UI module
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
 dde-base/deepin-desktop-base 2016.12.2: Base components for Deepin Desktop
 dde-base/deepin-desktop-schemas 3.1.11: GSettings deepin desktop-wide schemas
@@ -42,6 +42,7 @@ dev-go/go-dbus-generator 0.6.6: Convert dbus interfaces to go-lang or qml wrappe
 dev-go/go-gir-generator 1.0.1: Generate static golang bindings for GObject
 dev-lang/sassc 3.4.2: libsass command line driver
 dev-libs/libsass 3.4.2: A C/C++ implementation of a Sass compiler
+dev-perl/XML-LibXML-PrettyPrint 0.6.0: XML::LibXML::PrettyPrint - add pleasant whitespace to a DOM tree
 dev-python/dae 1.0.2: Deepin App Engine
 dev-python/deepin-gsettings 0.1.20131206094009-r1: Deepin gsettings Python Bindings
 dev-python/deepin-utils 0.0.2.20140703165416-r1: Utils of DeepinUI Toolkit modules
@@ -64,5 +65,5 @@ x11-libs/deepin-ui 1.1.20141229194712-r1: UI toolkit for Linux Deepin.
 x11-libs/gsettings-qt 0.1_p20160329_p0_p02: Qml bindings for GSettings.
 x11-themes/flattr-icons 1.3-r1: an icon theme inspired by the latest flat design trend
 x11-wm/deepin-metacity 3.22.10: Legacy window manager for Deepin
-x11-wm/deepin-mutter 3.20.19: Deepin fork version of mutter
+x11-wm/deepin-mutter 3.20.20: Deepin fork version of mutter
 x11-wm/deepin-wm 1.9.14: Deepin Window Manager

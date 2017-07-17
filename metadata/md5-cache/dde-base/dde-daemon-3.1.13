@@ -1,13 +1,13 @@
 DEFINED_PHASES=prepare
-DEPEND=x11-wm/deepin-metacity x11-libs/libxkbfile app-text/iso-codes sys-apps/accountsservice sys-power/acpid sys-fs/udisks:2 gnome-extra/polkit-gnome dde-base/deepin-desktop-schemas net-misc/networkmanager gnome-base/gvfs sys-libs/pam >sys-power/upower-0.99 miracast? ( net-wireless/iw ) bluetooth? (net-wireless/bluez) dev-go/go-dbus-generator dev-go/deepin-go-lib >=dev-go/dde-go-essential-20170627 >=dev-go/dbus-factory-3.0.8 >=dde-base/dde-api-3.1.3 dev-db/sqlite:3
+DEPEND=x11-wm/deepin-metacity x11-libs/libxkbfile app-text/iso-codes sys-apps/accountsservice sys-power/acpid sys-fs/udisks:2 gnome-extra/polkit-gnome dde-base/deepin-desktop-schemas net-misc/networkmanager gnome-base/gvfs sys-libs/pam >sys-power/upower-0.99 miracast? ( net-wireless/iw ) bluetooth? ( net-wireless/bluez ) dev-go/go-dbus-generator dev-go/deepin-go-lib >=dev-go/dde-go-essential-20170627 >=dev-go/dbus-factory-3.0.8 >=dde-base/dde-api-3.1.3 dev-db/sqlite:3
 DESCRIPTION=Daemon handling the DDE session settings
 EAPI=6
 HOMEPAGE=https://github.com/linuxdeepin/dde-daemon
 IUSE=bluetooth miracast
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
-RDEPEND=x11-wm/deepin-metacity x11-libs/libxkbfile app-text/iso-codes sys-apps/accountsservice sys-power/acpid sys-fs/udisks:2 gnome-extra/polkit-gnome dde-base/deepin-desktop-schemas net-misc/networkmanager gnome-base/gvfs sys-libs/pam >sys-power/upower-0.99 miracast? ( net-wireless/iw ) bluetooth? (net-wireless/bluez)
+RDEPEND=x11-wm/deepin-metacity x11-libs/libxkbfile app-text/iso-codes sys-apps/accountsservice sys-power/acpid sys-fs/udisks:2 gnome-extra/polkit-gnome dde-base/deepin-desktop-schemas net-misc/networkmanager gnome-base/gvfs sys-libs/pam >sys-power/upower-0.99 miracast? ( net-wireless/iw ) bluetooth? ( net-wireless/bluez )
 SLOT=0
 SRC_URI=https://github.com/linuxdeepin/dde-daemon/archive/3.1.13.tar.gz -> dde-daemon-3.1.13.tar.gz
 _eclass_exported_funcs=src_prepare:-
-_md5_=a3beaf12460613e10afdf0ec08b06c45
+_md5_=c2d96d17713a8e1a7f1b6edfb4ba682d

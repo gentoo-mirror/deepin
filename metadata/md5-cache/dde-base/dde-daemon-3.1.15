@@ -8,6 +8,6 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=x11-wm/deepin-metacity x11-libs/libxkbfile app-text/iso-codes sys-apps/accountsservice sys-power/acpid sys-fs/udisks:2 gnome-extra/polkit-gnome dde-base/deepin-desktop-schemas net-misc/networkmanager gnome-base/gvfs sys-libs/pam >sys-power/upower-0.99 miracast? ( net-wireless/iw ) bluetooth? ( net-wireless/bluez )
 SLOT=0
-SRC_URI=https://github.com/linuxdeepin/dde-daemon/archive/3.1.14.tar.gz -> dde-daemon-3.1.14.tar.gz
+SRC_URI=https://github.com/linuxdeepin/dde-daemon/archive/3.1.15.tar.gz -> dde-daemon-3.1.15.tar.gz
 _eclass_exported_funcs=src_prepare:-
 _md5_=c2d96d17713a8e1a7f1b6edfb4ba682d

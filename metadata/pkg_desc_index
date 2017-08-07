@@ -19,7 +19,7 @@ dde-base/deepin-icon-theme 15.12.46: Deepin Icons
 dde-base/deepin-menu 3.1.5: Deepin menu service for building beautiful menus
 dde-base/deepin-notifications 3.0.6: System notifications for Deepin Desktop Environment
 dde-base/deepin-sound-theme 15.10.1: Deepin Sound themes
-dde-base/deepin-tool-kit 0.3.1: Base development tool of all C++/Qt Developer work on Deepin
+dde-base/deepin-tool-kit 0.3.3: Base development tool of all C++/Qt Developer work on Deepin
 dde-base/deepin-wallpapers 1.6: Deepin Wallpapers
 dde-base/deepin-wm-switcher 1.1.2: Window manager switcher for Deepin
 dde-base/dtksettings 0.1.7: DtkSettings is a powerfull tool to generation config form json.

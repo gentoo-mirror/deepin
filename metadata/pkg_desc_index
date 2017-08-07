@@ -1,7 +1,7 @@
 dde-base/dde-account-faces 1.0.10: Deepin Account face Images
 dde-base/dde-api 3.1.11: Go-lang bingdings for dde-daemon
 dde-base/dde-control-center 4.2.5: Control Center of Deepin Desktop Environment
-dde-base/dde-daemon 3.1.15: Daemon handling the DDE session settings
+dde-base/dde-daemon 3.1.17: Daemon handling the DDE session settings
 dde-base/dde-dock 4.3.3: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 4.2.2: Deepin File Manager and Desktop module for DDE
 dde-base/dde-launcher 4.1.6: Deepin desktop environment - Launcher module
@@ -37,7 +37,7 @@ dde-extra/deepin-system-monitor 0.1.1: Deepin System Monitor
 dde-extra/deepin-terminal 2.5.2: Deepin Terminal
 dev-cpp/treefrog-framework 1.18.0: High-speed C++ MVC Framework for Web Application
 dev-go/dbus-factory 3.1.7: Dbus library binding for golang
-dev-go/dde-go-essential 20170627: Essential go sources for DDE
+dev-go/dde-go-essential 20170807: Essential go sources for DDE
 dev-go/deepin-go-lib 1.0.5: Deepin GoLang Library
 dev-go/go-dbus-generator 0.6.6: Convert dbus interfaces to go-lang or qml wrapper code
 dev-go/go-gir-generator 1.0.1: Generate static golang bindings for GObject

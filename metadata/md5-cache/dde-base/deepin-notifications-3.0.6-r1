@@ -1,8 +1,9 @@
 DEFINED_PHASES=install prepare
-DEPEND=x11-libs/gtk+:2 dev-qt/qtsvg:5 dev-qt/qtdeclarative:5 dev-qt/qtsql:5[sqlite] >=dde-base/deepin-tool-kit-0.2.2:=
+DEPEND=x11-libs/gtk+:2 dev-qt/qtsvg:5 dev-qt/qtdeclarative:5 dev-qt/qtsql:5[sqlite] dtk1? ( >=dde-base/deepin-tool-kit-0.3.4:= ) !dtk1? ( >=dde-base/dtkwidget-0.3.3:= )
 DESCRIPTION=System notifications for Deepin Desktop Environment
 EAPI=6
 HOMEPAGE=https://github.com/linuxdeepin/deepin-notifications
+IUSE=+dtk1
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=x11-libs/gtk+:2 dev-qt/qtsvg:5 dev-qt/qtdeclarative:5 dev-qt/qtsql:5[sqlite]
@@ -10,4 +11,4 @@ SLOT=0
 SRC_URI=https://github.com/linuxdeepin/deepin-notifications/archive/3.0.6.tar.gz -> deepin-notifications-3.0.6.tar.gz
 _eclass_exported_funcs=src_prepare:- src_install:-
 _eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	multilib	97f470f374f2e94ccab04a2fb21d811e	qmake-utils	990448b067cb3cfe1443bc25fb57239c	toolchain-funcs	185a06792159ca143528e7010368e8af
-_md5_=6a5691de917dc226aa5711d5678217bb
+_md5_=318bd0530f06a34d0751b8af12182372

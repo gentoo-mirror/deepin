@@ -1,15 +1,15 @@
 DEFINED_PHASES=compile configure install prepare test
-DEPEND=dev-lang/python:2.7 x11-libs/libX11 x11-libs/libxcb dtk1? ( >=dde-base/deepin-tool-kit-0.3.4:= ) !dtk1? ( >=dde-base/dtkwidget-0.3.3:= ) dde-base/dde-qt-dbus-factory dev-qt/qtx11extras:5 dev-qt/qtdeclarative:5 python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_python2_7(-)]
+DEPEND=dev-lang/python:2.7 x11-libs/libX11 x11-libs/libxcb >=dde-base/dtkwidget-0.3.3:= dde-base/dde-qt-dbus-factory dev-qt/qtx11extras:5 dev-qt/qtdeclarative:5 python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_python2_7(-)]
 DESCRIPTION=Deepin menu service for building beautiful menus
 EAPI=6
 HOMEPAGE=https://github.com/linuxdeepin/deepin-menu
-IUSE=+dtk1 python_targets_python2_7
+IUSE=python_targets_python2_7
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=dev-lang/python:2.7 python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_python2_7(-)]
 REQUIRED_USE=|| ( python_targets_python2_7 )
 SLOT=0
-SRC_URI=https://github.com/linuxdeepin/deepin-menu/archive/3.1.5.tar.gz -> deepin-menu-3.1.5.tar.gz
+SRC_URI=https://github.com/linuxdeepin/deepin-menu/archive/3.1.6.tar.gz -> deepin-menu-3.1.6.tar.gz
 _eclass_exported_funcs=src_prepare:- src_configure:distutils-r1 src_compile:- src_test:distutils-r1 src_install:-
 _eclasses_=distutils-r1	372bbe39047c0a2550319a3a82f3e063	estack	43ddf5aaffa7a8d0482df54d25a66a1f	multibuild	72647e255187a1fadc81097b3657e5c3	multilib	97f470f374f2e94ccab04a2fb21d811e	multiprocessing	284a473719153462f3e974d86c8cb81c	python-r1	e9350ec46bb5c9f3504b4fbe8b8d8987	python-utils-r1	c9de01becf9df3f8c10aeec3dc693f5d	qmake-utils	990448b067cb3cfe1443bc25fb57239c	toolchain-funcs	185a06792159ca143528e7010368e8af	xdg-utils	101cc3d4c2ccd96cb22d936a45789426
-_md5_=c2714c7992ef3024c19741b15c9081f0
+_md5_=5458dffd02c8554da6c5ddee8ce8b215

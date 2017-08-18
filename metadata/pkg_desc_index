@@ -1,14 +1,14 @@
 dde-base/dde-account-faces 1.0.10: Deepin Account face Images
 dde-base/dde-api 3.1.11: Go-lang bingdings for dde-daemon
-dde-base/dde-control-center 4.2.5.1: Control Center of Deepin Desktop Environment
+dde-base/dde-control-center 4.2.5.4: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 3.1.18: Daemon handling the DDE session settings
-dde-base/dde-dock 4.3.3.1: Deepin desktop environment - Dock module
+dde-base/dde-dock 4.3.4: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 4.2.3-r1: Deepin File Manager and Desktop module for DDE
-dde-base/dde-launcher 4.1.6.2: Deepin desktop environment - Launcher module
+dde-base/dde-launcher 4.1.7: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.4.1: Deepin Desktop Enviroment (meta package)
-dde-base/dde-polkit-agent 0.0.10-r1: PolicyKit agent for DDE
-dde-base/dde-qt-dbus-factory 0.2.1-r1: A repository stores auto-generated Qt5 dbus code used by DDE
-dde-base/dde-qt5integration 0.2.2-r1: DDE system integration plugin for Qt5
+dde-base/dde-polkit-agent 0.1.0: PolicyKit agent for DDE
+dde-base/dde-qt-dbus-factory 0.3.0: A repository stores auto-generated Qt5 dbus code used by DDE
+dde-base/dde-qt5integration 0.2.3: DDE system integration plugin for Qt5
 dde-base/dde-session-ui 4.0.13-r1: Deepin desktop environment - Session UI module
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
 dde-base/deepin-desktop-base 2016.12.6: Base components for Deepin Desktop
@@ -16,25 +16,25 @@ dde-base/deepin-desktop-schemas 3.1.15: GSettings deepin desktop-wide schemas
 dde-base/deepin-file-manager-backend 0.1.16-r1: Deepin file manager backend
 dde-base/deepin-gtk-theme 17.10.4: Deepin GTK Theme
 dde-base/deepin-icon-theme 15.12.46: Deepin Icons
-dde-base/deepin-menu 3.1.5-r1: Deepin menu service for building beautiful menus
-dde-base/deepin-notifications 3.0.6-r1: System notifications for Deepin Desktop Environment
+dde-base/deepin-menu 3.1.6: Deepin menu service for building beautiful menus
+dde-base/deepin-notifications 3.0.7: System notifications for Deepin Desktop Environment
 dde-base/deepin-sound-theme 15.10.1: Deepin Sound themes
 dde-base/deepin-tool-kit 0.3.3 0.3.4: Base development tool of all C++/Qt Developer work on Deepin
 dde-base/deepin-wallpapers 1.6: Deepin Wallpapers
 dde-base/deepin-wm-switcher 1.1.2: Window manager switcher for Deepin
-dde-base/dtkcore 0.3.3 9999: Base development tool of all C++/Qt Developer work on Deepin - Core modules
+dde-base/dtkcore 2.0.0: Base development tool of all C++/Qt Developer work on Deepin - Core modules
 dde-base/dtksettings 0.1.7: DtkSettings is a powerfull tool to generation config form json.
-dde-base/dtkwidget 0.3.3 9999: Base development tool of all C++/Qt Developer work on Deepin - Widget modules
-dde-base/dtkwm 0.3.3: Deepin graphical user interface library
+dde-base/dtkwidget 2.0.0: Base development tool of all C++/Qt Developer work on Deepin - Widget modules
+dde-base/dtkwm 2.0.0: Deepin graphical user interface library
 dde-base/startdde 3.1.14: starter of Deepin Desktop Environment
-dde-extra/dde-calendar 1.0.11: Calendar for Deepin Desktop Environment
+dde-extra/dde-calendar 1.0.12: Calendar for Deepin Desktop Environment
 dde-extra/dde-help 15.4.8: Help files for Deepin Desktop Environment
 dde-extra/dde-meta-multimedia 0.2: Deepin Multimedia Softwares (meta package)
 dde-extra/deepin-desktop-monitor 9999: Deepin System Monitor
 dde-extra/deepin-gettext-tools 1.0.6: Deepin Internationalization utilities
-dde-extra/deepin-image-viewer 1.2.14-r1: Deepin Image Viewer
+dde-extra/deepin-image-viewer 1.2.15: Deepin Image Viewer
 dde-extra/deepin-manual 1.0.6: Deepin User Manual
-dde-extra/deepin-qml-widgets 2.3.5: Deepin QML widgets and dbus factory
+dde-extra/deepin-qml-widgets 2.3.6: Deepin QML widgets and dbus factory
 dde-extra/deepin-shortcut-viewer 1.3.1-r1: Deepin shortcut Viewer
 dde-extra/deepin-social-sharing 1.1.4: Deepin Social Sharing Service
 dde-extra/deepin-system-monitor 1.2: Deepin System Monitor
@@ -57,10 +57,10 @@ dev-python/xpybutil 0.0-r1: xcb-util for xpyb
 media-gfx/blur-effect 1.1.2: Off-screen image blurring utility using OpenGL ES 3.0
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
 media-gfx/deepin-screen-recorder 2.5: Deepin Screencasting Application
-media-gfx/deepin-screenshot 2.1.0 3.1.15 4.0.8-r1: Snapshot tools for linux deepin.
+media-gfx/deepin-screenshot 2.1.0 3.1.15 4.0.9: Snapshot tools for linux deepin.
 media-libs/cogl 1.22.5: A library for using 3D graphics hardware to draw pretty pictures
 media-plugins/python-mmkeys 1.6.2.1-r1: Multimedia key support as a PyGTK object
-media-sound/deepin-music 2.3.2-r1 3.1.4-r1: Deepin Music Player
+media-sound/deepin-music 2.3.2-r1 3.1.5: Deepin Music Player
 media-sound/deepin-voice-recorder 1.3.3: Deepin Voice Recorder
 media-video/QtAV 1.11.0-r1: A cross-platform multimedia framework based on Qt and FFmpeg.
 media-video/deepin-movie 2.2.14: QML Movie Player based on QtAV

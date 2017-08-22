@@ -3,7 +3,7 @@ dde-base/dde-api 3.1.11: Go-lang bingdings for dde-daemon
 dde-base/dde-control-center 4.2.5.4: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 3.1.18: Daemon handling the DDE session settings
 dde-base/dde-dock 4.3.4: Deepin desktop environment - Dock module
-dde-base/dde-file-manager 4.2.4: Deepin File Manager and Desktop module for DDE
+dde-base/dde-file-manager 4.2.5: Deepin File Manager and Desktop module for DDE
 dde-base/dde-launcher 4.1.7: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.4.1: Deepin Desktop Enviroment (meta package)
 dde-base/dde-polkit-agent 0.1.0: PolicyKit agent for DDE

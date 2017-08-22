@@ -8,7 +8,7 @@ dde-base/dde-launcher 4.1.7: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.4.1: Deepin Desktop Enviroment (meta package)
 dde-base/dde-polkit-agent 0.1.0: PolicyKit agent for DDE
 dde-base/dde-qt-dbus-factory 0.3.0: A repository stores auto-generated Qt5 dbus code used by DDE
-dde-base/dde-qt5integration 0.2.3: DDE system integration plugin for Qt5
+dde-base/dde-qt5integration 0.2.3-r1: DDE system integration plugin for Qt5
 dde-base/dde-session-ui 4.0.13.1: Deepin desktop environment - Session UI module
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
 dde-base/deepin-desktop-base 2016.12.6: Base components for Deepin Desktop
@@ -54,6 +54,7 @@ dev-python/deepin-utils 0.0.2.20140703165416-r1: Utils of DeepinUI Toolkit modul
 dev-python/jieba 0.36 0.38: Chinese text segmentation: built to be the best Python Chinese word segmentation module.
 dev-python/python-ass 9999: A library for parsing and manipulating Advanced SubStation Alpha subtitle files.
 dev-python/xpybutil 0.0-r1: xcb-util for xpyb
+dev-qt/qtstyleplugins 20170311: Additional style plugins for Qt
 media-gfx/blur-effect 1.1.2: Off-screen image blurring utility using OpenGL ES 3.0
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
 media-gfx/deepin-screen-recorder 2.5: Deepin Screencasting Application

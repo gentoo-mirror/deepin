@@ -55,7 +55,7 @@ dev-python/deepin-utils 0.0.2.20140703165416-r1: Utils of DeepinUI Toolkit modul
 dev-python/jieba 0.36 0.38: Chinese text segmentation: built to be the best Python Chinese word segmentation module.
 dev-python/python-ass 9999: A library for parsing and manipulating Advanced SubStation Alpha subtitle files.
 dev-python/xpybutil 0.0-r1: xcb-util for xpyb
-dev-qt/qtstyleplugins 20170311: Additional style plugins for Qt
+dev-qt/qtstyleplugins 20170311-r1: Additional style plugins for Qt
 media-gfx/blur-effect 1.1.2: Off-screen image blurring utility using OpenGL ES 3.0
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
 media-gfx/deepin-screen-recorder 2.5: Deepin Screencasting Application

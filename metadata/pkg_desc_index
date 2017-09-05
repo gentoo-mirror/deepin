@@ -38,13 +38,13 @@ dde-extra/deepin-qml-widgets 2.3.6: Deepin QML widgets and dbus factory
 dde-extra/deepin-shortcut-viewer 1.3.2: Deepin shortcut Viewer
 dde-extra/deepin-social-sharing 1.1.4: Deepin Social Sharing Service
 dde-extra/deepin-system-monitor 1.2: Deepin System Monitor
-dde-extra/deepin-terminal 2.5.3: Deepin Terminal
+dde-extra/deepin-terminal 2.5.5: Deepin Terminal
 dev-cpp/treefrog-framework 1.18.0: High-speed C++ MVC Framework for Web Application
 dev-go/dbus-factory 3.1.7: Dbus library binding for golang
 dev-go/dde-go-essential 20170807: Essential go sources for DDE
 dev-go/deepin-go-lib 1.1.0: Deepin GoLang Library
 dev-go/go-dbus-generator 0.6.6: Convert dbus interfaces to go-lang or qml wrapper code
-dev-go/go-gir-generator 1.0.1: Generate static golang bindings for GObject
+dev-go/go-gir-generator 1.0.1-r1: Generate static golang bindings for GObject
 dev-go/go-x11-client 0.0.2: Deepin GoLang X11 client Library
 dev-lang/sassc 3.4.2: libsass command line driver
 dev-libs/libsass 3.4.2: A C/C++ implementation of a Sass compiler

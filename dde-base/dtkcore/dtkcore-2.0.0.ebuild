@@ -20,7 +20,10 @@ SLOT="0/${PV}"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
 
-RDEPEND=">=dev-qt/qtcore-5.5:5"
+RDEPEND=">=dev-qt/qtcore-5.5:5
+		dev-qt/qtdbus
+		dev-qt/qttest
+	    "
 DEPEND="${RDEPEND}"
 
 src_prepare() {

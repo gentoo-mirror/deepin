@@ -8,6 +8,5 @@ LICENSE=GPL-3+
 RDEPEND=dev-qt/qtcore:5
 SLOT=0
 SRC_URI=https://github.com/linuxdeepin/dde-calendar/archive/1.0.12.tar.gz -> dde-calendar-1.0.12.tar.gz
-_eclass_exported_funcs=src_prepare:- src_install:-
 _eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	qmake-utils	990448b067cb3cfe1443bc25fb57239c	toolchain-funcs	185a06792159ca143528e7010368e8af
-_md5_=89077724f27c856c399084496b1441e7
+_md5_=4c954488d287697f404b562b13330879

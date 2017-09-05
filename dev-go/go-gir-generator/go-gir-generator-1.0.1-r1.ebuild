@@ -2,9 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
 
-EAPI=5
-
-inherit eutils
+EAPI=6
 
 DESCRIPTION="Generate static golang bindings for GObject"
 HOMEPAGE="https://github.com/linuxdeepin/go-gir-generator"
@@ -24,8 +22,8 @@ DEPEND="sys-devel/gcc[go]
 src_prepare() {
 	#export GOPATH="${S}:/usr/share/gocode"
 	## fix undefined error of SettingsBackendLike
-	epatch ${FILESDIR}/${PN}-1.0.1-SettingsBackendLike.patch
-	base_src_prepare
+	eapply ${FILESDIR}/${PN}-1.0.1-SettingsBackendLike.patch
+	default_src_prepare
 }
 
 #src_compile() {

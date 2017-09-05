@@ -54,7 +54,6 @@ DEPEND="${RDEPEND}
 	x11-proto/xproto"
 
 src_prepare() {
-	
 	base_src_prepare
 	gnome2_src_prepare
 }

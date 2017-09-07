@@ -8,5 +8,4 @@ LICENSE=GPL-3
 RDEPEND=>=dde-base/dde-daemon-3.1.17 dde-base/deepin-wm-switcher >=dde-base/deepin-desktop-schemas-3.1.15
 SLOT=0
 SRC_URI=https://github.com/linuxdeepin/startdde/archive/3.1.15.tar.gz -> startdde-3.1.15.tar.gz
-_eclass_exported_funcs=src_prepare:- src_install:-
 _md5_=228404910e0a8740ed679efc1c4eca86

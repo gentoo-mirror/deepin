@@ -8,5 +8,4 @@ LICENSE=GPL-3
 RDEPEND=x11-wm/deepin-metacity media-libs/libcanberra app-text/poppler
 SLOT=0
 SRC_URI=https://github.com/linuxdeepin/deepin-file-manager-backend/archive/0.1.16.tar.gz -> deepin-file-manager-backend-0.1.16.tar.gz
-_eclass_exported_funcs=src_prepare:- src_install:-
 _md5_=c0e4a98a9c4d6df35ecde1de46b4403e

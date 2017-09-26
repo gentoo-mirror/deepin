@@ -1,3 +1,5 @@
+app-emulation/deepin-wine 1.9.44: Deepin Version of Wine
+app-emulation/deepin-wine-helper 1.0.24: Deepin Version of Wine
 dde-base/dde-account-faces 1.0.10: Deepin Account face Images
 dde-base/dde-api 3.1.13: Go-lang bingdings for dde-daemon
 dde-base/dde-control-center 4.2.5.10: Control Center of Deepin Desktop Environment
@@ -66,6 +68,8 @@ media-sound/deepin-music 2.3.2-r1 3.1.6: Deepin Music Player
 media-sound/deepin-voice-recorder 1.3.3: Deepin Voice Recorder
 media-video/deepin-movie 2.2.15-r1: QML Movie Player based on QtAV
 media-video/deepin-movie-reborn 2.9.12 2.9.13: Deepin Movie Player
+net-im/deepin-wine-QQ 8.9.19983.18: Tencent QQ for Linux by Deepin
+net-im/deepin-wine-wechat 2.4.5.48.2: Tencent QQ for Linux by Deepin
 x11-apps/xcur2png 0.7.1: Convert X cursors to PNG images
 x11-libs/bamf 0.5.3: BAMF Application Matching Framework
 x11-libs/deepin-ui 1.1.20141229194712-r1: UI toolkit for Linux Deepin.

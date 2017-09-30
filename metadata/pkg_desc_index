@@ -24,14 +24,15 @@ dde-base/deepin-sound-theme 15.10.1: Deepin Sound themes
 dde-base/deepin-tool-kit 1.0.0: Base development tool of all C++/Qt Developer work on Deepin
 dde-base/deepin-wallpapers 1.6: Deepin Wallpapers
 dde-base/deepin-wm-switcher 1.1.4: Window manager switcher for Deepin
-dde-base/dtkcore 2.0.0: Base development tool of all C++/Qt Developer work on Deepin - Core modules
+dde-base/dtkcore 2.0.0 9999: Base development tool of all C++/Qt Developer work on Deepin - Core modules
 dde-base/dtksettings 0.1.7: DtkSettings is a powerfull tool to generation config form json.
-dde-base/dtkwidget 2.0.0-r1: Base development tool of all C++/Qt Developer work on Deepin - Widget modules
+dde-base/dtkwidget 2.0.0-r1 9999: Base development tool of all C++/Qt Developer work on Deepin - Widget modules
 dde-base/dtkwm 2.0.0: Deepin graphical user interface library
 dde-base/startdde 3.1.15: starter of Deepin Desktop Environment
 dde-extra/dde-calendar 1.0.12: Calendar for Deepin Desktop Environment
 dde-extra/dde-help 15.4.8: Help files for Deepin Desktop Environment
 dde-extra/dde-meta-multimedia 0.2-r1: Deepin Multimedia Softwares (meta package)
+dde-extra/deepin-clone 0.0.2: Deepin Disk and Partition Backup/Restore Tool
 dde-extra/deepin-desktop-monitor 9999: Deepin System Monitor
 dde-extra/deepin-gettext-tools 1.0.6: Deepin Internationalization utilities
 dde-extra/deepin-manual 1.0.6: Deepin User Manual
@@ -57,6 +58,7 @@ dev-python/xpybutil 0.0-r1: xcb-util for xpyb
 dev-qt/qtstyleplugins 20170311-r1: Additional style plugins for Qt
 media-gfx/blur-effect 1.1.2: Off-screen image blurring utility using OpenGL ES 3.0
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
+media-gfx/deepin-draw 9999: Deepin Painting Tool
 media-gfx/deepin-image-viewer 1.2.15-r1: Deepin Image Viewer
 media-gfx/deepin-screen-recorder 2.5-r1: Deepin Screencasting Application
 media-gfx/deepin-screenshot 3.1.15 4.0.9: Snapshot tools for linux deepin.

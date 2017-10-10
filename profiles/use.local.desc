@@ -7,6 +7,7 @@ dde-base/dde-daemon:miracast - Enable Miracast Support
 dde-base/dde-meta:manual - Install dde-extra/dde-help User Manual
 dde-base/dde-meta:multimedia - Install Deepin multimedia suite
 dde-base/dde-meta:terminal - Install dde-extra/deepin-terminal Terminal Emulator
+dde-extra/deepin-terminal:zssh - Enable access to remote server via GUI using net-misc/zssh
 media-gfx/deepin-screenshot:sharing - Install dde-extra/deepin-social-sharing for social media sharing
 media-libs/cogl:gles2 - Enable OpenGL ES 2.0 support
 media-libs/cogl:kms - Enable KMS support.

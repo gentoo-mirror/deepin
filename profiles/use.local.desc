@@ -3,7 +3,9 @@
 # * generated automatically using pmaint *
 
 dde-base/dde-daemon:bluetooth - Enable Bluetooth Support
+dde-base/dde-daemon:grub - Install Deepin themes for sys-boot/grub
 dde-base/dde-daemon:miracast - Enable Miracast Support
+dde-base/dde-meta:grub - Install Deepin themes for sys-boot/grub
 dde-base/dde-meta:manual - Install dde-extra/dde-help User Manual
 dde-base/dde-meta:multimedia - Install Deepin multimedia suite
 dde-base/dde-meta:terminal - Install dde-extra/deepin-terminal Terminal Emulator

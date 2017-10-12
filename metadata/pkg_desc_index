@@ -1,7 +1,7 @@
 app-emulation/deepin-wine 1.9.44: Deepin Version of Wine
 app-emulation/deepin-wine-helper 1.0.24: Deepin Version of Wine
 dde-base/dde-account-faces 1.0.10: Deepin Account face Images
-dde-base/dde-api 3.1.13: Go-lang bingdings for dde-daemon
+dde-base/dde-api 3.1.14: Go-lang bingdings for dde-daemon
 dde-base/dde-control-center 4.2.5.10: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 3.1.19: Daemon handling the DDE session settings
 dde-base/dde-dock 4.3.4: Deepin desktop environment - Dock module
@@ -28,7 +28,7 @@ dde-base/dtkcore 2.0.0 9999: Base development tool of all C++/Qt Developer work 
 dde-base/dtksettings 0.1.7: DtkSettings is a powerfull tool to generation config form json.
 dde-base/dtkwidget 2.0.0-r1 9999: Base development tool of all C++/Qt Developer work on Deepin - Widget modules
 dde-base/dtkwm 2.0.0: Deepin graphical user interface library
-dde-base/startdde 3.1.15: starter of Deepin Desktop Environment
+dde-base/startdde 3.1.16: starter of Deepin Desktop Environment
 dde-extra/dde-calendar 1.0.12: Calendar for Deepin Desktop Environment
 dde-extra/dde-help 15.4.8: Help files for Deepin Desktop Environment
 dde-extra/dde-meta-multimedia 0.2-r1: Deepin Multimedia Softwares (meta package)
@@ -42,6 +42,7 @@ dde-extra/deepin-shortcut-viewer 1.3.2: Deepin shortcut Viewer
 dde-extra/deepin-social-sharing 1.1.4: Deepin Social Sharing Service
 dde-extra/deepin-system-monitor 1.2: Deepin System Monitor
 dde-extra/deepin-terminal 2.6.1: Deepin Terminal
+dde-extra/plymouth-theme-deepin 15.10.2: Deepin theme for Plymouth
 dev-cpp/treefrog-framework 1.18.0: High-speed C++ MVC Framework for Web Application
 dev-go/dbus-factory 3.1.8: D-Bus library binding for golang
 dev-go/dde-go-essential 20170807: Essential go sources for DDE

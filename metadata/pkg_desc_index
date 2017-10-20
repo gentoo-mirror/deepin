@@ -6,11 +6,11 @@ dde-base/dde-control-center 4.2.5.10: Control Center of Deepin Desktop Environme
 dde-base/dde-daemon 3.2.0: Daemon handling the DDE session settings
 dde-base/dde-dock 4.3.4: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 4.3.2: Deepin File Manager and Desktop module for DDE
-dde-base/dde-launcher 4.1.8: Deepin desktop environment - Launcher module
+dde-base/dde-launcher 4.1.9: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.4.1: Deepin Desktop Enviroment (meta package)
 dde-base/dde-polkit-agent 0.1.0: PolicyKit agent for DDE
 dde-base/dde-qt-dbus-factory 0.3.0: A repository stores auto-generated Qt5 D-Bus code used by DDE
-dde-base/dde-qt5integration 0.2.3-r1: DDE system integration plugin for Qt5
+dde-base/dde-qt5integration 0.2.4: DDE system integration plugin for Qt5
 dde-base/dde-session-ui 4.0.14-r2: Deepin desktop environment - Session UI module
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
 dde-base/deepin-desktop-base 2016.12.6: Base components for Deepin Desktop
@@ -19,20 +19,20 @@ dde-base/deepin-file-manager-backend 0.1.16-r1: Deepin file manager backend
 dde-base/deepin-gtk-theme 17.10.4: Deepin GTK Theme
 dde-base/deepin-icon-theme 15.12.46: Deepin Icons
 dde-base/deepin-menu 3.1.6: Deepin menu service for building beautiful menus
-dde-base/deepin-notifications 3.0.7: System notifications for Deepin Desktop Environment
+dde-base/deepin-notifications 3.0.8: System notifications for Deepin Desktop Environment
 dde-base/deepin-sound-theme 15.10.1: Deepin Sound themes
 dde-base/deepin-tool-kit 1.0.0: Base development tool of all C++/Qt Developer work on Deepin
 dde-base/deepin-wallpapers 1.6: Deepin Wallpapers
 dde-base/deepin-wm-switcher 1.1.4: Window manager switcher for Deepin
 dde-base/dtkcore 2.0.1: Base development tool of all C++/Qt Developer work on Deepin - Core modules
 dde-base/dtksettings 0.1.7: DtkSettings is a powerfull tool to generation config form json.
-dde-base/dtkwidget 2.0.0-r1 2.0.1: Base development tool of all C++/Qt Developer work on Deepin - Widget modules
+dde-base/dtkwidget 2.0.1 9999: Base development tool of all C++/Qt Developer work on Deepin - Widget modules
 dde-base/dtkwm 2.0.1: Deepin graphical user interface library
 dde-base/startdde 3.1.16: starter of Deepin Desktop Environment
-dde-extra/dde-calendar 1.0.12: Calendar for Deepin Desktop Environment
+dde-extra/dde-calendar 1.0.13: Calendar for Deepin Desktop Environment
 dde-extra/dde-help 15.4.8: Help files for Deepin Desktop Environment
 dde-extra/dde-meta-multimedia 0.2-r1: Deepin Multimedia Softwares (meta package)
-dde-extra/deepin-clone 0.0.2: Deepin Disk and Partition Backup/Restore Tool
+dde-extra/deepin-clone 0.0.4: Deepin Disk and Partition Backup/Restore Tool
 dde-extra/deepin-desktop-monitor 9999: Deepin System Monitor
 dde-extra/deepin-gettext-tools 1.0.6: Deepin Internationalization utilities
 dde-extra/deepin-grub2-themes 1.0.0: Deepin theme for GRUB2

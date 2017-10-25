@@ -4,8 +4,8 @@ dde-base/dde-account-faces 1.0.10: Deepin Account face Images
 dde-base/dde-api 3.1.14: Go-lang bingdings for dde-daemon
 dde-base/dde-control-center 4.2.5.10: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 3.2.0: Daemon handling the DDE session settings
-dde-base/dde-dock 4.3.4: Deepin desktop environment - Dock module
-dde-base/dde-file-manager 4.3.4: Deepin File Manager and Desktop module for DDE
+dde-base/dde-dock 4.4.0: Deepin desktop environment - Dock module
+dde-base/dde-file-manager 4.3.4-r1: Deepin File Manager and Desktop module for DDE
 dde-base/dde-launcher 4.1.9: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.4.1: Deepin Desktop Enviroment (meta package)
 dde-base/dde-polkit-agent 0.1.1: PolicyKit agent for DDE
@@ -23,7 +23,7 @@ dde-base/deepin-notifications 3.0.8: System notifications for Deepin Desktop Env
 dde-base/deepin-sound-theme 15.10.1: Deepin Sound themes
 dde-base/deepin-tool-kit 1.0.0: Base development tool of all C++/Qt Developer work on Deepin
 dde-base/deepin-wallpapers 1.6: Deepin Wallpapers
-dde-base/deepin-wm-switcher 1.1.4: Window manager switcher for Deepin
+dde-base/deepin-wm-switcher 1.1.6: Window manager switcher for Deepin
 dde-base/dtkcore 2.0.2: Base development tool of all C++/Qt Developer work on Deepin - Core modules
 dde-base/dtksettings 0.1.7: DtkSettings is a powerfull tool to generation config form json.
 dde-base/dtkwidget 2.0.2-r1 9999: Base development tool of all C++/Qt Developer work on Deepin - Widget modules
@@ -78,4 +78,4 @@ x11-libs/gsettings-qt 0.1_p20160329_p0_p02: Qml bindings for GSettings.
 x11-themes/flattr-icons 1.3-r1: an icon theme inspired by the latest flat design trend
 x11-wm/deepin-metacity 3.22.10: Legacy window manager for Deepin
 x11-wm/deepin-mutter 3.20.21-r1: Deepin fork version of mutter
-x11-wm/deepin-wm 1.9.16: Deepin Window Manager
+x11-wm/deepin-wm 1.9.17: Deepin Window Manager

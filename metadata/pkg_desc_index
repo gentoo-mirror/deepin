@@ -33,6 +33,7 @@ dde-base/startdde 3.1.17: starter of Deepin Desktop Environment
 dde-extra/dde-calendar 1.0.13: Calendar for Deepin Desktop Environment
 dde-extra/dde-help 15.4.8: Help files for Deepin Desktop Environment
 dde-extra/dde-meta-multimedia 0.2-r1: Deepin Multimedia Softwares (meta package)
+dde-extra/deepin-boot-maker 2.0.3.1: A Tool to create a bootable usb stick quick and easy
 dde-extra/deepin-clone 0.0.5: Deepin Disk and Partition Backup/Restore Tool
 dde-extra/deepin-desktop-monitor 9999: Deepin System Monitor
 dde-extra/deepin-grub2-themes 1.0.0: Deepin theme for GRUB2

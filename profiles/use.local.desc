@@ -4,6 +4,7 @@
 
 dde-base/dde-control-center:redshift - Install x11-misc/redshift to support screen color temperature adjusting
 dde-base/dde-daemon:bluetooth - Enable Bluetooth Support
+dde-base/dde-daemon:fprint - Enables experimental fingerprint authentication using sys-auth/fprintd
 dde-base/dde-daemon:grub - Install Deepin themes for sys-boot/grub
 dde-base/dde-daemon:miracast - Enable Miracast Support
 dde-base/dde-meta:grub - Install Deepin themes for sys-boot/grub

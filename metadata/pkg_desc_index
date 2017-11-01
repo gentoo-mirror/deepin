@@ -78,6 +78,6 @@ x11-apps/xcur2png 0.7.1: Convert X cursors to PNG images
 x11-libs/bamf 0.5.3: BAMF Application Matching Framework
 x11-libs/gsettings-qt 0.1_p20160329_p0_p02: Qml bindings for GSettings.
 x11-themes/flattr-icons 1.3-r1: an icon theme inspired by the latest flat design trend
-x11-wm/deepin-metacity 3.22.10: Legacy window manager for Deepin
-x11-wm/deepin-mutter 3.20.21-r1: Deepin fork version of mutter
-x11-wm/deepin-wm 1.9.17: Deepin Window Manager
+x11-wm/deepin-metacity 3.22.11: Legacy window manager for Deepin
+x11-wm/deepin-mutter 3.20.22: Deepin fork version of mutter
+x11-wm/deepin-wm 1.9.18: Deepin Window Manager

@@ -5,12 +5,12 @@ dde-base/dde-api 3.1.15: Go-lang bingdings for dde-daemon
 dde-base/dde-control-center 4.3.0: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 3.2.2: Daemon handling the DDE session settings
 dde-base/dde-dock 4.4.1: Deepin desktop environment - Dock module
-dde-base/dde-file-manager 4.3.5: Deepin File Manager and Desktop module for DDE
+dde-base/dde-file-manager 4.4.0: Deepin File Manager and Desktop module for DDE
 dde-base/dde-launcher 4.2.1: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.5: Deepin Desktop Enviroment (meta package)
 dde-base/dde-polkit-agent 0.1.1: PolicyKit agent for DDE
 dde-base/dde-qt-dbus-factory 0.3.2: A repository stores auto-generated Qt5 D-Bus code used by DDE
-dde-base/dde-qt5integration 0.2.7: DDE system integration plugin for Qt5
+dde-base/dde-qt5integration 0.2.7 0.2.8.1: DDE system integration plugin for Qt5
 dde-base/dde-session-ui 4.0.17: Deepin desktop environment - Session UI module
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
 dde-base/deepin-desktop-base 2016.13.1: Base components for Deepin Desktop
@@ -25,7 +25,7 @@ dde-base/deepin-sound-theme 15.10.2: Deepin Sound themes
 dde-base/deepin-tool-kit 1.0.0: Base development tool of all C++/Qt Developer work on Deepin
 dde-base/deepin-wallpapers 1.7: Deepin Wallpapers
 dde-base/deepin-wm-switcher 1.1.7: Window manager switcher for Deepin
-dde-base/dtkcore 2.0.2: Base development tool of all C++/Qt Developer work on Deepin - Core modules
+dde-base/dtkcore 2.0.2-r1: Base development tool of all C++/Qt Developer work on Deepin - Core modules
 dde-base/dtksettings 0.1.7: DtkSettings is a powerfull tool to generation config form json.
 dde-base/dtkwidget 2.0.4.2 9999: Base development tool of all C++/Qt Developer work on Deepin - Widget modules
 dde-base/dtkwm 2.0.1: Deepin graphical user interface library
@@ -60,6 +60,7 @@ dev-python/dae 1.0.2-r1: Deepin App Engine
 dev-python/jieba 0.38 0.39: Chinese text segmentation: built to be the best Python Chinese word segmentation module.
 dev-python/python-ass 9999: A library for parsing and manipulating Advanced SubStation Alpha subtitle files.
 dev-python/xpybutil 0.0-r1: xcb-util for xpyb
+dev-qt/qt5dxcb-plugin 1.0: XCB Qt5 platform plugin for DDE
 dev-qt/qtstyleplugins 20170311-r1: Additional style plugins for Qt
 media-gfx/blur-effect 1.1.2: Off-screen image blurring utility using OpenGL ES 3.0
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files

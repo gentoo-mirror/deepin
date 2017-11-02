@@ -38,7 +38,7 @@ dde-extra/deepin-clone 0.0.5.1: Deepin Disk and Partition Backup/Restore Tool
 dde-extra/deepin-desktop-monitor 9999: Deepin System Monitor
 dde-extra/deepin-grub2-themes 1.0.0: Deepin theme for GRUB2
 dde-extra/deepin-manual 1.0.6: Deepin User Manual
-dde-extra/deepin-picker 1.2: Color picker tool for Deepin
+dde-extra/deepin-picker 1.4: Color picker tool for Deepin
 dde-extra/deepin-qml-widgets 2.3.6-r1: Deepin QML widgets and dbus factory
 dde-extra/deepin-shortcut-viewer 1.3.2: Deepin shortcut Viewer
 dde-extra/deepin-social-sharing 1.1.4: Deepin Social Sharing Service

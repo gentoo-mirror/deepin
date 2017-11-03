@@ -31,7 +31,7 @@ dde-base/dtkwidget 2.0.4.2 9999: Base development tool of all C++/Qt Developer w
 dde-base/dtkwm 2.0.1: Deepin graphical user interface library
 dde-base/startdde 3.1.17: starter of Deepin Desktop Environment
 dde-extra/dde-calendar 1.0.13: Calendar for Deepin Desktop Environment
-dde-extra/dde-help 15.4.8: Help files for Deepin Desktop Environment
+dde-extra/dde-help 15.5: Help files for Deepin Desktop Environment
 dde-extra/dde-meta-multimedia 0.2-r1: Deepin Multimedia Softwares (meta package)
 dde-extra/deepin-boot-maker 2.0.3.1: A Tool to create a bootable usb stick quick and easy
 dde-extra/deepin-clone 0.0.5.1: Deepin Disk and Partition Backup/Restore Tool
@@ -45,7 +45,7 @@ dde-extra/deepin-social-sharing 1.1.4: Deepin Social Sharing Service
 dde-extra/deepin-system-monitor 1.3.5: Deepin System Monitor
 dde-extra/deepin-terminal 2.7.4: Deepin Terminal
 dde-extra/deepin-topbar 0.3.2.6: A Desktop Topbar with some tools
-dde-extra/plymouth-theme-deepin 15.10.5: Deepin theme for Plymouth
+dde-extra/plymouth-theme-deepin 15.10.6: Deepin theme for Plymouth
 dev-cpp/treefrog-framework 1.18.0: High-speed C++ MVC Framework for Web Application
 dev-go/dbus-factory 3.1.9: D-Bus library binding for golang
 dev-go/dde-go-essential 20170807: Essential go sources for DDE

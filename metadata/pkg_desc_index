@@ -2,8 +2,8 @@ app-emulation/deepin-wine 1.9.44: Deepin Version of Wine
 app-emulation/deepin-wine-helper 1.0.24: Deepin Version of Wine
 dde-base/dde-account-faces 1.0.10: Deepin Account face Images
 dde-base/dde-api 3.1.17: Go-lang bingdings for dde-daemon
-dde-base/dde-control-center 4.3.1: Control Center of Deepin Desktop Environment
-dde-base/dde-daemon 3.2.3: Daemon handling the DDE session settings
+dde-base/dde-control-center 4.3.2: Control Center of Deepin Desktop Environment
+dde-base/dde-daemon 3.2.4: Daemon handling the DDE session settings
 dde-base/dde-dock 4.4.3: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 4.4.2: Deepin File Manager and Desktop module for DDE
 dde-base/dde-launcher 4.2.3: Deepin desktop environment - Launcher module
@@ -11,10 +11,10 @@ dde-base/dde-meta 15.5: Deepin Desktop Enviroment (meta package)
 dde-base/dde-polkit-agent 0.1.1: PolicyKit agent for DDE
 dde-base/dde-qt-dbus-factory 0.4.1: A repository stores auto-generated Qt5 D-Bus code used by DDE
 dde-base/dde-qt5integration 0.2.7 0.2.8.1: DDE system integration plugin for Qt5
-dde-base/dde-session-ui 4.1.0: Deepin desktop environment - Session UI module
+dde-base/dde-session-ui 4.1.1: Deepin desktop environment - Session UI module
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
 dde-base/deepin-desktop-base 2016.13.2: Base components for Deepin Desktop
-dde-base/deepin-desktop-schemas 3.2.0: GSettings deepin desktop-wide schemas
+dde-base/deepin-desktop-schemas 3.2.1: GSettings deepin desktop-wide schemas
 dde-base/deepin-file-manager-backend 0.1.16-r1: Deepin file manager backend
 dde-base/deepin-gettext-tools 1.0.7: Deepin Internationalization utilities
 dde-base/deepin-gtk-theme 17.10.4: Deepin GTK Theme

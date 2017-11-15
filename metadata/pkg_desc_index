@@ -34,6 +34,7 @@ dde-extra/dde-calendar 1.1.0: Calendar for Deepin Desktop Environment
 dde-extra/dde-help 15.5: Help files for Deepin Desktop Environment
 dde-extra/dde-meta-multimedia 0.2-r1: Deepin Multimedia Softwares (meta package)
 dde-extra/deepin-boot-maker 2.0.4: A Tool to create a bootable usb stick quick and easy
+dde-extra/deepin-calculator 0.0.1: An easy to use Calculator for Deepin
 dde-extra/deepin-clone 0.0.6: Deepin Disk and Partition Backup/Restore Tool
 dde-extra/deepin-desktop-monitor 9999: Deepin System Monitor
 dde-extra/deepin-grub2-themes 1.0.0: Deepin theme for GRUB2
@@ -44,7 +45,7 @@ dde-extra/deepin-shortcut-viewer 1.3.2: Deepin shortcut Viewer
 dde-extra/deepin-social-sharing 1.1.4: Deepin Social Sharing Service
 dde-extra/deepin-system-monitor 1.3.6: Deepin System Monitor
 dde-extra/deepin-terminal 2.7.6: Deepin Terminal
-dde-extra/deepin-topbar 0.3.2.6: A Desktop Topbar with some tools
+dde-extra/deepin-topbar 0.3.3: A Desktop Topbar with some tools
 dde-extra/plymouth-theme-deepin 15.10.6: Deepin theme for Plymouth
 dev-cpp/treefrog-framework 1.18.0: High-speed C++ MVC Framework for Web Application
 dev-go/dbus-factory 3.1.10: D-Bus library binding for golang

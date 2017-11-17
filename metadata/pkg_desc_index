@@ -17,8 +17,8 @@ dde-base/deepin-desktop-base 2016.13.2: Base components for Deepin Desktop
 dde-base/deepin-desktop-schemas 3.2.2: GSettings deepin desktop-wide schemas
 dde-base/deepin-file-manager-backend 0.1.16-r1: Deepin file manager backend
 dde-base/deepin-gettext-tools 1.0.7: Deepin Internationalization utilities
-dde-base/deepin-gtk-theme 17.10.4: Deepin GTK Theme
-dde-base/deepin-icon-theme 15.12.49: Deepin Icons
+dde-base/deepin-gtk-theme 17.10.5: Deepin GTK Theme
+dde-base/deepin-icon-theme 15.12.50: Deepin Icons
 dde-base/deepin-menu 3.1.8: Deepin menu service for building beautiful menus
 dde-base/deepin-notifications 3.1.2: System notifications for Deepin Desktop Environment
 dde-base/deepin-sound-theme 15.10.2: Deepin Sound themes
@@ -67,7 +67,7 @@ media-gfx/blur-effect 1.1.2: Off-screen image blurring utility using OpenGL ES 3
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
 media-gfx/deepin-draw 9999: Deepin Painting Tool
 media-gfx/deepin-image-viewer 1.2.16.2: Deepin Image Viewer
-media-gfx/deepin-screen-recorder 2.6.4: Deepin Screencasting Application
+media-gfx/deepin-screen-recorder 2.6.5: Deepin Screencasting Application
 media-gfx/deepin-screenshot 3.1.15 4.0.10.1: Snapshot tools for linux deepin.
 media-libs/cogl 1.22.5: A library for using 3D graphics hardware to draw pretty pictures
 media-sound/deepin-music 3.1.7.1: Deepin Music Player

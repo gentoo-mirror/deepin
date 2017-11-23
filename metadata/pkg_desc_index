@@ -2,16 +2,16 @@ app-emulation/deepin-wine 1.9.44: Deepin Version of Wine
 app-emulation/deepin-wine-helper 1.0.24: Deepin Version of Wine
 dde-base/dde-account-faces 1.0.10: Deepin Account face Images
 dde-base/dde-api 3.1.17: Go-lang bingdings for dde-daemon
-dde-base/dde-control-center 4.3.3: Control Center of Deepin Desktop Environment
+dde-base/dde-control-center 4.3.4: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 3.2.6: Daemon handling the DDE session settings
-dde-base/dde-dock 4.5.2: Deepin desktop environment - Dock module
+dde-base/dde-dock 4.5.3: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 4.4.3: Deepin File Manager and Desktop module for DDE
 dde-base/dde-launcher 4.2.4: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.5: Deepin Desktop Enviroment (meta package)
 dde-base/dde-polkit-agent 0.1.1: PolicyKit agent for DDE
 dde-base/dde-qt-dbus-factory 0.4.2: A repository stores auto-generated Qt5 D-Bus code used by DDE
 dde-base/dde-qt5integration 0.2.7 0.2.8.1: DDE system integration plugin for Qt5
-dde-base/dde-session-ui 4.1.4: Deepin desktop environment - Session UI module
+dde-base/dde-session-ui 4.1.6: Deepin desktop environment - Session UI module
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
 dde-base/deepin-desktop-base 2017.11.1: Base components for Deepin Desktop
 dde-base/deepin-desktop-schemas 3.2.2: GSettings deepin desktop-wide schemas
@@ -24,7 +24,7 @@ dde-base/deepin-notifications 3.1.2: System notifications for Deepin Desktop Env
 dde-base/deepin-sound-theme 15.10.2: Deepin Sound themes
 dde-base/deepin-tool-kit 1.0.0: Base development tool of all C++/Qt Developer work on Deepin
 dde-base/deepin-wallpapers 1.7: Deepin Wallpapers
-dde-base/deepin-wm-switcher 1.1.8: Window manager switcher for Deepin
+dde-base/deepin-wm-switcher 1.1.9: Window manager switcher for Deepin
 dde-base/dtkcore 2.0.5: Base development tool of all C++/Qt Developer work on Deepin - Core modules
 dde-base/dtksettings 0.1.7: DtkSettings is a powerfull tool to generation config form json.
 dde-base/dtkwidget 2.0.5.1 9999: Base development tool of all C++/Qt Developer work on Deepin - Widget modules

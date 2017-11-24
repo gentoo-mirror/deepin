@@ -2,9 +2,9 @@ app-emulation/deepin-wine 1.9.44: Deepin Version of Wine
 app-emulation/deepin-wine-helper 1.0.24: Deepin Version of Wine
 dde-base/dde-account-faces 1.0.10: Deepin Account face Images
 dde-base/dde-api 3.1.17: Go-lang bingdings for dde-daemon
-dde-base/dde-control-center 4.3.4: Control Center of Deepin Desktop Environment
+dde-base/dde-control-center 4.3.5: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 3.2.6: Daemon handling the DDE session settings
-dde-base/dde-dock 4.5.3: Deepin desktop environment - Dock module
+dde-base/dde-dock 4.5.5: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 4.4.3: Deepin File Manager and Desktop module for DDE
 dde-base/dde-launcher 4.2.4: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.5: Deepin Desktop Enviroment (meta package)
@@ -46,7 +46,7 @@ dde-extra/deepin-shortcut-viewer 1.3.2: Deepin shortcut Viewer
 dde-extra/deepin-social-sharing 1.1.4: Deepin Social Sharing Service
 dde-extra/deepin-system-monitor 1.3.6: Deepin System Monitor
 dde-extra/deepin-terminal 2.8: Deepin Terminal
-dde-extra/deepin-topbar 0.3.4.1: A Desktop Topbar with some tools
+dde-extra/deepin-topbar 0.3.5: A Desktop Topbar with some tools
 dde-extra/plymouth-theme-deepin 15.10.6: Deepin theme for Plymouth
 dev-cpp/treefrog-framework 1.18.0: High-speed C++ MVC Framework for Web Application
 dev-go/dbus-factory 3.1.10: D-Bus library binding for golang
@@ -68,7 +68,7 @@ dev-qt/qtstyleplugins 20170311-r1: Additional style plugins for Qt
 media-gfx/blur-effect 1.1.2: Off-screen image blurring utility using OpenGL ES 3.0
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
 media-gfx/deepin-draw 9999: Deepin Painting Tool
-media-gfx/deepin-image-viewer 1.2.16.2: Deepin Image Viewer
+media-gfx/deepin-image-viewer 1.2.16.4: Deepin Image Viewer
 media-gfx/deepin-screen-recorder 2.6.5: Deepin Screencasting Application
 media-gfx/deepin-screenshot 3.1.15 4.0.10.3: Snapshot tools for linux deepin.
 media-libs/cogl 1.22.5: A library for using 3D graphics hardware to draw pretty pictures

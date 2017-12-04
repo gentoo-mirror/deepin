@@ -48,7 +48,7 @@ dde-extra/deepin-system-monitor 1.3.7: Deepin System Monitor
 dde-extra/deepin-terminal 2.9.1: Deepin Terminal
 dde-extra/deepin-topbar 0.3.5: A Desktop Topbar with some tools
 dde-extra/plymouth-theme-deepin 15.10.7: Deepin theme for Plymouth
-dev-cpp/treefrog-framework 1.18.0: High-speed C++ MVC Framework for Web Application
+dev-cpp/treefrog-framework 1.19.0: High-speed C++ MVC Framework for Web Application
 dev-go/dbus-factory 3.1.10: D-Bus library binding for golang
 dev-go/dde-go-essential 20170807: Essential go sources for DDE
 dev-go/deepin-go-lib 1.2.2: Deepin GoLang Library

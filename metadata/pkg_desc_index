@@ -75,7 +75,7 @@ media-libs/cogl 1.22.5: A library for using 3D graphics hardware to draw pretty 
 media-sound/deepin-music 3.1.7.1: Deepin Music Player
 media-sound/deepin-voice-recorder 1.3.6: Deepin Voice Recorder
 media-video/deepin-movie 2.2.15-r1: QML Movie Player based on QtAV
-media-video/deepin-movie-reborn 3.0: Deepin Movie Player
+media-video/deepin-movie-reborn 3.0.2: Deepin Movie Player
 net-im/deepin-wine-QQ 8.9.19983.19: Tencent QQ for Linux by Deepin
 net-im/deepin-wine-wechat 2.6.0.40.1: Tencent QQ for Linux by Deepin
 x11-apps/xcur2png 0.7.1: Convert X cursors to PNG images

@@ -1,20 +1,20 @@
 app-emulation/deepin-wine 2.18.2: Deepin Version of Wine
 app-emulation/deepin-wine-helper 1.0.27: Deepin Version of Wine
 dde-base/dde-account-faces 1.0.10: Deepin Account face Images
-dde-base/dde-api 3.1.17: Go-lang bingdings for dde-daemon
+dde-base/dde-api 3.1.18: Go-lang bingdings for dde-daemon
 dde-base/dde-control-center 4.3.7: Control Center of Deepin Desktop Environment
-dde-base/dde-daemon 3.2.7: Daemon handling the DDE session settings
-dde-base/dde-dock 4.5.7.1: Deepin desktop environment - Dock module
+dde-base/dde-daemon 3.2.8: Daemon handling the DDE session settings
+dde-base/dde-dock 4.5.8: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 4.4.7: Deepin File Manager and Desktop module for DDE
-dde-base/dde-launcher 4.2.7: Deepin desktop environment - Launcher module
+dde-base/dde-launcher 4.2.9: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.5: Deepin Desktop Enviroment (meta package)
 dde-base/dde-polkit-agent 0.1.1: PolicyKit agent for DDE
 dde-base/dde-qt-dbus-factory 0.4.2: A repository stores auto-generated Qt5 D-Bus code used by DDE
 dde-base/dde-qt5integration 0.2.8.3: DDE system integration plugin for Qt5
-dde-base/dde-session-ui 4.1.7: Deepin desktop environment - Session UI module
+dde-base/dde-session-ui 4.2.0: Deepin desktop environment - Session UI module
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
 dde-base/deepin-desktop-base 2017.11.1: Base components for Deepin Desktop
-dde-base/deepin-desktop-schemas 3.2.3: GSettings deepin desktop-wide schemas
+dde-base/deepin-desktop-schemas 3.2.4: GSettings deepin desktop-wide schemas
 dde-base/deepin-file-manager-backend 0.1.16-r1: Deepin file manager backend
 dde-base/deepin-gettext-tools 1.0.7: Deepin Internationalization utilities
 dde-base/deepin-gtk-theme 17.10.5: Deepin GTK Theme
@@ -29,7 +29,7 @@ dde-base/dtkcore 2.0.5.2: Base development tool of all C++/Qt Developer work on 
 dde-base/dtksettings 0.1.7: DtkSettings is a powerfull tool to generation config form json.
 dde-base/dtkwidget 2.0.5.2 9999: Base development tool of all C++/Qt Developer work on Deepin - Widget modules
 dde-base/dtkwm 2.0.5: Deepin graphical user interface library
-dde-base/startdde 3.1.22: starter of Deepin Desktop Environment
+dde-base/startdde 3.1.23: starter of Deepin Desktop Environment
 dde-extra/dde-calendar 1.1.1: Calendar for Deepin Desktop Environment
 dde-extra/dde-file-manager-integration 9999: Extra plugins for dde-file-manager
 dde-extra/dde-help 15.5: Help files for Deepin Desktop Environment
@@ -49,9 +49,9 @@ dde-extra/deepin-terminal 2.9.2: Deepin Terminal
 dde-extra/deepin-topbar 0.3.5: A Desktop Topbar with some tools
 dde-extra/plymouth-theme-deepin 15.10.7: Deepin theme for Plymouth
 dev-cpp/treefrog-framework 1.19.0: High-speed C++ MVC Framework for Web Application
-dev-go/dbus-factory 3.1.10: D-Bus library binding for golang
-dev-go/dde-go-essential 20170807: Essential go sources for DDE
-dev-go/deepin-go-lib 1.2.2: Deepin GoLang Library
+dev-go/dbus-factory 3.1.11: D-Bus library binding for golang
+dev-go/dde-go-essential 20171213: Essential go sources for DDE
+dev-go/deepin-go-lib 1.2.3: Deepin GoLang Library
 dev-go/go-dbus-generator 0.6.6: Convert D-Bus interfaces to go-lang or qml wrapper code
 dev-go/go-gir-generator 1.0.2-r1 1.0.2-r2: Generate static golang bindings for GObject
 dev-go/go-x11-client 0.0.2-r2: Deepin GoLang X11 client Library

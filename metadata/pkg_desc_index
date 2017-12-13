@@ -55,8 +55,6 @@ dev-go/deepin-go-lib 1.2.3: Deepin GoLang Library
 dev-go/go-dbus-generator 0.6.6: Convert D-Bus interfaces to go-lang or qml wrapper code
 dev-go/go-gir-generator 1.0.2-r1 1.0.2-r2: Generate static golang bindings for GObject
 dev-go/go-x11-client 0.0.2-r2: Deepin GoLang X11 client Library
-dev-lang/sassc 3.4.2: libsass command line driver
-dev-libs/libsass 3.4.2: A C/C++ implementation of a Sass compiler
 dev-perl/XML-LibXML-PrettyPrint 0.6.0: XML::LibXML::PrettyPrint - add pleasant whitespace to a DOM tree
 dev-python/dae 1.0.2-r1: Deepin App Engine
 dev-python/jieba 0.38 0.39: Chinese text segmentation: built to be the best Python Chinese word segmentation module.
@@ -75,7 +73,7 @@ media-libs/cogl 1.22.5: A library for using 3D graphics hardware to draw pretty 
 media-sound/deepin-music 3.1.7.1: Deepin Music Player
 media-sound/deepin-voice-recorder 1.3.6: Deepin Voice Recorder
 media-video/deepin-movie 2.2.15-r1: QML Movie Player based on QtAV
-media-video/deepin-movie-reborn 3.0.2: Deepin Movie Player
+media-video/deepin-movie-reborn 3.1.1: Deepin Movie Player
 net-im/deepin-wine-QQ 8.9.19983.19: Tencent QQ for Linux by Deepin
 net-im/deepin-wine-wechat 2.6.0.40.1: Tencent QQ for Linux by Deepin
 x11-apps/xcur2png 0.7.1: Convert X cursors to PNG images

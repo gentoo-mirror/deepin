@@ -24,7 +24,7 @@ SLOT="0"
 IUSE=""
 
 RDEPEND="
-	>=dev-libs/libqtxdg-2.0.0
+	>=dev-libs/libqtxdg-3.0.0
 	dev-qt/qtcore:5
 	dev-qt/qtgui:5
 	dev-qt/qtwidgets:5
@@ -34,7 +34,6 @@ RDEPEND="
 	dev-qt/qtsvg:5
 	media-libs/fontconfig
 	media-libs/freetype
-	x11-libs/gtk+:2
 	dev-qt/qt5dxcb-plugin
 	dev-qt/qtstyleplugins:5
 	"

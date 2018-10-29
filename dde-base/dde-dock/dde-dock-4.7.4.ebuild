@@ -11,7 +11,7 @@ HOMEPAGE="https://github.com/linuxdeepin/dde-dock"
 SRC_URI="https://github.com/linuxdeepin/${PN}/archive/${PV}.tar.gz -> ${P}.tar.gz"
 
 LICENSE="GPL-3"
-SLOT="0/4.6.0"
+SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
 
@@ -21,6 +21,7 @@ RDEPEND="dev-qt/qtsvg:5
 		 dde-base/dde-daemon
 		 dde-base/dde-network-utils
 		 dde-base/dde-qt5integration
+        >=dde-base/dtkwidget-2.0.9.5:=
 	     "
 DEPEND="${RDEPEND}
 		virtual/pkgconfig
@@ -30,7 +31,7 @@ DEPEND="${RDEPEND}
 		x11-libs/libXtst
 		dde-base/dde-qt-dbus-factory
 		x11-libs/gsettings-qt
-        >=dde-base/dtkwidget-2.0.1:=
+		dev-libs/libdbusmenu-qt
 	    "
 
 src_prepare() {
@@ -39,3 +40,9 @@ src_prepare() {
 	cmake-utils_src_prepare
 }
 
+#src_configure() {
+#	local mycmakeargs=(
+#		-DDOCK_TRAY_USE_NATIVE_POPUP=YES
+#		)
+#	cmake-utils_src_configure
+#}

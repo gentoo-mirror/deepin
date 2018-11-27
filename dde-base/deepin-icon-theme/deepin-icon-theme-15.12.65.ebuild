@@ -14,12 +14,20 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
 DEPEND="dev-util/gtk-update-icon-cache"
-#DEPEND="x11-themes/flattr-icons"
 
 src_prepare() {
-#	sed -i "s|flattr|Flattr|g" deepin/index.theme
 
 	default_src_prepare
+}
+
+src_compile() {
+	emake hicolor-links
+}
+
+src_install() {
+	emake DESTDIR="$D" install-icons install-cursors
+	insinto /usr/share/icons/
+	doins -r Sea usr/share/icons/hicolor
 }
 
 pkg_preinst() { gnome2_icon_savelist; }

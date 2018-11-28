@@ -47,7 +47,7 @@ DEPEND="${RDEPEND}
 
 src_prepare() {
 
-	eapply ${FILESDIR}/3.2.3-disable-tap-gesture.patch
+	eapply ${FILESDIR}/3.8.0-disable-tap-gesture.patch
 	export GOPATH="${S}:/usr/share/gocode"	
 	go get -d -f -u -v github.com/msteinert/pam || die
 	LIBDIR=$(get_libdir)

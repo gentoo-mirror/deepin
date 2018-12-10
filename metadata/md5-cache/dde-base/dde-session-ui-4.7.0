@@ -7,6 +7,6 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=sys-apps/systemd[policykit] x11-libs/gsettings-qt x11-misc/lightdm[qt5] x11-libs/libXext x11-libs/libXtst x11-libs/libX11 x11-libs/libXcursor x11-libs/libXfixes x11-apps/xrandr dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtdbus:5 dev-qt/qtx11extras:5 dev-qt/qtwidgets:5 dev-qt/qtsvg:5 dde-base/dde-daemon >=dde-base/deepin-desktop-schemas-2.91.2 dde-base/startdde !dde-base/deepin-notifications
 SLOT=0
-SRC_URI=https://github.com/linuxdeepin/dde-session-ui/archive/4.6.2.tar.gz -> dde-session-ui-4.6.2.tar.gz
+SRC_URI=https://github.com/linuxdeepin/dde-session-ui/archive/4.7.0.tar.gz -> dde-session-ui-4.7.0.tar.gz
 _eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	multilib	b2f01ad412baf81650c23fcf0975fa33	qmake-utils	bdf97e69a34b864d6d545f4ec3143ff7	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
 _md5_=db9f0c7a3725d4e0af3997f3c4fc2774

@@ -2,7 +2,11 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
 
-EAPI=5
+EAPI=6
+
+EGO_PN="github.com/linuxdeepin/go-dbus-factory"
+
+inherit golang-vcs-snapshot
 
 DESCRIPTION="Go bindings to generate D-Bus services"
 HOMEPAGE="https://github.com/linuxdeepin/go-dbus-factory"
@@ -13,23 +17,19 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
 
-DEPEND="
-	dev-go/deepin-go-lib"
+DEPEND="dev-go/deepin-go-lib"
 
-src_prepare() {
-	mkdir -p ${S}/build/src/github.com/linuxdeepin
-	ln -s ${S} ${S}/build/src/github.com/linuxdeepin/go-dbus-factory
-
-	export GOPATH="/usr/share/gocode:${S}/build"
-}
 
 src_compile() {
+	export GOPATH=$(get_golibdir_gopath)
+	cd ${S}/src/${EGO_PN}
 	emake bin
-	${S}/gen.sh
+	${S}/src/${EGO_PN}/gen.sh
 }
 
 src_install() {
-	insinto /usr/share/gocode/src/github.com/linuxdeepin/go-dbus-factory
-	doins -r com.* org.* net.* object_manager 
+	insinto $(get_golibdir_gopath)/src/${EGO_PN}
+	cd ${S}/src/${EGO_PN}
+	doins -r object_manager net.* org.* com.*
 }
 

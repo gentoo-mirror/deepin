@@ -7,4 +7,4 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3+
 SLOT=0
 SRC_URI=https://github.com/linuxdeepin/go-dbus-generator/archive/0.6.6.tar.gz -> go-dbus-generator-0.6.6.tar.gz
-_md5_=9ceb094908596eecb9869a0d5594027a
+_md5_=2c25ca602fc53c666bcc5b4d8dc1d8b6

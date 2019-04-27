@@ -1,0 +1,11 @@
+DEFINED_PHASES=postinst
+DESCRIPTION=Deepin Desktop Enviroment (meta package)
+EAPI=4
+HOMEPAGE=http://www.linuxdeepin.com
+IUSE=+policykit manual +terminal multimedia grub elogind systemd turbo
+KEYWORDS=~amd64 ~x86
+LICENSE=metapackage
+RDEPEND=>=dde-base/dde-control-center-4.7.0 >=dde-base/startdde-3.2.0 >=dde-base/dde-file-manager-4.6.9 >=dde-base/dde-launcher-4.5.0 >=dde-base/dde-dock-4.7.4 >=dde-base/deepin-desktop-base-2019.04.24 >=dde-base/dde-session-ui-4.6.0[systemd?,elogind?] >=dde-base/dde-daemon-3.3.0[grub?,systemd?,elogind?] >=x11-wm/deepin-wm-1.9.0 policykit? ( dde-base/dde-polkit-agent ) manual? ( >=dde-extra/dde-help-15.5 ) terminal? ( dde-extra/deepin-terminal ) multimedia? ( dde-extra/dde-meta-multimedia ) turbo? ( dde-extra/deepin-turbo[systemd?,elogind?] )
+REQUIRED_USE=^^ ( systemd elogind )
+SLOT=0
+_md5_=fd6c89f7e9450fa4785f25a98dafff9a

@@ -56,7 +56,7 @@ DEPEND="${RDEPEND}
 		>=dev-go/go-x11-client-0.0.4
 		>=dev-go/deepin-go-lib-1.2.14
 		>=dev-go/dbus-factory-3.1.17
-		>=dev-go/go-dbus-factory-0.0.5
+		>=dev-go/go-dbus-factory-0.9.0
 		>=dde-base/dde-api-3.1.27
 		>=dde-base/deepin-gettext-tools-1.0.8
 		dev-libs/libinput

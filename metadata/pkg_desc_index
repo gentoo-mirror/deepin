@@ -1,5 +1,5 @@
 app-accessibility/onboard 1.4.1 1.4.1.7: An onscreen keyboard useful for tablet PC users and for mobility impaired users
-app-emulation/deepin-wine 2.18.18_rc2 2.18.18: Deepin Version of Wine
+app-emulation/deepin-wine 2.18.18 2.18.22_rc0: Deepin Version of Wine
 app-emulation/deepin-wine-helper 1.2.0: Deepin Version of Wine
 app-emulation/deepin-wine-plugin 1.0.2: Deepin Version of Wine
 dde-base/dde-account-faces 1.0.11: Deepin Account face Images
@@ -79,11 +79,11 @@ media-libs/cogl 1.22.5-r1: A library for using 3D graphics hardware to draw pret
 media-sound/deepin-music 3.1.18 5.0.1: Deepin Music Player
 media-sound/deepin-voice-recorder 1.4.2 5.0.0: Deepin Voice Recorder
 media-video/deepin-movie-reborn 3.2.24.2 3.2.24.3: Deepin Movie Player
-net-im/deepin-wine-QQ 8.9.19983.23: Tencent QQ for Linux by Deepin
+net-im/deepin-wine-QQ 8.9.19983.23 9.1.8.0: Tencent QQ for Linux by Deepin
 net-im/deepin-wine-QQ-Light 7.9.14308.8: Tencent QQ light for Linux by Deepin
 net-im/deepin-wine-TIM 2.0.0.4: Tencent TIM for Linux by Deepin
-net-im/deepin-wine-wechat 2.6.2.31.0 2.6.8.52.0: Tencent WeChat for Linux by Deepin
-net-im/deepin-wine-wechat-work 2.4.16.1347.1: Tencent WeChat Work for Linux by Deepin
+net-im/deepin-wine-wechat 2.6.2.31.0 2.6.8.65.0: Tencent WeChat for Linux by Deepin
+net-im/deepin-wine-wechat-work 2.8.10.2010.0: Tencent WeChat Work for Linux by Deepin
 net-misc/deepin-wine-thunderspeed 7.10.35.366.18: ThunderSpeed for Linux by Deepin
 virtual/dde-wm 0: Virtual for DDE Window Manager
 x11-apps/xcur2png 0.7.1: Convert X cursors to PNG images

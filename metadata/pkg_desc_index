@@ -67,12 +67,13 @@ dev-libs/granite 5.2.1: Elementary OS library that extends Gtk+
 dev-qt/qcef 1.1.7-r1: Qt5 binding of Chromium Embedded Framework
 dev-qt/qt5dxcb-plugin 1.2.6 5.0.1: XCB Qt5 platform plugin for DDE
 dev-qt/qtstyleplugins 20170311-r1: Additional style plugins for Qt
+dev-qt/qtxcb-private-headers 5.12.3 5.13.2 5.14.1: The Private Headers for the Qt5 Xcb
 mail-client/deepin-wine-foxmail 7.2.3: Foxmail mail client for Linux by Deepin
 media-gfx/blur-effect 1.1.3: Off-screen image blurring utility using OpenGL ES 3.0
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
 media-gfx/deepin-draw 1.0.0: Deepin Painting Tool
 media-gfx/deepin-image-viewer 1.3.18 5.0.0: Deepin Image Viewer
-media-gfx/deepin-screen-recorder 2.8.1 5.0.0: Deepin Screencasting Application
+media-gfx/deepin-screen-recorder 2.8.1 5.0.0-r1: Deepin Screencasting Application
 media-gfx/deepin-screenshot 4.2.2 5.0.0: Snapshot tools for linux deepin.
 media-libs/cogl 1.22.5-r1: A library for using 3D graphics hardware to draw pretty pictures
 media-sound/deepin-music 3.1.18 5.0.1: Deepin Music Player
@@ -90,5 +91,5 @@ x11-libs/bamf 0.5.4: BAMF Application Matching Framework
 x11-libs/gsettings-qt 0.1_p20170824 0.2: Qml bindings for GSettings.
 x11-wm/dde-kwin 0.1.0 5.0.0: KWin configures on DDE
 x11-wm/deepin-metacity 3.22.24: Legacy window manager for Deepin
-x11-wm/deepin-mutter 3.20.38-r1: Deepin fork version of mutter
+x11-wm/deepin-mutter 3.20.38-r2: Deepin fork version of mutter
 x11-wm/deepin-wm 1.9.38: Deepin Window Manager

@@ -2,7 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
 
-EAPI=7
+EAPI=6
 
 EGO_PN="github.com/linuxdeepin/go-x11-client"
 

@@ -1,8 +1,7 @@
-BDEPEND=>=dev-lang/go-1.10
 DEFINED_PHASES=install prepare
-DEPEND=dev-libs/gobject-introspection dev-libs/libgudev[introspection]
+DEPEND=dev-libs/gobject-introspection dev-libs/libgudev[introspection] >=dev-lang/go-1.10
 DESCRIPTION=Generate static golang bindings for GObject
-EAPI=7
+EAPI=6
 HOMEPAGE=https://github.com/linuxdeepin/go-gir-generator
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
@@ -10,4 +9,4 @@ RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/linuxdeepin/go-gir-generator/archive/2.0.2.tar.gz -> go-gir-generator-2.0.2.tar.gz
 _eclasses_=golang-base	c57d2c3f9e1a02d0feb8b87c7b689892
-_md5_=36d9cece58bd91bbfcbd96e64d6cbd9a
+_md5_=6ffbaee35b1a7928d2edf41b78f152c0

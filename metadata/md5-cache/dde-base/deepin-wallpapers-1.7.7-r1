@@ -1,10 +1,10 @@
 DEFINED_PHASES=install prepare
 DEPEND=dde-base/dde-api
 DESCRIPTION=Deepin Wallpapers
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/linuxdeepin/deepin-wallpapers
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3+
 SLOT=0
 SRC_URI=https://github.com/linuxdeepin/deepin-wallpapers/archive/1.7.7.tar.gz -> deepin-wallpapers-1.7.7.tar.gz
-_md5_=cfc74db88639922ba010d8043f3c9b9a
+_md5_=74bfd92b65da1ca7b3d39b9d9d4ab2b8

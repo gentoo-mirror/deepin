@@ -86,7 +86,7 @@ virtual/dde-wm 0: Virtual for DDE Window Manager
 x11-apps/xcur2png 0.7.1: Convert X cursors to PNG images
 x11-libs/bamf 0.5.4: BAMF Application Matching Framework
 x11-libs/gsettings-qt 0.1_p20170824 0.2: Qml bindings for GSettings.
-x11-wm/dde-kwin 0.1.0 5.0.0: KWin configures on DDE
+x11-wm/dde-kwin 0.1.0 5.0.0-r1: KWin configures on DDE
 x11-wm/deepin-metacity 3.22.24: Legacy window manager for Deepin
 x11-wm/deepin-mutter 3.20.38-r2: Deepin fork version of mutter
 x11-wm/deepin-wm 1.9.38: Deepin Window Manager

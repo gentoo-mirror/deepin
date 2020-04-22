@@ -61,7 +61,7 @@ dev-go/go-gir-generator 2.0.2: Generate static golang bindings for GObject
 dev-go/go-x11-client 0.4.1: Deepin GoLang X11 client Library
 dev-libs/disomaster 0.2.0 5.0.0: A libisoburn wrapper class for Qt.
 dev-libs/granite 5.2.1: Elementary OS library that extends Gtk+
-dev-qt/qcef 1.1.7-r1: Qt5 binding of Chromium Embedded Framework
+dev-qt/qcef 1.1.7-r1 1.1.8: Qt5 binding of Chromium Embedded Framework
 dev-qt/qt5dxcb-plugin 1.2.6 5.0.1: XCB Qt5 platform plugin for DDE
 dev-qt/qtstyleplugins 20170311-r1: Additional style plugins for Qt
 dev-qt/qtxcb-private-headers 5.13.2 5.14.1 5.14.2: The Private Headers for the Qt5 Xcb

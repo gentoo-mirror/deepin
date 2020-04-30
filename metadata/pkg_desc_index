@@ -33,7 +33,7 @@ dde-base/dtkcore 2.1.1 5.1.2 5.2.0: Base development tool of all C++/Qt Develope
 dde-base/dtkgui 2.1.1 5.1.2 5.2.0: Deepin Toolkit - Gui modules for DDE look and feel
 dde-base/dtkwidget 2.1.1 5.1.2.3 5.2.0: Base development tool of all C++/Qt Developer work on Deepin - Widget modules
 dde-base/dtkwm 2.0.11-r1 2.0.12-r1: Deepin graphical user interface library
-dde-base/startdde 5.0.1 5.2.1 5.3.0.0: starter of Deepin Desktop Environment
+dde-base/startdde 5.0.1 5.3.0.1: starter of Deepin Desktop Environment
 dde-base/udisks2-qt5 5.0.0 5.0.3: UDisks2 DBus interfaces binding of Qt5
 dde-extra/dde-calendar 1.2.11 5.6.2: Calendar for Deepin Desktop Environment
 dde-extra/dde-file-manager-integration 9999: Extra plugins for dde-file-manager

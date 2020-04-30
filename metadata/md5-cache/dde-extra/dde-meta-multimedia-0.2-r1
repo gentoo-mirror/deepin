@@ -4,6 +4,6 @@ EAPI=7
 HOMEPAGE=https://www.deepin.org
 KEYWORDS=~amd64 ~x86
 LICENSE=metapackage
-RDEPEND=media-sound/deepin-music media-video/deepin-movie-reborn media-gfx/deepin-screenshot media-gfx/deepin-screen-recorder media-sound/deepin-voice-recorder media-gfx/deepin-image-viewer
+RDEPEND=media-sound/deepin-music media-video/deepin-movie-reborn || ( >=media-gfx/deepin-screen-recorder-5.8.0 ( media-gfx/deepin-screenshot <=media-gfx/deepin-screen-recorder-5.0.0 ) ) media-sound/deepin-voice-recorder media-gfx/deepin-image-viewer media-gfx/deepin-draw media-gfx/deepin-album
 SLOT=0
-_md5_=7b2f1beab6bf5d0681b4116d8ab0b0c8
+_md5_=6c879f0521d1d178a4f1fc34cd0f5303

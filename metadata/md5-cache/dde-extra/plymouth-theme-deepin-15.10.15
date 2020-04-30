@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DEPEND=sys-boot/plymouth
+DESCRIPTION=Deepin theme for Plymouth
+EAPI=6
+HOMEPAGE=https://github.com/linuxdeepin/plymouth-theme-deepin
+KEYWORDS=~amd64 ~x86
+LICENSE=LGPL-3+
+RDEPEND=sys-boot/plymouth
+SLOT=0
+SRC_URI=https://community-packages.deepin.com/deepin/pool/main/p/plymouth-theme-deepin/plymouth-theme-deepin_15.10.15.orig.tar.xz -> plymouth-theme-deepin-15.10.15.tar.xz
+_md5_=76f33dc2e47adb15a664f49a5157ed04

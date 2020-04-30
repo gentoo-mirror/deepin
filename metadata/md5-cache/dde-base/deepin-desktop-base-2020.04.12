@@ -1,0 +1,10 @@
+DEFINED_PHASES=install prepare
+DEPEND=dde-base/deepin-wallpapers >=dde-base/deepin-icon-theme-2020.04.13 dde-base/deepin-gtk-theme dde-base/deepin-sound-theme
+DESCRIPTION=Base components for Deepin Desktop
+EAPI=7
+HOMEPAGE=https://github.com/linuxdeepin/deepin-desktop-base
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3+
+SLOT=0
+SRC_URI=https://community-packages.deepin.com/deepin/pool/main/d/deepin-desktop-base/deepin-desktop-base_2020.04.12-2.orig.tar.xz -> deepin-desktop-base-2020.04.12.tar.xz
+_md5_=f70188a8cd84583da80012703eb2e2e4

@@ -68,7 +68,7 @@ dev-go/dbus-factory 3.1.17-r2: D-Bus library binding for golang
 dev-go/deepin-go-lib 5.0.0 5.4.5: Deepin GoLang Library
 dev-go/go-dbus-factory 0.9.0 1.6.4: Go bindings to generate D-Bus services
 dev-go/go-dbus-generator 0.6.6-r1: Convert D-Bus interfaces to go-lang or qml wrapper code
-dev-go/go-gir-generator 2.0.2: Generate static golang bindings for GObject
+dev-go/go-gir-generator 2.0.2-r1: Generate static golang bindings for GObject
 dev-go/go-x11-client 0.4.1 0.6.0: Deepin GoLang X11 client Library
 dev-libs/disomaster 5.0.0 5.0.1: A libisoburn wrapper class for Qt.
 dev-libs/granite 5.2.1: Elementary OS library that extends Gtk+

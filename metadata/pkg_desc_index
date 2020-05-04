@@ -5,14 +5,14 @@ app-emulation/deepin-wine-plugin 1.0.2: Deepin Version of Wine
 dde-base/dde-account-faces 1.0.11: Deepin Account face Images
 dde-base/dde-api 5.0.0 5.1.11.1: Go-lang bingdings for dde-daemon
 dde-base/dde-clipboard 1.0.8 5.0.0100.0: Deepin Clipboard
-dde-base/dde-control-center 5.0.0 5.1.0.0 5.1.0.1: Control Center of Deepin Desktop Environment
+dde-base/dde-control-center 5.0.0 5.1.0.5: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 5.0.0 5.9.4.2: Daemon handling the DDE session settings
 dde-base/dde-dock 5.0.0 5.1.0.1: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 5.0.0-r1 5.1.1.19: Deepin File Manager and Desktop module for DDE
 dde-base/dde-launcher 5.0.0 5.1.0.1: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.11 20: Deepin Desktop Enviroment (meta package)
 dde-base/dde-network-utils 5.0.1 5.0.4 5.1.0.0: DDE Network Utils
-dde-base/dde-polkit-agent 5.0.0 5.1.0: PolicyKit agent for DDE
+dde-base/dde-polkit-agent 5.0.0 5.0.8: PolicyKit agent for DDE
 dde-base/dde-qt-dbus-factory 5.0.1 5.0.16.0: A repository stores auto-generated Qt5 D-Bus code used by DDE
 dde-base/dde-qt5integration 5.0.0-r2 5.1.0: DDE system integration plugin for Qt5
 dde-base/dde-session-shell 1.0.22.1 5.0.0098.0: Deepin desktop environment - Session Shell module
@@ -95,6 +95,7 @@ net-im/deepin-wine-TIM 2.0.0.4: Tencent TIM for Linux by Deepin
 net-im/deepin-wine-wechat 2.6.2.31.0 2.6.8.65.0: Tencent WeChat for Linux by Deepin
 net-im/deepin-wine-wechat-work 2.8.10.2010.0: Tencent WeChat Work for Linux by Deepin
 net-misc/deepin-wine-thunderspeed 7.10.35.366.18: ThunderSpeed for Linux by Deepin
+sys-apps/lshw 02.19.2b: Hardware Lister
 virtual/dde-wm 0: Virtual for DDE Window Manager
 x11-apps/xcur2png 0.7.1: Convert X cursors to PNG images
 x11-libs/bamf 0.5.4: BAMF Application Matching Framework

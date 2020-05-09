@@ -7,7 +7,7 @@ dde-base/dde-api 5.0.0 5.1.11.1: Go-lang bingdings for dde-daemon
 dde-base/dde-clipboard 1.0.8 5.0.0100.0: Deepin Clipboard
 dde-base/dde-control-center 5.0.0 5.1.0.5: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 5.0.0 5.9.4.2: Daemon handling the DDE session settings
-dde-base/dde-dock 5.0.0 5.1.0.7: Deepin desktop environment - Dock module
+dde-base/dde-dock 5.0.0 5.1.0.8: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 5.0.0-r1 5.1.1.25: Deepin File Manager and Desktop module for DDE
 dde-base/dde-launcher 5.0.0 5.1.0.3: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.11 20: Deepin Desktop Enviroment (meta package)

@@ -16,10 +16,10 @@ dde-base/dde-polkit-agent 5.0.0 5.0.8: PolicyKit agent for DDE
 dde-base/dde-qt-dbus-factory 5.0.1 5.0.16.0: A repository stores auto-generated Qt5 D-Bus code used by DDE
 dde-base/dde-qt5integration 5.0.0-r3 5.1.0-r1: DDE system integration plugin for Qt5
 dde-base/dde-session-shell 1.0.22.1 5.0.0098.0: Deepin desktop environment - Session Shell module
-dde-base/dde-session-ui 5.0.0 5.1.0.5 5.1.0099.4: Deepin desktop environment - Session UI module
+dde-base/dde-session-ui 5.0.0 5.1.0.5: Deepin desktop environment - Session UI module
 dde-base/deepin-anything 0.1.0 5.0.1: Fast File Search Tool for DDE
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
-dde-base/deepin-desktop-base 2019.07.10 2020.04.30: Base components for Deepin Desktop
+dde-base/deepin-desktop-base 2019.07.10 2020.04.12: Base components for Deepin Desktop
 dde-base/deepin-desktop-schemas 3.13.9 5.4.0099.0 5.4.8: GSettings deepin desktop-wide schemas
 dde-base/deepin-file-manager-backend 0.1.16-r1: Deepin file manager backend
 dde-base/deepin-gettext-tools 1.0.8: Deepin Internationalization utilities

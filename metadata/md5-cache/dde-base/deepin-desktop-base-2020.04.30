@@ -7,4 +7,4 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3+
 SLOT=0
 SRC_URI=https://github.com/linuxdeepin/deepin-desktop-base/archive/2020.04.30.tar.gz -> deepin-desktop-base-2020.04.30.tar.gz
-_md5_=8b0f833dfd98ae03540154c5ceed7609
+_md5_=05ed77bc7eda3a0f6814f0bc39282c8d

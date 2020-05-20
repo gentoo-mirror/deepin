@@ -42,7 +42,7 @@ dde-extra/dde-meta-apps 15.11 20: Deepin Extra Applications (meta package)
 dde-extra/dde-meta-multimedia 0.2-r1: Deepin Multimedia Softwares (meta package)
 dde-extra/dde-printer 0.5.1: Deepin Printer Manager
 dde-extra/deepin-boot-maker 5.0.1 5.4.8: A Tool to create a bootable usb stick quick and easy
-dde-extra/deepin-calculator 5.0.1 5.5.9: An easy to use Calculator for Deepin
+dde-extra/deepin-calculator 5.0.1 5.5.9 5.5.10: An easy to use Calculator for Deepin
 dde-extra/deepin-clone 5.0.3: Deepin Disk and Partition Backup/Restore Tool
 dde-extra/deepin-compressor 5.6.6: Archive Manager for Deepin
 dde-extra/deepin-devicemanager 5.5.8.8: Deepin Device Manager

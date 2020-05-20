@@ -35,7 +35,7 @@ dde-base/dtkwidget 2.1.1 5.1.2.3 5.2.0: Base development tool of all C++/Qt Deve
 dde-base/dtkwm 2.0.11-r1 2.0.12-r1: Deepin graphical user interface library
 dde-base/startdde 5.0.1 5.3.0.1-r1: starter of Deepin Desktop Environment
 dde-base/udisks2-qt5 5.0.0 5.0.3: UDisks2 DBus interfaces binding of Qt5
-dde-extra/dde-calendar 1.2.11 5.6.2: Calendar for Deepin Desktop Environment
+dde-extra/dde-calendar 1.2.11 5.6.3: Calendar for Deepin Desktop Environment
 dde-extra/dde-file-manager-integration 9999: Extra plugins for dde-file-manager
 dde-extra/dde-introduction 1.1.10 5.5.12 5.5.14: Deepin Initialization Setup Tool
 dde-extra/dde-meta-apps 15.11 20: Deepin Extra Applications (meta package)
@@ -44,16 +44,16 @@ dde-extra/dde-printer 0.5.1: Deepin Printer Manager
 dde-extra/deepin-boot-maker 5.0.1 5.4.8: A Tool to create a bootable usb stick quick and easy
 dde-extra/deepin-calculator 5.0.1 5.5.9: An easy to use Calculator for Deepin
 dde-extra/deepin-clone 5.0.3: Deepin Disk and Partition Backup/Restore Tool
-dde-extra/deepin-compressor 5.6.5: Archive Manager for Deepin
+dde-extra/deepin-compressor 5.6.6: Archive Manager for Deepin
 dde-extra/deepin-devicemanager 5.5.8.8: Deepin Device Manager
-dde-extra/deepin-editor 1.2.9.1 5.6.7: Simple editor for Deepin
+dde-extra/deepin-editor 1.2.9.1 5.6.8: Simple editor for Deepin
 dde-extra/deepin-font-installer 5.0.0: Install and Uninstall Font File for Users
 dde-extra/deepin-font-manager 5.6.3: Install and Uninstall Font File for Users
 dde-extra/deepin-grub2-themes 1.0.0: Deepin theme for GRUB2
 dde-extra/deepin-log-viewer 5.6.5: Deepin Log Viewer
 dde-extra/deepin-manual 2.1.0 5.6.10: Deepin User Manual
 dde-extra/deepin-picker 5.0.1 5.0.6: Color picker tool for Deepin
-dde-extra/deepin-reader 5.6.3.1: PDF Document Viewer for Deepin
+dde-extra/deepin-reader 5.6.4: PDF Document Viewer for Deepin
 dde-extra/deepin-screensaver 0.0.8 5.0.3: Deepin ScreenSaver
 dde-extra/deepin-shortcut-viewer 1.3.5 5.0.2: Deepin shortcut Viewer
 dde-extra/deepin-system-monitor 5.0.0-r1 5.6.2: Deepin System Monitor

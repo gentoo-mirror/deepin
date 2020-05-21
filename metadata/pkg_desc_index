@@ -5,7 +5,7 @@ app-emulation/deepin-wine-plugin 1.0.2: Deepin Version of Wine
 dde-base/dde-account-faces 1.0.11: Deepin Account face Images
 dde-base/dde-api 5.0.0 5.1.11.1-r1: Go-lang bingdings for dde-daemon
 dde-base/dde-clipboard 1.0.8 5.0.0100.0: Deepin Clipboard
-dde-base/dde-control-center 5.0.0 5.1.0.11: Control Center of Deepin Desktop Environment
+dde-base/dde-control-center 5.0.0 5.1.0.11 5.1.0101.0: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 5.0.0 5.10.0099.2: Daemon handling the DDE session settings
 dde-base/dde-dock 5.0.0 5.1.0.9: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 5.0.0-r1 5.1.1.25: Deepin File Manager and Desktop module for DDE
@@ -24,7 +24,7 @@ dde-base/deepin-desktop-schemas 3.13.9 5.5.0.0: GSettings deepin desktop-wide sc
 dde-base/deepin-file-manager-backend 0.1.16-r1: Deepin file manager backend
 dde-base/deepin-gettext-tools 1.0.8: Deepin Internationalization utilities
 dde-base/deepin-gtk-theme 17.10.11: Deepin GTK Theme
-dde-base/deepin-icon-theme 15.12.71 2020.05.09: Deepin Icons
+dde-base/deepin-icon-theme 15.12.71 2020.05.21: Deepin Icons
 dde-base/deepin-menu 3.4.8 5.0.1: Deepin menu service for building beautiful menus
 dde-base/deepin-sound-theme 15.10.6: Deepin Sound themes
 dde-base/deepin-wallpapers 1.6.14: Deepin Wallpapers
@@ -40,7 +40,7 @@ dde-extra/dde-file-manager-integration 9999: Extra plugins for dde-file-manager
 dde-extra/dde-introduction 1.1.10 5.5.12 5.5.14: Deepin Initialization Setup Tool
 dde-extra/dde-meta-apps 15.11 20: Deepin Extra Applications (meta package)
 dde-extra/dde-meta-multimedia 0.2-r1: Deepin Multimedia Softwares (meta package)
-dde-extra/dde-printer 0.5.1: Deepin Printer Manager
+dde-extra/dde-printer 0.5.4: Deepin Printer Manager
 dde-extra/deepin-boot-maker 5.0.1 5.4.8: A Tool to create a bootable usb stick quick and easy
 dde-extra/deepin-calculator 5.0.1 5.5.9 5.5.10: An easy to use Calculator for Deepin
 dde-extra/deepin-clone 5.0.3: Deepin Disk and Partition Backup/Restore Tool

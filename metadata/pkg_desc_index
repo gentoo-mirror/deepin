@@ -5,7 +5,7 @@ app-emulation/deepin-wine-plugin 1.0.2: Deepin Version of Wine
 dde-base/dde-account-faces 1.0.11: Deepin Account face Images
 dde-base/dde-api 5.0.0 5.1.11.1-r1: Go-lang bingdings for dde-daemon
 dde-base/dde-clipboard 1.0.8 5.0.0100.0: Deepin Clipboard
-dde-base/dde-control-center 5.0.0 5.1.0.11 5.1.0101.0: Control Center of Deepin Desktop Environment
+dde-base/dde-control-center 5.0.0 5.1.0.13: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 5.0.0 5.10.0099.2: Daemon handling the DDE session settings
 dde-base/dde-dock 5.0.0 5.1.0.9: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 5.0.0-r1 5.1.1.25: Deepin File Manager and Desktop module for DDE
@@ -15,7 +15,7 @@ dde-base/dde-network-utils 5.0.1 5.0.4 5.1.0.0: DDE Network Utils
 dde-base/dde-polkit-agent 5.0.0 5.0.8 5.1.0: PolicyKit agent for DDE
 dde-base/dde-qt-dbus-factory 5.0.1 5.0.24.1: A repository stores auto-generated Qt5 D-Bus code used by DDE
 dde-base/dde-qt5integration 5.0.0-r3 5.1.0.1: DDE system integration plugin for Qt5
-dde-base/dde-session-shell 5.0.0.3: Deepin desktop environment - Session Shell module
+dde-base/dde-session-shell 5.0.0.5: Deepin desktop environment - Session Shell module
 dde-base/dde-session-ui 5.0.0 5.1.0.5 5.1.0101.0: Deepin desktop environment - Session UI module
 dde-base/deepin-anything 0.1.0 5.0.1: Fast File Search Tool for DDE
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
@@ -46,7 +46,7 @@ dde-extra/deepin-calculator 5.0.1 5.5.9 5.5.10: An easy to use Calculator for De
 dde-extra/deepin-clone 5.0.3: Deepin Disk and Partition Backup/Restore Tool
 dde-extra/deepin-compressor 5.6.6: Archive Manager for Deepin
 dde-extra/deepin-devicemanager 5.5.8.8: Deepin Device Manager
-dde-extra/deepin-editor 1.2.9.1 5.6.8: Simple editor for Deepin
+dde-extra/deepin-editor 1.2.9.1 5.6.9: Simple editor for Deepin
 dde-extra/deepin-font-installer 5.0.0: Install and Uninstall Font File for Users
 dde-extra/deepin-font-manager 5.6.3: Install and Uninstall Font File for Users
 dde-extra/deepin-grub2-themes 1.0.0: Deepin theme for GRUB2

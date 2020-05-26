@@ -5,7 +5,7 @@ app-emulation/deepin-wine-plugin 1.0.2: Deepin Version of Wine
 dde-base/dde-account-faces 1.0.11: Deepin Account face Images
 dde-base/dde-api 5.0.0 5.1.11.1-r1: Go-lang bingdings for dde-daemon
 dde-base/dde-clipboard 1.0.8 5.0.0100.0: Deepin Clipboard
-dde-base/dde-control-center 5.0.0 5.1.0.13: Control Center of Deepin Desktop Environment
+dde-base/dde-control-center 5.0.0 5.1.0.15: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 5.0.0 5.10.0099.2: Daemon handling the DDE session settings
 dde-base/dde-dock 5.0.0 5.1.0.9: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 5.0.0-r1 5.1.1.25: Deepin File Manager and Desktop module for DDE
@@ -101,7 +101,7 @@ virtual/dde-wm 0: Virtual for DDE Window Manager
 x11-apps/xcur2png 0.7.1: Convert X cursors to PNG images
 x11-libs/bamf 0.5.4-r1: BAMF Application Matching Framework
 x11-libs/gsettings-qt 0.1_p20170824 0.2: Qml bindings for GSettings.
-x11-wm/dde-kwin 0.1.0 5.0.14.1-r1: KWin configures on DDE
+x11-wm/dde-kwin 0.1.0 5.0.15: KWin configures on DDE
 x11-wm/deepin-metacity 3.22.24: Legacy window manager for Deepin
 x11-wm/deepin-mutter 3.20.38-r2: Deepin fork version of mutter
 x11-wm/deepin-wm 1.9.38: Deepin Window Manager

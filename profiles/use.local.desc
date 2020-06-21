@@ -20,7 +20,6 @@ dde-base/dde-meta:screensaver - Install Deepin Screensaver module
 dde-base/dde-meta:terminal - Install dde-extra/deepin-terminal Terminal Emulator
 dde-base/dde-meta:turbo - Enable DTK Apps Turbo by dde-extra/deepin-turbo
 dde-extra/deepin-screensaver:bubbles - Add bubbles screensaver
-dde-extra/deepin-terminal:zssh - Enable access to remote server via GUI using net-misc/zssh
 dde-extra/deepin-topbar:albert - Install x11-misc/albert to Add an entrance for desktop searching
 dev-libs/granite:demo - Build the Granite demo application (to present all available UI features provided by the library)
 media-gfx/deepin-screenshot:sharing - Install dde-extra/deepin-social-sharing for social media sharing

@@ -3,10 +3,10 @@ app-emulation/deepin-wine 2.18.18 2.18.22_rc0 2.18.23_rc1: Deepin Version of Win
 app-emulation/deepin-wine-helper 1.2.0 1.3.0: Deepin Version of Wine
 app-emulation/deepin-wine-plugin 1.0.2: Deepin Version of Wine
 dde-base/dde-account-faces 1.0.11: Deepin Account face Images
-dde-base/dde-api 5.0.0 5.2.0.1: Go-lang bingdings for dde-daemon
-dde-base/dde-clipboard 1.0.8 5.0.0.3: Deepin Clipboard
+dde-base/dde-api 5.0.0 5.3.0.0: Go-lang bingdings for dde-daemon
+dde-base/dde-clipboard 1.0.8 5.0.0.4: Deepin Clipboard
 dde-base/dde-control-center 5.0.0 5.2.0.4: Control Center of Deepin Desktop Environment
-dde-base/dde-daemon 5.0.0 5.11.0.0: Daemon handling the DDE session settings
+dde-base/dde-daemon 5.0.0 5.11.0.7: Daemon handling the DDE session settings
 dde-base/dde-dock 5.0.0 5.1.0.11-r1: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 5.0.0-r1 5.1.1.25-r1: Deepin File Manager and Desktop module for DDE
 dde-base/dde-launcher 5.0.0 5.2.0.3: Deepin desktop environment - Launcher module
@@ -37,7 +37,7 @@ dde-base/startdde 5.0.1 5.5.0.3: starter of Deepin Desktop Environment
 dde-base/udisks2-qt5 5.0.0 5.0.3: UDisks2 DBus interfaces binding of Qt5
 dde-extra/dde-calendar 1.2.11 5.6.8: Calendar for Deepin Desktop Environment
 dde-extra/dde-file-manager-integration 9999: Extra plugins for dde-file-manager
-dde-extra/dde-introduction 1.1.10 5.5.16: Deepin Initialization Setup Tool
+dde-extra/dde-introduction 1.1.10 5.5.19: Deepin Initialization Setup Tool
 dde-extra/dde-meta-apps 15.11 20: Deepin Extra Applications (meta package)
 dde-extra/dde-meta-multimedia 0.2-r1: Deepin Multimedia Softwares (meta package)
 dde-extra/dde-printer 0.5.6: Deepin Printer Manager

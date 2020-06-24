@@ -19,7 +19,7 @@ dde-base/dde-session-shell 5.1.0.4: Deepin desktop environment - Session Shell m
 dde-base/dde-session-ui 5.0.0 5.2.0.6: Deepin desktop environment - Session UI module
 dde-base/deepin-anything 0.1.0 5.0.1: Fast File Search Tool for DDE
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
-dde-base/deepin-desktop-base 2019.07.10 2020.06.23: Base components for Deepin Desktop
+dde-base/deepin-desktop-base 2019.07.10 2020.04.12: Base components for Deepin Desktop
 dde-base/deepin-desktop-schemas 3.13.9 5.6.0.7: GSettings deepin desktop-wide schemas
 dde-base/deepin-file-manager-backend 0.1.16-r1: Deepin file manager backend
 dde-base/deepin-gettext-tools 1.0.8: Deepin Internationalization utilities

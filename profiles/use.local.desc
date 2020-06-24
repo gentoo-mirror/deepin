@@ -18,6 +18,7 @@ dde-base/dde-meta:mutter - Use the WM based on mutter
 dde-base/dde-meta:plymouth - Install Deepin themes for sys-boot/plymouth
 dde-base/dde-meta:screensaver - Install Deepin Screensaver module
 dde-base/dde-meta:terminal - Install dde-extra/deepin-terminal Terminal Emulator
+dde-base/dde-meta:terminal-old - Install dde-extra/deepin-terminal-old Terminal Emulator (old version)
 dde-base/dde-meta:turbo - Enable DTK Apps Turbo by dde-extra/deepin-turbo
 dde-extra/deepin-screensaver:bubbles - Add bubbles screensaver
 dde-extra/deepin-topbar:albert - Install x11-misc/albert to Add an entrance for desktop searching

@@ -5,22 +5,22 @@ app-emulation/deepin-wine-plugin 1.0.2: Deepin Version of Wine
 dde-base/dde-account-faces 1.0.11: Deepin Account face Images
 dde-base/dde-api 5.0.0 5.3.0.0: Go-lang bingdings for dde-daemon
 dde-base/dde-clipboard 1.0.8 5.0.0.4: Deepin Clipboard
-dde-base/dde-control-center 5.0.0 5.2.0.5: Control Center of Deepin Desktop Environment
-dde-base/dde-daemon 5.0.0 5.11.0.7: Daemon handling the DDE session settings
+dde-base/dde-control-center 5.0.0 5.2.0.6: Control Center of Deepin Desktop Environment
+dde-base/dde-daemon 5.0.0 5.11.0.9: Daemon handling the DDE session settings
 dde-base/dde-dock 5.0.0 5.1.0.11-r1: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 5.0.0-r1 5.1.1.25-r1: Deepin File Manager and Desktop module for DDE
-dde-base/dde-launcher 5.0.0 5.2.0.5: Deepin desktop environment - Launcher module
+dde-base/dde-launcher 5.0.0 5.2.0.7: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.11 20: Deepin Desktop Enviroment (meta package)
 dde-base/dde-network-utils 5.0.1 5.0.4 5.1.0101.2: DDE Network Utils
-dde-base/dde-polkit-agent 5.0.0 5.0.8 5.2.0.4: PolicyKit agent for DDE
+dde-base/dde-polkit-agent 5.0.0 5.0.8 5.2.0.5: PolicyKit agent for DDE
 dde-base/dde-qt-dbus-factory 5.0.1 5.2.0.2: A repository stores auto-generated Qt5 D-Bus code used by DDE
 dde-base/dde-qt5integration 5.0.0-r3 5.1.0.2: DDE system integration plugin for Qt5
-dde-base/dde-session-shell 5.1.0.3: Deepin desktop environment - Session Shell module
-dde-base/dde-session-ui 5.0.0 5.2.0.5: Deepin desktop environment - Session UI module
+dde-base/dde-session-shell 5.1.0.4: Deepin desktop environment - Session Shell module
+dde-base/dde-session-ui 5.0.0 5.2.0.6: Deepin desktop environment - Session UI module
 dde-base/deepin-anything 0.1.0 5.0.1: Fast File Search Tool for DDE
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
-dde-base/deepin-desktop-base 2019.07.10 2020.04.12: Base components for Deepin Desktop
-dde-base/deepin-desktop-schemas 3.13.9 5.6.0.6: GSettings deepin desktop-wide schemas
+dde-base/deepin-desktop-base 2019.07.10 2020.06.23: Base components for Deepin Desktop
+dde-base/deepin-desktop-schemas 3.13.9 5.6.0.7: GSettings deepin desktop-wide schemas
 dde-base/deepin-file-manager-backend 0.1.16-r1: Deepin file manager backend
 dde-base/deepin-gettext-tools 1.0.8: Deepin Internationalization utilities
 dde-base/deepin-gtk-theme 2020.06.10: Deepin GTK Theme
@@ -29,8 +29,8 @@ dde-base/deepin-menu 3.4.8 5.0.1: Deepin menu service for building beautiful men
 dde-base/deepin-sound-theme 15.10.6: Deepin Sound themes
 dde-base/deepin-wallpapers 1.6.14: Deepin Wallpapers
 dde-base/dpa-ext-gnomekeyring 5.0.1: GNOME keyring extension for dde-polkit-agent
-dde-base/dtkcore 2.1.1 5.1.2 5.2.0: Base development tool of all C++/Qt Developer work on Deepin - Core modules
-dde-base/dtkgui 2.1.1 5.1.2 5.2.0.1: Deepin Toolkit - Gui modules for DDE look and feel
+dde-base/dtkcore 2.1.1 5.1.2 5.2.2: Base development tool of all C++/Qt Developer work on Deepin - Core modules
+dde-base/dtkgui 2.1.1 5.1.2 5.2.2: Deepin Toolkit - Gui modules for DDE look and feel
 dde-base/dtkwidget 2.1.1 5.1.2.3 5.2.2: Base development tool of all C++/Qt Developer work on Deepin - Widget modules
 dde-base/dtkwm 2.0.11-r1 2.0.12-r1: Deepin graphical user interface library
 dde-base/startdde 5.0.1 5.5.0.3: starter of Deepin Desktop Environment
@@ -44,20 +44,21 @@ dde-extra/dde-printer 0.5.6: Deepin Printer Manager
 dde-extra/deepin-boot-maker 5.0.1 5.4.8: A Tool to create a bootable usb stick quick and easy
 dde-extra/deepin-calculator 5.0.1 5.5.17: An easy to use Calculator for Deepin
 dde-extra/deepin-clone 5.0.3: Deepin Disk and Partition Backup/Restore Tool
-dde-extra/deepin-compressor 5.6.12: Archive Manager for Deepin
+dde-extra/deepin-compressor 5.6.13: Archive Manager for Deepin
 dde-extra/deepin-devicemanager 5.5.9.5: Deepin Device Manager
 dde-extra/deepin-editor 1.2.9.1 5.6.14: Simple editor for Deepin
 dde-extra/deepin-font-installer 5.0.0: Install and Uninstall Font File for Users
 dde-extra/deepin-font-manager 5.6.8: Install and Uninstall Font File for Users
 dde-extra/deepin-grub2-themes 1.0.0: Deepin theme for GRUB2
-dde-extra/deepin-log-viewer 5.6.13: Deepin Log Viewer
+dde-extra/deepin-log-viewer 5.6.14: Deepin Log Viewer
 dde-extra/deepin-manual 2.1.0 5.6.16: Deepin User Manual
 dde-extra/deepin-picker 5.0.1 5.0.6: Color picker tool for Deepin
-dde-extra/deepin-reader 5.6.9: PDF Document Viewer for Deepin
+dde-extra/deepin-reader 5.6.10: PDF Document Viewer for Deepin
 dde-extra/deepin-screensaver 0.0.8 5.0.3: Deepin ScreenSaver
 dde-extra/deepin-shortcut-viewer 1.3.5 5.0.2: Deepin shortcut Viewer
 dde-extra/deepin-system-monitor 5.0.0-r1 5.6.5: Deepin System Monitor
 dde-extra/deepin-terminal 5.2.6: Deepin Terminal
+dde-extra/deepin-terminal-old 5.0.4.1: Deepin Terminal
 dde-extra/deepin-topbar 0.7.0: A Desktop Topbar with some tools
 dde-extra/deepin-turbo 0.0.3-r1: Booster Daemon to Speed up DTK Applications
 dde-extra/deepin-voice-note 5.7.8: A lightweight memo tool to make text notes and voice recordings
@@ -65,7 +66,7 @@ dde-extra/plymouth-theme-deepin 15.10.9 15.10.15: Deepin theme for Plymouth
 dde-extra/screensaver-pp 0.0.4: Bubbles ScreenSaver for Deepin Screensaver
 dev-go/dbus-factory 3.1.17-r2: D-Bus library binding for golang
 dev-go/deepin-go-lib 5.0.0 5.5.0.0: Deepin GoLang Library
-dev-go/go-dbus-factory 0.9.0 1.7.0.2: Go bindings to generate D-Bus services
+dev-go/go-dbus-factory 0.9.0 1.7.0.4: Go bindings to generate D-Bus services
 dev-go/go-dbus-generator 0.6.6-r1: Convert D-Bus interfaces to go-lang or qml wrapper code
 dev-go/go-gir-generator 2.0.2-r1: Generate static golang bindings for GObject
 dev-go/go-x11-client 0.4.1 0.6.0: Deepin GoLang X11 client Library

@@ -2,10 +2,10 @@ DEFINED_PHASES=postinst
 DESCRIPTION=Deepin Desktop Enviroment (meta package)
 EAPI=7
 HOMEPAGE=https://www.deepin.org
-IUSE=policykit manual +terminal multimedia grub plymouth elogind systemd turbo +kwin mutter extra screensaver
+IUSE=policykit manual +terminal terminal-old multimedia grub plymouth elogind systemd turbo +kwin mutter extra screensaver
 KEYWORDS=~amd64 ~x86
 LICENSE=metapackage
-RDEPEND=>=dde-base/dde-control-center-5.0.33 virtual/dde-wm[kwin?,mutter?] >=dde-base/startdde-5.2.1 >=dde-base/dde-file-manager-5.1.0[screensaver?] >=dde-base/dde-launcher-5.0.16 >=dde-base/dde-dock-5.0.27 >=dde-base/deepin-desktop-base-2020.04.12 >=dde-base/dde-session-ui-5.0.17[systemd?,elogind?] >=dde-base/dde-daemon-5.9.0[grub?,systemd?,elogind?] dde-base/dde-clipboard policykit? ( dde-base/dde-polkit-agent dde-base/dpa-ext-gnomekeyring ) turbo? ( dde-extra/deepin-turbo[systemd?,elogind?] ) manual? ( >=dde-extra/deepin-manual-5.6.0 ) terminal? ( dde-extra/deepin-terminal ) multimedia? ( dde-extra/dde-meta-multimedia ) extra? ( ~dde-extra/dde-meta-apps-20 ) plymouth? ( dde-extra/plymouth-theme-deepin )
-REQUIRED_USE=^^ ( systemd elogind ) ?? ( kwin mutter )
+RDEPEND=>=dde-base/dde-control-center-5.0.33 virtual/dde-wm[kwin?,mutter?] >=dde-base/startdde-5.2.1 >=dde-base/dde-file-manager-5.1.0[screensaver?] >=dde-base/dde-launcher-5.0.16 >=dde-base/dde-dock-5.0.27 >=dde-base/deepin-desktop-base-2020.04.12 >=dde-base/dde-session-ui-5.0.17[systemd?,elogind?] >=dde-base/dde-daemon-5.9.0[grub?,systemd?,elogind?] dde-base/dde-clipboard policykit? ( dde-base/dde-polkit-agent dde-base/dpa-ext-gnomekeyring ) turbo? ( dde-extra/deepin-turbo[systemd?,elogind?] ) manual? ( >=dde-extra/deepin-manual-5.6.0 ) terminal? ( dde-extra/deepin-terminal ) terminal-old? ( dde-extra/deepin-terminal-old ) multimedia? ( dde-extra/dde-meta-multimedia ) extra? ( ~dde-extra/dde-meta-apps-20 ) plymouth? ( dde-extra/plymouth-theme-deepin )
+REQUIRED_USE=^^ ( systemd elogind ) ?? ( kwin mutter ) ?? ( terminal terminal-old )
 SLOT=0
-_md5_=19f06c4726a763ba77d9c47b914b1c02
+_md5_=6043f2ff9166992b945f3959c98abc6b

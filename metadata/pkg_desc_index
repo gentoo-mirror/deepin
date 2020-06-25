@@ -35,28 +35,28 @@ dde-base/dtkwidget 2.1.1 5.1.2.3 5.2.2: Base development tool of all C++/Qt Deve
 dde-base/dtkwm 2.0.11-r1 2.0.12-r1: Deepin graphical user interface library
 dde-base/startdde 5.0.1 5.5.0.3: starter of Deepin Desktop Environment
 dde-base/udisks2-qt5 5.0.0 5.0.3: UDisks2 DBus interfaces binding of Qt5
-dde-extra/dde-calendar 1.2.11 5.6.8: Calendar for Deepin Desktop Environment
+dde-extra/dde-calendar 1.2.11 5.6.9: Calendar for Deepin Desktop Environment
 dde-extra/dde-file-manager-integration 9999: Extra plugins for dde-file-manager
 dde-extra/dde-introduction 1.1.10 5.5.19: Deepin Initialization Setup Tool
 dde-extra/dde-meta-apps 15.11 20: Deepin Extra Applications (meta package)
 dde-extra/dde-meta-multimedia 0.2-r1: Deepin Multimedia Softwares (meta package)
 dde-extra/dde-printer 0.5.6: Deepin Printer Manager
 dde-extra/deepin-boot-maker 5.0.1 5.4.8: A Tool to create a bootable usb stick quick and easy
-dde-extra/deepin-calculator 5.0.1 5.5.17: An easy to use Calculator for Deepin
+dde-extra/deepin-calculator 5.0.1 5.5.18: An easy to use Calculator for Deepin
 dde-extra/deepin-clone 5.0.3: Deepin Disk and Partition Backup/Restore Tool
 dde-extra/deepin-compressor 5.6.13: Archive Manager for Deepin
 dde-extra/deepin-devicemanager 5.5.9.5: Deepin Device Manager
-dde-extra/deepin-editor 1.2.9.1 5.6.14: Simple editor for Deepin
+dde-extra/deepin-editor 1.2.9.1 5.6.15: Simple editor for Deepin
 dde-extra/deepin-font-installer 5.0.0: Install and Uninstall Font File for Users
 dde-extra/deepin-font-manager 5.6.8: Install and Uninstall Font File for Users
 dde-extra/deepin-grub2-themes 1.0.0: Deepin theme for GRUB2
-dde-extra/deepin-log-viewer 5.6.14: Deepin Log Viewer
+dde-extra/deepin-log-viewer 5.6.15: Deepin Log Viewer
 dde-extra/deepin-manual 2.1.0 5.6.16: Deepin User Manual
 dde-extra/deepin-picker 5.0.1 5.0.6: Color picker tool for Deepin
-dde-extra/deepin-reader 5.6.10: PDF Document Viewer for Deepin
+dde-extra/deepin-reader 5.6.11: PDF Document Viewer for Deepin
 dde-extra/deepin-screensaver 0.0.8 5.0.3: Deepin ScreenSaver
 dde-extra/deepin-shortcut-viewer 1.3.5 5.0.2: Deepin shortcut Viewer
-dde-extra/deepin-system-monitor 5.0.0-r1 5.6.5: Deepin System Monitor
+dde-extra/deepin-system-monitor 5.0.0-r1 5.6.7: Deepin System Monitor
 dde-extra/deepin-terminal 5.2.6: Deepin Terminal
 dde-extra/deepin-terminal-old 5.0.4.1: Deepin Terminal
 dde-extra/deepin-topbar 0.7.0: A Desktop Topbar with some tools

@@ -7,6 +7,6 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3+
 RDEPEND=dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtwidgets:5 dev-qt/qtdbus:5 dev-qt/qtmultimedia:5[widgets] >=dde-base/dde-meta-20 media-video/deepin-movie-reborn
 SLOT=0
-SRC_URI=https://github.com/linuxdeepin/dde-introduction/archive/5.5.19.tar.gz -> dde-introduction-5.5.19.tar.gz
+SRC_URI=https://github.com/linuxdeepin/dde-introduction/archive/5.5.21.tar.gz -> dde-introduction-5.5.21.tar.gz
 _eclasses_=estack	686eaab303305a908fd57b2fd7617800	multilib	2477ebe553d3e4d2c606191fe6c33602	qmake-utils	4eb5e05ef7ee630c003e3f0edc094135	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
-_md5_=58b6fd198941656c9bd4586b1fa6b796
+_md5_=f89a250577e630ad1d7696687581c10d

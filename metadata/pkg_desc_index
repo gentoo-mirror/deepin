@@ -65,7 +65,7 @@ dde-extra/deepin-voice-note 5.7.8: A lightweight memo tool to make text notes an
 dde-extra/plymouth-theme-deepin 15.10.9 15.10.15: Deepin theme for Plymouth
 dde-extra/screensaver-pp 0.0.4: Bubbles ScreenSaver for Deepin Screensaver
 dev-go/dbus-factory 3.1.17-r2: D-Bus library binding for golang
-dev-go/deepin-go-lib 5.0.0 5.5.0.1: Deepin GoLang Library
+dev-go/deepin-go-lib 5.0.0 5.5.0.1-r1: Deepin GoLang Library
 dev-go/go-dbus-factory 0.9.0 1.7.0.5: Go bindings to generate D-Bus services
 dev-go/go-dbus-generator 0.6.6-r1: Convert D-Bus interfaces to go-lang or qml wrapper code
 dev-go/go-gir-generator 2.0.2-r1: Generate static golang bindings for GObject

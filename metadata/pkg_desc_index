@@ -44,13 +44,13 @@ dde-extra/dde-printer 0.5.6: Deepin Printer Manager
 dde-extra/deepin-boot-maker 5.0.1 5.4.8: A Tool to create a bootable usb stick quick and easy
 dde-extra/deepin-calculator 5.0.1 5.5.19: An easy to use Calculator for Deepin
 dde-extra/deepin-clone 5.0.3: Deepin Disk and Partition Backup/Restore Tool
-dde-extra/deepin-compressor 5.6.14: Archive Manager for Deepin
+dde-extra/deepin-compressor 5.6.15: Archive Manager for Deepin
 dde-extra/deepin-devicemanager 5.5.9.7: Deepin Device Manager
-dde-extra/deepin-editor 1.2.9.1 5.6.17: Simple editor for Deepin
+dde-extra/deepin-editor 1.2.9.1 5.6.19: Simple editor for Deepin
 dde-extra/deepin-font-installer 5.0.0: Install and Uninstall Font File for Users
-dde-extra/deepin-font-manager 5.6.10: Install and Uninstall Font File for Users
+dde-extra/deepin-font-manager 5.6.11: Install and Uninstall Font File for Users
 dde-extra/deepin-grub2-themes 1.0.0: Deepin theme for GRUB2
-dde-extra/deepin-log-viewer 5.6.16: Deepin Log Viewer
+dde-extra/deepin-log-viewer 5.6.17: Deepin Log Viewer
 dde-extra/deepin-manual 2.1.0 5.6.17: Deepin User Manual
 dde-extra/deepin-picker 5.0.1 5.0.6: Color picker tool for Deepin
 dde-extra/deepin-reader 5.6.12: PDF Document Viewer for Deepin

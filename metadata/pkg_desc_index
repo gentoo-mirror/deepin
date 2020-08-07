@@ -51,7 +51,7 @@ dde-extra/deepin-font-installer 5.0.0: Install and Uninstall Font File for Users
 dde-extra/deepin-font-manager 5.6.21: Install and Uninstall Font File for Users
 dde-extra/deepin-grub2-themes 1.0.0: Deepin theme for GRUB2
 dde-extra/deepin-log-viewer 5.8.0.6: Deepin Log Viewer
-dde-extra/deepin-manual 2.1.0 5.6.32: Deepin User Manual
+dde-extra/deepin-manual 2.1.0 5.6.34: Deepin User Manual
 dde-extra/deepin-picker 5.0.1 5.0.6: Color picker tool for Deepin
 dde-extra/deepin-reader 5.7.0.12: PDF Document Viewer for Deepin
 dde-extra/deepin-screensaver 0.0.8 5.0.3: Deepin ScreenSaver

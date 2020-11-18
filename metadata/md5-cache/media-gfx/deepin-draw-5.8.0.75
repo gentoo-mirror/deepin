@@ -1,4 +1,4 @@
-BDEPEND=dev-util/ninja dev-util/cmake
+BDEPEND=dev-util/ninja >=dev-util/cmake-3.9.6
 DEFINED_PHASES=compile configure install postinst postrm prepare test
 DEPEND=dev-qt/qtsvg:5 dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtdbus:5 dev-qt/qtprintsupport:5 dev-qt/qtwidgets:5 dev-qt/qtopengl:5 media-libs/libraw media-libs/libexif media-libs/freeimage[jpeg?,png?,tiff?,raw?,mng?,jpeg2k?] dde-extra/deepin-picker >=dde-base/dtkwidget-5.1.2:=
 DESCRIPTION=Deepin Painting Tool
@@ -9,6 +9,6 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3+
 RDEPEND=dev-qt/qtsvg:5 dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtdbus:5 dev-qt/qtprintsupport:5 dev-qt/qtwidgets:5 dev-qt/qtopengl:5 media-libs/libraw media-libs/libexif media-libs/freeimage[jpeg?,png?,tiff?,raw?,mng?,jpeg2k?] dde-extra/deepin-picker
 SLOT=0
-SRC_URI=https://github.com/linuxdeepin/deepin-draw/archive/5.8.0.66.tar.gz -> deepin-draw-5.8.0.66.tar.gz
-_eclasses_=cmake	ac7cb516f6a288b6a82bc0649ce49878	edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	2d5b3f4b315094768576b6799e4f926e	flag-o-matic	09a8beb8e6a8e02dc1e1bd83ac353741	l10n	8cdd85e169b835d518bc2fd59f780d8e	multilib	98584e405e2b0264d37e8f728327fed1	multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	132cbb376048d079b5a012f5467c4e7f	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	wrapper	4251d4c84c25f59094fd557e0063a974	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=04490e007c8db29e40035423c9f7fca5
+SRC_URI=https://github.com/linuxdeepin/deepin-draw/archive/5.8.0.75.tar.gz -> deepin-draw-5.8.0.75.tar.gz
+_eclasses_=cmake-utils	77cd39e6009811bf97a59d91ffd5b54f	edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	2d5b3f4b315094768576b6799e4f926e	flag-o-matic	09a8beb8e6a8e02dc1e1bd83ac353741	l10n	8cdd85e169b835d518bc2fd59f780d8e	multilib	98584e405e2b0264d37e8f728327fed1	multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	132cbb376048d079b5a012f5467c4e7f	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	wrapper	4251d4c84c25f59094fd557e0063a974	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=67a776d899426450430832a350903ef3

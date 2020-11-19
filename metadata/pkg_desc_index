@@ -3,10 +3,10 @@ app-emulation/deepin-wine 2.18.18 2.18.22_rc0 2.18.23_rc1: Deepin Version of Win
 app-emulation/deepin-wine-helper 1.2.0 1.2.8 5.0.4: Deepin Version of Wine
 app-emulation/deepin-wine-plugin 1.0.2: Deepin Version of Wine
 dde-base/dde-account-faces 1.0.11: Deepin Account face Images
-dde-base/dde-api 5.0.0 5.3.0.4 5.3.0.13: Go-lang bingdings for dde-daemon
+dde-base/dde-api 5.0.0 5.3.0.13: Go-lang bingdings for dde-daemon
 dde-base/dde-clipboard 1.0.8 5.0.0100.1 5.3.0.5: Deepin Clipboard
 dde-base/dde-control-center 5.0.0 5.3.0.68: Control Center of Deepin Desktop Environment
-dde-base/dde-daemon 5.0.0 5.11.0.21 5.12.0.25: Daemon handling the DDE session settings
+dde-base/dde-daemon 5.0.0 5.12.0.25: Daemon handling the DDE session settings
 dde-base/dde-dock 5.0.0 5.3.0.49: Deepin desktop environment - Dock module
 dde-base/dde-file-manager 5.0.0-r1 5.1.1.25-r1 5.2.0.76: Deepin File Manager and Desktop module for DDE
 dde-base/dde-launcher 5.0.0 5.3.0.34: Deepin desktop environment - Launcher module

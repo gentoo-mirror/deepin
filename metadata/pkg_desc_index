@@ -105,4 +105,4 @@ x11-libs/gsettings-qt 0.2: Qml bindings for GSettings.
 x11-wm/dde-kwin 5.2.0.11: KWin configures on DDE
 x11-wm/deepin-metacity 3.22.24: Legacy window manager for Deepin
 x11-wm/deepin-mutter 3.20.38-r2: Deepin fork version of mutter
-x11-wm/deepin-wm 1.9.38: Deepin Window Manager
+x11-wm/deepin-wm 1.9.38-r1: Deepin Window Manager

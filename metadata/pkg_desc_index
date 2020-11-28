@@ -8,7 +8,7 @@ dde-base/dde-clipboard 1.0.8 5.3.0.5: Deepin Clipboard
 dde-base/dde-control-center 5.0.0 5.3.0.68: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 5.0.0 5.12.0.25: Daemon handling the DDE session settings
 dde-base/dde-dock 5.0.0 5.3.0.49: Deepin desktop environment - Dock module
-dde-base/dde-file-manager 5.0.0-r1 5.1.1.25-r1 5.2.0.76: Deepin File Manager and Desktop module for DDE
+dde-base/dde-file-manager 5.0.0-r1 5.2.0.76: Deepin File Manager and Desktop module for DDE
 dde-base/dde-launcher 5.0.0 5.3.0.34: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.11 20: Deepin Desktop Enviroment (meta package)
 dde-base/dde-network-utils 5.0.4 5.3.0.5: DDE Network Utils

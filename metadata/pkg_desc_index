@@ -35,7 +35,7 @@ dde-base/dtkwidget 2.1.1 5.2.2.11 5.4.1: Base development tool of all C++/Qt Dev
 dde-base/dtkwm 2.0.11-r1 2.0.12-r1: Deepin graphical user interface library
 dde-base/startdde 5.0.1 5.6.0.30: starter of Deepin Desktop Environment
 dde-base/udisks2-qt5 5.0.0 5.0.5: UDisks2 DBus interfaces binding of Qt5
-dde-extra/dde-calendar 1.2.11 5.7.0.25: Calendar for Deepin Desktop Environment
+dde-extra/dde-calendar 1.2.11 5.8.0.1: Calendar for Deepin Desktop Environment
 dde-extra/dde-file-manager-integration 9999: Extra plugins for dde-file-manager
 dde-extra/dde-introduction 1.1.10 5.5.44 5.6.0.2: Deepin Initialization Setup Tool
 dde-extra/dde-meta-apps 15.11 20: Deepin Extra Applications (meta package)
@@ -44,7 +44,7 @@ dde-extra/dde-printer 0.7.7: Deepin Printer Manager
 dde-extra/deepin-boot-maker 5.0.1 5.4.8.3: A Tool to create a bootable usb stick quick and easy
 dde-extra/deepin-calculator 5.0.1 5.7.0.2: An easy to use Calculator for Deepin
 dde-extra/deepin-clone 5.0.3: Deepin Disk and Partition Backup/Restore Tool
-dde-extra/deepin-compressor 5.8.0.7 5.10.0.3: Archive Manager for Deepin
+dde-extra/deepin-compressor 5.8.0.7 5.10.0.4: Archive Manager for Deepin
 dde-extra/deepin-devicemanager 5.6.0.13: Deepin Device Manager
 dde-extra/deepin-editor 1.2.9.1 5.9.0.17: Simple editor for Deepin
 dde-extra/deepin-font-installer 5.0.0: Install and Uninstall Font File for Users

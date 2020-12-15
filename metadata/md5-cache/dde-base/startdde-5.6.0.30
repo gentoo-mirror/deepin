@@ -10,5 +10,5 @@ RDEPEND=>=dde-base/dde-daemon-5.9.0 virtual/dde-wm >=dde-base/deepin-desktop-sch
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://github.com/linuxdeepin/startdde/archive/5.6.0.30.tar.gz -> startdde-5.6.0.30.tar.gz https://github.com/golang/net/archive/aaf60122140d3fcf75376d319f0554393160eb50.tar.gz -> github.com-golang-net-aaf60122140d3fcf75376d319f0554393160eb50.tar.gz https://github.com/golang/xerrors/archive/9bdfabe.tar.gz -> github.com-golang-xerrors-9bdfabe.tar.gz https://github.com/davecgh/go-spew/archive/87df7c6.tar.gz -> github.com-davecgh-go-spew-87df7c6.tar.gz https://github.com/cryptix/wav/archive/8bdace674401f0bd3b63c65479b6a6ff1f9d5e44.tar.gz -> github.com-cryptix-wav-8bdace674401f0bd3b63c65479b6a6ff1f9d5e44.tar.gz https://github.com/godbus/dbus/archive/e0a146e.tar.gz -> github.com-godbus-dbus-e0a146e.tar.gz https://github.com/fsnotify/fsnotify/archive/7f4cf4d.tar.gz -> github.com-fsnotify-fsnotify-7f4cf4d.tar.gz https://github.com/golang/sys/archive/cc9327a.tar.gz -> github.com-golang-sys-cc9327a.tar.gz
-_eclasses_=golang-base	c57d2c3f9e1a02d0feb8b87c7b689892	golang-vcs-snapshot	12177e83bede6f7fb87eae383864b40b
+_eclasses_=golang-base	c57d2c3f9e1a02d0feb8b87c7b689892	golang-vcs-snapshot	4a615ccf588f8bc48d956500949af39e
 _md5_=4886c442ead9dcefcf48b8c82f2d96de

@@ -22,7 +22,6 @@ dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
 dde-base/deepin-desktop-base 2019.07.10 2020.04.12: Base components for Deepin Desktop
 dde-base/deepin-desktop-schemas 3.13.9 5.8.0.32: GSettings deepin desktop-wide schemas
 dde-base/deepin-file-manager-backend 0.1.16-r1: Deepin file manager backend
-dde-base/deepin-gettext-tools 1.0.8: Deepin Internationalization utilities
 dde-base/deepin-gtk-theme 2020.06.10: Deepin GTK Theme
 dde-base/deepin-icon-theme 15.12.71 2020.09.25: Deepin Icons
 dde-base/deepin-menu 3.4.8 5.0.1: Deepin menu service for building beautiful menus
@@ -86,7 +85,6 @@ media-gfx/deepin-album 5.8.0.39: Deepin Photo Manager
 media-gfx/deepin-draw 5.8.0.75: Deepin Painting Tool
 media-gfx/deepin-image-viewer 1.3.18 5.6.3.69: Deepin Image Viewer
 media-gfx/deepin-screen-recorder 2.8.0 5.8.0.60: Deepin Screencasting and Screenshot Application
-media-gfx/deepin-screenshot 5.0.0: Snapshot tools for linux deepin.
 media-libs/cogl 1.22.5-r1: A library for using 3D graphics hardware to draw pretty pictures
 media-sound/deepin-music 3.1.18 6.0.1.91: Deepin Music Player
 media-sound/deepin-voice-recorder 5.0.0: Deepin Voice Recorder

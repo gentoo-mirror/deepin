@@ -9,5 +9,5 @@ LICENSE=GPL-3+
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://github.com/linuxdeepin/go-dbus-factory/archive/1.8.0.27.tar.gz -> go-dbus-factory-1.8.0.27.tar.gz https://github.com/golang/net/archive/aaf60122140d3fcf75376d319f0554393160eb50.tar.gz -> github.com-golang-net-aaf60122140d3fcf75376d319f0554393160eb50.tar.gz https://github.com/godbus/dbus/archive/e0a146e.tar.gz -> github.com-godbus-dbus-e0a146e.tar.gz https://github.com/fsnotify/fsnotify/archive/7f4cf4d.tar.gz -> github.com-fsnotify-fsnotify-7f4cf4d.tar.gz https://github.com/golang/sys/archive/cc9327a.tar.gz -> github.com-golang-sys-cc9327a.tar.gz
-_eclasses_=golang-base	c57d2c3f9e1a02d0feb8b87c7b689892	golang-vcs-snapshot	4a615ccf588f8bc48d956500949af39e
+_eclasses_=golang-base	027b7c82ab637d596b1a18ffcefa0ae4	golang-vcs-snapshot	00959bf58ac3a3f8faff481ad9c9cb5c
 _md5_=d0c74e3ba20296a8884b6e1d5607075b

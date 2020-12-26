@@ -8,15 +8,9 @@ dde-base/dde-clipboard 1.0.8 5.3.0.5: Deepin Clipboard
 dde-base/dde-control-center 5.0.0 5.3.0.68: Control Center of Deepin Desktop Environment
 dde-base/dde-daemon 5.0.0 5.12.0.25: Daemon handling the DDE session settings
 dde-base/dde-dock 5.0.0 5.3.0.49: Deepin desktop environment - Dock module
-dde-base/dde-file-manager 5.0.0-r1 5.2.0.82: Deepin File Manager and Desktop module for DDE
 dde-base/dde-launcher 5.0.0 5.3.0.34: Deepin desktop environment - Launcher module
 dde-base/dde-meta 15.11 20: Deepin Desktop Enviroment (meta package)
-dde-base/dde-network-utils 5.0.4 5.3.0.5: DDE Network Utils
-dde-base/dde-polkit-agent 5.0.0 5.0.8 5.3.0.3: PolicyKit agent for DDE
-dde-base/dde-qt-dbus-factory 5.0.1 5.3.0.20: A repository stores auto-generated Qt5 D-Bus code used by DDE
-dde-base/dde-qt5integration 5.0.0-r3 5.1.5: DDE system integration plugin for Qt5
 dde-base/dde-session-shell 5.3.0.41: Deepin desktop environment - Session Shell module
-dde-base/dde-session-ui 5.0.0 5.3.0.2 5.3.0.26: Deepin desktop environment - Session UI module
 dde-base/deepin-anything 0.1.0 5.0.1: Fast File Search Tool for DDE
 dde-base/deepin-artwork-themes 15.12.4: Deepin artwork themes
 dde-base/deepin-desktop-base 2019.07.10 2020.04.12: Base components for Deepin Desktop
@@ -25,29 +19,20 @@ dde-base/deepin-file-manager-backend 0.1.16-r1: Deepin file manager backend
 dde-base/deepin-gettext-tools 1.0.8: Deepin Internationalization utilities
 dde-base/deepin-gtk-theme 2020.06.10: Deepin GTK Theme
 dde-base/deepin-icon-theme 15.12.71 2020.09.25: Deepin Icons
-dde-base/deepin-menu 3.4.8 5.0.1: Deepin menu service for building beautiful menus
 dde-base/deepin-sound-theme 15.10.6: Deepin Sound themes
 dde-base/deepin-wallpapers 1.6.14: Deepin Wallpapers
-dde-base/dpa-ext-gnomekeyring 5.0.4: GNOME keyring extension for dde-polkit-agent
-dde-base/dtkcore 2.1.1 5.4.0: Base development tool of all C++/Qt Developer work on Deepin - Core modules
-dde-base/dtkgui 2.1.1 5.4.0: Deepin Toolkit - Gui modules for DDE look and feel
-dde-base/dtkwidget 2.1.1 5.2.2.11 5.4.1: Base development tool of all C++/Qt Developer work on Deepin - Widget modules
-dde-base/dtkwm 2.0.11-r1 2.0.12-r1: Deepin graphical user interface library
 dde-base/startdde 5.0.1 5.6.0.30: starter of Deepin Desktop Environment
-dde-base/udisks2-qt5 5.0.0 5.0.5: UDisks2 DBus interfaces binding of Qt5
 dde-extra/dde-calendar 1.2.11 5.8.0.1: Calendar for Deepin Desktop Environment
 dde-extra/dde-file-manager-integration 9999: Extra plugins for dde-file-manager
 dde-extra/dde-introduction 1.1.10 5.5.44 5.6.0.2: Deepin Initialization Setup Tool
 dde-extra/dde-meta-apps 15.11 20: Deepin Extra Applications (meta package)
 dde-extra/dde-meta-multimedia 0.2-r1: Deepin Multimedia Softwares (meta package)
-dde-extra/dde-printer 0.7.7: Deepin Printer Manager
 dde-extra/deepin-boot-maker 5.0.1 5.4.8.3: A Tool to create a bootable usb stick quick and easy
 dde-extra/deepin-calculator 5.0.1 5.7.0.2: An easy to use Calculator for Deepin
 dde-extra/deepin-clone 5.0.3: Deepin Disk and Partition Backup/Restore Tool
 dde-extra/deepin-compressor 5.8.0.7 5.10.0.7: Archive Manager for Deepin
 dde-extra/deepin-devicemanager 5.6.0.17: Deepin Device Manager
 dde-extra/deepin-editor 1.2.9.1 5.9.0.22: Simple editor for Deepin
-dde-extra/deepin-font-installer 5.0.0: Install and Uninstall Font File for Users
 dde-extra/deepin-font-manager 5.8.0.9: Install and Uninstall Font File for Users
 dde-extra/deepin-grub2-themes 1.0.0: Deepin theme for GRUB2
 dde-extra/deepin-log-viewer 5.8.0.29: Deepin Log Viewer
@@ -71,13 +56,9 @@ dev-go/go-dbus-generator 0.6.6-r1: Convert D-Bus interfaces to go-lang or qml wr
 dev-go/go-gir-generator 2.0.2-r1: Generate static golang bindings for GObject
 dev-go/go-x11-client 0.4.1 0.6.3: Deepin GoLang X11 client Library
 dev-libs/dde-wayland 1.0.0: DDE wayland client and server with DDE custom protocol
-dev-libs/disomaster 5.0.5: A libisoburn wrapper class for Qt.
 dev-libs/granite 5.2.1: Elementary OS library that extends Gtk+
-dev-qt/dde-qt5platform-plugins 5.0.21: XCB Qt5 platform plugin for DDE
 dev-qt/gio-qt 0.0.9: Qt wrapper library of Gio
 dev-qt/qcef 1.1.8: Qt5 binding of Chromium Embedded Framework
-dev-qt/qt5dxcb-plugin 5.0.1 5.0.11: XCB Qt5 platform plugin for DDE
-dev-qt/qtstyleplugins 20170311-r1: Additional style plugins for Qt
 dev-qt/qtxcb-private-headers 5.14.2 5.15.1 5.15.2: The Private Headers for the Qt5 Xcb
 mail-client/deepin-wine-foxmail 7.2.3: Foxmail mail client for Linux by Deepin
 media-gfx/blur-effect 1.1.3: Off-screen image blurring utility using OpenGL ES 3.0

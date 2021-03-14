@@ -1,0 +1,12 @@
+BDEPEND=>=dev-lang/go-1.10
+DEFINED_PHASES=install prepare unpack
+DESCRIPTION=Deepin GoLang Library
+EAPI=7
+HOMEPAGE=https://github.com/linuxdeepin/go-lib
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3+
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/linuxdeepin/go-lib/archive/5.7.0.tar.gz -> deepin-go-lib-5.7.0.tar.gz
+_eclasses_=golang-base	904cd4c642d6923795b9bd99b6fe0e74	golang-vcs-snapshot	b9726cec9cc93f8884b4634e4ddacdec
+_md5_=0f4bb0701e7dcde03c36b62c4dd8f6d1

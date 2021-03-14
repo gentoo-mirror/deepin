@@ -1,3 +1,6 @@
+app-accessibility/onboard 1.4.1.7: An onscreen keyboard useful for tablet PC users and for mobility impaired users
+app-emulation/deepin-wine 2.18.23_rc1: Deepin Version of Wine
+app-emulation/deepin-wine-helper 5.0.4: Deepin Version of Wine
 dde-base/dde-account-faces 1.0.12: Deepin Account face Images
 dde-base/dde-api 5.0.0 5.4.2: Go-lang bingdings for dde-daemon
 dde-base/dde-clipboard 1.0.8 5.3.11: Deepin Clipboard
@@ -86,11 +89,14 @@ media-libs/cogl 1.22.5-r1: A library for using 3D graphics hardware to draw pret
 media-sound/deepin-music 3.1.18 6.0.1.91: Deepin Music Player
 media-sound/deepin-voice-recorder 5.0.0: Deepin Voice Recorder
 media-video/deepin-movie-reborn 3.2.24.3 5.7.6.165: Deepin Movie Player
+net-im/deepin-wine-QQ 9.1.8.0: Tencent QQ for Linux by Deepin
+net-im/deepin-wine-wechat 2.6.8.65.0: Tencent WeChat for Linux by Deepin
 sys-apps/lshw 02.19.2b: Hardware Lister
 virtual/dde-wm 0: Virtual for DDE Window Manager
 x11-apps/xcur2png 0.7.1: Convert X cursors to PNG images
 x11-libs/bamf 0.5.4-r1: BAMF Application Matching Framework
 x11-libs/gsettings-qt 0.2: Qml bindings for GSettings.
 x11-wm/dde-kwin 5.2.0.13: KWin configures on DDE
+x11-wm/deepin-metacity 3.22.24: Legacy window manager for Deepin
 x11-wm/deepin-mutter 3.20.38-r2: Deepin fork version of mutter
 x11-wm/deepin-wm 1.9.38-r1: Deepin Window Manager

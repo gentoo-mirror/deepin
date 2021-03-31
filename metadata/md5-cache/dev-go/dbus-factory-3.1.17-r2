@@ -1,0 +1,15 @@
+BDEPEND=>=dev-lang/go-1.10
+DEFINED_PHASES=prepare
+DEPEND=dev-lang/go dev-libs/libxml2 app-misc/jq dev-go/go-dbus-generator
+DESCRIPTION=D-Bus library binding for golang
+EAPI=7
+HOMEPAGE=https://github.com/linuxdeepin/dbus-factory
+INHERIT=golang-base
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3+
+RDEPEND=dev-go/deepin-go-lib
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/linuxdeepin/dbus-factory/archive/3.1.17.tar.gz -> dbus-factory-3.1.17.tar.gz
+_eclasses_=golang-base	b8fb27dacacea08140c53857f439fc7d
+_md5_=8ee343106bf3074b5283943f453f49b0

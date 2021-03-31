@@ -3,11 +3,12 @@ DEPEND=dev-qt/qtmultimedia:5[gstreamer] dev-libs/icu dev-qt/qtsvg:5 dev-qt/qtcon
 DESCRIPTION=Deepin Music Player
 EAPI=7
 HOMEPAGE=https://github.com/linuxdeepin/deepin-music
+INHERIT=qmake-utils
 IUSE=+mp3 +flac +ogg +aac
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3+
 RDEPEND=dev-qt/qtmultimedia:5[gstreamer] dev-libs/icu dev-qt/qtsvg:5 dev-qt/qtconcurrent:5 >dde-base/deepin-menu-2.90.1 sys-devel/bison media-libs/libcue media-video/ffmpeg >=media-libs/taglib-1.10 media-plugins/gst-plugins-meta:1.0[mp3=,flac=,ogg=,aac=]
 SLOT=3
 SRC_URI=https://github.com/linuxdeepin/deepin-music/archive/3.1.18.tar.gz -> deepin-music-3.1.18.tar.gz
-_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	qmake-utils	dc74fe3891abc25e80dad5cd3d7c6e47	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	qmake-utils	dc74fe3891abc25e80dad5cd3d7c6e47
 _md5_=31394bece1dde8c3c9a8052bca86820f

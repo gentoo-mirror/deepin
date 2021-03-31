@@ -3,10 +3,11 @@ DEPEND=dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtwidgets:5 dev-qt/qtdbus:5 dev-qt/
 DESCRIPTION=XCB Qt5 platform plugin for DDE
 EAPI=7
 HOMEPAGE=https://github.com/linuxdeepin/qt5dxcb-plugin
+INHERIT=qmake-utils
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtwidgets:5 dev-qt/qtdbus:5 dev-qt/qtx11extras:5 dev-qt/qtmultimedia:5[widgets] dev-qt/qtsvg:5 dev-qt/qtopengl dev-qt/qtxcb-private-headers:5= x11-libs/libxcb[xkb] x11-libs/xcb-util-renderutil x11-libs/xcb-util-image x11-libs/xcb-util-wm x11-libs/xcb-util-keysyms !<=dde-base/dde-qt5integration-0.2.7
 SLOT=0
 SRC_URI=https://github.com/linuxdeepin/qt5dxcb-plugin/archive/5.0.11.tar.gz -> qt5dxcb-plugin-5.0.11.tar.gz
-_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	qmake-utils	dc74fe3891abc25e80dad5cd3d7c6e47	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	qmake-utils	dc74fe3891abc25e80dad5cd3d7c6e47
 _md5_=8118cecdc7b4f4844c75452a07d56709

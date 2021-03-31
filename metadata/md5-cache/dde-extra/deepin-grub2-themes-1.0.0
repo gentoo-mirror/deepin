@@ -2,6 +2,7 @@ DEFINED_PHASES=compile configure install postinst postrm preinst prepare prerm p
 DESCRIPTION=Deepin theme for GRUB2
 EAPI=7
 HOMEPAGE=https://github.com/linuxdeepin/deepin-grub2-themes
+INHERIT=mount-boot
 KEYWORDS=~amd64 ~x86
 LICENSE=CC-BY-SA-4.0
 SLOT=0

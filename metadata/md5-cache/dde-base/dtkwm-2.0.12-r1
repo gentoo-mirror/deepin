@@ -9,5 +9,5 @@ LICENSE=GPL-3
 RDEPEND=dev-qt/qtmultimedia:5[widgets] dev-qt/qtdbus:5 dev-qt/qtgui:5 dev-qt/qtnetwork:5 dev-qt/qtwidgets:5 dev-qt/qtx11extras:5 >=dev-qt/qtcore-5.5:5 x11-libs/libXrender x11-libs/libxcb x11-libs/libXext x11-libs/xcb-util x11-base/xorg-proto media-libs/fontconfig media-libs/freetype sys-libs/mtdev media-libs/mesa virtual/libudev dev-libs/glib
 SLOT=0/2.0.12
 SRC_URI=https://github.com/linuxdeepin/dtkwm/archive/2.0.12.tar.gz -> dtkwm-2.0.12.tar.gz
-_eclasses_=toolchain-funcs	e867df3870e8ff04a5b94f925be8b06a	multilib	f8d35c2432bb32c4f1e779c4287b31ec	qmake-utils	dc74fe3891abc25e80dad5cd3d7c6e47
+_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	qmake-utils	dc74fe3891abc25e80dad5cd3d7c6e47
 _md5_=201ed8dbab5a86ae077a4ed3f219b557

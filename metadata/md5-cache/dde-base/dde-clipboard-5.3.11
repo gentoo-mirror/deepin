@@ -9,5 +9,5 @@ LICENSE=GPL-3
 RDEPEND=dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 dev-qt/qtdbus:5 dev-qt/qtsvg:5 dde-base/dde-network-utils sys-libs/mtdev x11-libs/libXrandr media-libs/fontconfig media-libs/freetype dev-qt/gio-qt media-libs/libglvnd x11-libs/xcb-util-wm kde-frameworks/networkmanager-qt x11-libs/libX11 >=dde-base/dde-daemon-5.9.0 >=dde-base/dde-api-5.1.1 dde-base/deepin-desktop-base
 SLOT=0
 SRC_URI=https://github.com/linuxdeepin/dde-clipboard/archive/5.3.11.tar.gz -> dde-clipboard-5.3.11.tar.gz
-_eclasses_=toolchain-funcs	e867df3870e8ff04a5b94f925be8b06a	multilib	f8d35c2432bb32c4f1e779c4287b31ec	qmake-utils	dc74fe3891abc25e80dad5cd3d7c6e47
+_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	qmake-utils	dc74fe3891abc25e80dad5cd3d7c6e47
 _md5_=96d27f10736fbb4f6aa3543f4b912ccc

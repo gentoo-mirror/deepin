@@ -10,5 +10,5 @@ LICENSE=GPL-3+
 RDEPEND=dev-qt/qtmultimedia:5[gstreamer] dev-libs/icu dev-qt/qtsvg:5 dev-qt/qtconcurrent:5 >dde-base/deepin-menu-2.90.1 sys-devel/bison media-libs/libcue media-video/ffmpeg >=media-libs/taglib-1.10 media-plugins/gst-plugins-meta:1.0[mp3=,flac=,ogg=,aac=]
 SLOT=3
 SRC_URI=https://github.com/linuxdeepin/deepin-music/archive/3.1.18.tar.gz -> deepin-music-3.1.18.tar.gz
-_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	qmake-utils	8d97008fa49744cf997d627ec6f9cd30
+_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	qmake-utils	f5eb2f69fffe94292aaaf802fb21c8d1
 _md5_=31394bece1dde8c3c9a8052bca86820f
